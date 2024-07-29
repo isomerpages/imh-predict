@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    url: /contact-us/
-  - title: Resources
-    url: /example-page/
-  - title: About
     collection: about
+  - title: Express Interest
+    collection: recruitment
+  - title: Resources
+    collection: resources
+  - title: FAQ
+    collection: faq
