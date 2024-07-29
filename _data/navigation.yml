@@ -4,5 +4,5 @@ links:
     url: /contact-us/
   - title: Resources
     url: /example-page/
-  - title: FAQ
-    collection: example-folder
+  - title: About
+    collection: about
