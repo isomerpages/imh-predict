@@ -34,7 +34,7 @@ sections:
       subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Launch of PREDICT Study
-          date: 26 July 2024
+          date: 09 September 2024
           announcement: Press release on the commencement of the PREDICT study.
           link_text: ""
           link_url: ""
