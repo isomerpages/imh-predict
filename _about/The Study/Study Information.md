@@ -48,10 +48,92 @@ with good or poor prognoses among those with depression and subsyndromal
 depression in Singapore.</p>
 <h2>Study Themes</h2>
 <h3>Theme 1</h3>
+<p>In the Netherlands Study of Depression and Anxiety (NESDA) study, Prins
+et al. (2011) found that patients with anxiety or depressive disorders
+receiving either guideline-concordant or non-guideline-concordant treatment
+improved equally over a one-year period. However, the long-term course
+of depressive disorders using 6-year follow-up data showed that chronicity
+is the rule rather than the exception (Verduijn, et al. 2017). Furthermore,
+patients who were older, unemployed, with intermediate education, with
+poor social networks, comorbid anxiety, and depression, and had more severe
+symptoms at baseline were more likely to retain a moderate/high symptom
+level at follow-up. Longitudinal studies are valuable for identifying vulnerable
+patient sub-groups and informing appropriate interventions.&nbsp;</p>
+<p>Having a well-established cohort also allows for nested studies to be
+designed, implemented and to evaluate relevant interventions. Extended
+periods of follow-up provide a more accurate and nuanced account of disease
+trajectory and prognosis.&nbsp;</p>
+<p>Given the high risk of recurrence, durable prevention and mitigation strategies
+are needed. Identifying patient segments at an increased risk of recurrence
+is essential for a population health strategy. In the Healthier SG movement
+context, the proposed longitudinal study is anticipated to inform the development
+of clinical interventions, social prescriptions, and care protocols for
+depression. When offered in a timely manner, these interventions will improve
+the quality of life for patients and carers, guide resource planning and
+optimize healthcare utilisation.</p>
 <p></p>
 <h3>Theme 2</h3>
+<p>With the Healthier SG initiative, there is an effort to empower healthcare
+professionals in primary care with the capabilities to manage anxiety and
+depression. Mental health primary care protocols for these conditions are
+expected to be launched in the coming years. Concurrently, the Ministry
+of Health and the Interagency Taskforce on Mental Health and Well-being
+(TMW) are developing a tiered system of services to improve accessibility,
+coordination, and quality of mental health services. The Healthier SG initiatives
+and the tiered system of services will result in the identification of
+more mild and moderate cases of depression and their management in the
+primary care setting. Therefore, the proposed study is timely in that it
+will generate insights to inform the development and iteration of these
+new care models in Singapore.</p>
+<p>The proposed study will evaluate the prognosis of depression across the
+entire continuum of care, recruiting cases from primary and tertiary care
+settings and, across different age groups. This study will thus be able
+to track the right siting of care, trajectories of care, and outcomes across
+settings and age groups. For participants agreeable to data linkage, data
+from medical records will also be captured across primary, secondary, and
+tertiary care settings.</p>
 <p></p>
 <h3>Theme 3</h3>
+<p>The study will include assessments of several psychosocial factors that
+have been shown to influence the development and course of depression.
+Using a machine learning approach, Wardenaar et al. (2021) examined the
+common and specific determinants of the 9-year trajectory of depression
+in their cohort. The most significant determinants were age, younger age
+of onset, mastery (of goals), loneliness, visiting a mental health institute,
+substance use, somatic disease, extraversion, and functioning score. The
+determinants of depression have not been well studied in Singapore.</p>
+<p>Furthermore, given our multi-ethnic population and diverse socio-cultural
+backgrounds, there is likely to be a plurality of bio-psycho-social determinants
+that results in depression amongst Singaporeans. Therefore, it is imperative
+that research be conducted to elucidate these determinants, which will
+contribute to holistic strategies to address depression in Singapore.&nbsp;</p>
+<p>There is increasing recognition that patients with depression die prematurely
+due to chronic medical disorders such as cardiovascular disease, diabetes,
+and cancer (Chang et al., 2010; Olaya et al., 2023). Those with depression
+develop these illnesses at an earlier age due to both maladaptive health
+risk behaviors as well as the physiologic effects of their psychiatric
+illnesses. There is also evidence that the distress, symptom burden, functional
+impairment, and physiologic changes associated with chronic medical conditions
+may worsen the course of depression. Multiple factors have been suggested
+that can mediate the adverse effect of comorbid depression on cardio-metabolic
+disorders. This proposed study will therefore conduct routine assays for
+metabolic functions – such as blood glucose and lipid assays, kidney and
+liver function tests, and haematocrit to examine the development of medical
+comorbidity and its impact on depression.</p>
 <p></p>
 <h3>Theme 4</h3>
-<p></p>
+<p>Subsyndromal depression or SD is defined as the presence of clinically
+relevant levels of depressive symptoms without meeting the diagnostic criteria
+for MDD as established by the Diagnostic and Statistical Manual 4th Edition
+(DSM-IV) (Ebert et al., 2018). SD has a marked adverse impact on quality
+of life; it causes functional impairment and is associated with significant
+utilisation of healthcare services (Subramaniam et al., 2016). It is also
+a strong risk factor for developing MDD (Cuijpers et al., 2004, Zhang et
+al., 2022). A recent meta-analysis estimated the summary prevalence of
+SD across 113 studies from multiple countries to be 11.02% (Zhang et al.,
+2022). The prevalence of SD in Singapore is unknown, but it is anticipated
+to be higher than MDD. Therefore, SD represents a valuable opportunity
+to intervene and prevent the progression toward MDD. The proposed study
+cohort could provide insights into the prevalence, and course of SD and
+potential preventive interventions in this cohort to prevent the onset
+of depression.</p>
