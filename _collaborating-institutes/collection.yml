@@ -1,0 +1,4 @@
+collections:
+  collaborating-institutes:
+    output: true
+    order: []
