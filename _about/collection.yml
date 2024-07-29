@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Study Team.md
-      - The Study/Study Information.md
-      - The Study/.keep
+      - Study Information/Study Information.md
+      - Study Information/.keep
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
