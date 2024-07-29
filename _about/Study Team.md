@@ -30,7 +30,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Investigator  4</strong>
+<p><strong>Co-Investigator 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,11 +40,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 6 </strong>
+<p><strong>Co-Investigator 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 7 </strong>
+<p><strong>Co-Investigator 7</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
