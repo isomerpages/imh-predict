@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - The Study/Study Team.md
       - The Study/Study Information.md
       - The Study/.keep
       - folder-page.md
