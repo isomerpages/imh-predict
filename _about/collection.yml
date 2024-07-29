@@ -4,7 +4,6 @@ collections:
     order:
       - Study Information.md
       - Study Team.md
-      - Study Information/.keep
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
