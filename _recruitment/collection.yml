@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Inclusion Criteria.md
-      - Study Information.md
+      - Study Methodology.md
