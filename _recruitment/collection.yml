@@ -1,4 +1,5 @@
 collections:
   recruitment:
     output: true
-    order: []
+    order:
+      - Study Information.md
