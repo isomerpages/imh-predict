@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    collection: resources
+    collection: about
   - title: Express Interest
     collection: recruitment
   - title: Resources
