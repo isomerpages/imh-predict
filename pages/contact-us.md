@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6389 2579
       - email: imhresearch@imh.com.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6389 3620
