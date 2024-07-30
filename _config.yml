@@ -52,4 +52,4 @@ plugins:
 staging: https://staging-lite.d2pbfp83ad6pg3.amplifyapp.com
 prod: https://master.d15invg1m5z48.amplifyapp.com
 facebook-pixel: ""
-resources_name: team-members
+resources_name: resource-room
