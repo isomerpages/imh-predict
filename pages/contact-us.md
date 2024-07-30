@@ -2,31 +2,38 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: IMH Research
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 10 Buangkok View
+      - Institute of Mental Health, Block 7
+      - Singapore 539747
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 9.00am - 5.00pm
+        description: "Closed on: Sat - Sun and Public Holidays"
+    maps_link: https://maps.app.goo.gl/9fgGJyEsAhjjCCdw5
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6389 2579
+      - email: imhresearch@imh.com.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6389 3620
+      - email: saleha_shafie@imh.com.sg
+      - other: ""
+    title: Saleha Shafie
+  - content:
+      - phone: +65 6389 2579
+      - email: anitha_jeyagurunathan@imh.com.sg
+      - other: ""
+    title: Anitha Jeyagurunathan
+  - content:
+      - phone: +65 6389 2960
+      - email: yunjue_zhang@imh.com.sg
+      - other: ""
+    title: Zhang Yunjue (Carol)
+feedback: ""
 ---
