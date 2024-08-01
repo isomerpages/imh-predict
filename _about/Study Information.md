@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1>Study Information</h1>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Study Background Information</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h2>Study Background Information</h2>
 <p>Globally, depression affects approximately 4% of the population annually,
 with about 280 million people affected 1 . The COVID-19 pandemic has worsened
@@ -40,6 +44,10 @@ School, Usher Institution-The University of Edinburgh, and the Netherlands
 Study of Depression and Anxiety (NESDA) Cohort are collaborating to establish
 a well-characterized depression cohort in Singapore to ensure a comprehensive
 understanding of depressive disorders over a five-year period.</p>
+</div>
+</details>
+</div>
+<h2></h2>
 <h2>Study Goals</h2>
 <p>This cohort study aims to gain a deeper understanding of determinants,
 disease progression, disease outcomes, and early identification of subgroups
