@@ -23,11 +23,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: About PREDICT
+      description: A longitudinal cohort study on depression
+      button: Continue reading
+      url: /about/study-information
   - announcements:
       title: Latest News
       id: announcements
