@@ -48,7 +48,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 8</strong>
+<p><strong>Co-Investigator 9</strong>
 </p>
 </td>
 </tr>
