@@ -4,6 +4,9 @@ permalink: /study-team/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero banner (test)/DSC1012.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -54,10 +57,18 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Test Item 1</strong>
-</p>
 <p></p>
+<p>Carol Zhang</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC1011.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile card (test)/DSC1011.jpg">
 </div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas laoreet
+fringilla. Fusce posuere at orci id faucibus. Donec ex dui, aliquet lacinia
+lacus eget, elementum gravida ligula. Donec venenatis egestas eleifend.
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Nunc efficitur suscipit ipsum, placerat varius quam porttitor
+et. Donec laoreet odio ac volutpat placerat. Phasellus egestas leo non
+libero rhoncus sodales. Aenean at suscipit velit. Ut elementum augue in
+neque fermentum, id sollicitudin felis egestas. Pellentesque non lectus
+venenatis, cursus ex et, vestibulum quam.</p>
 <p></p>
