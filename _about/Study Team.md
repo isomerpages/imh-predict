@@ -25,7 +25,7 @@ description: ""
 <p><strong>Carol Zhang</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile card (test)/DSC1011.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile card (test)/DSC1008.jpg">
 </div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas laoreet
 fringilla. Fusce posuere at orci id faucibus. Donec ex dui, aliquet lacinia
