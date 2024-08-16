@@ -7,56 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero banner (test)/DSC1012.jpg">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Principal Investigator</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Investigator 1</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Co-Investigator 2</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 7</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Co-Investigator 9</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Co-Investigators</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Profile card (test)/DSC1011.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Carol Zhang</div><div class="isomer-card-description">Carol is a researcher at the Institute of Mental Health.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
