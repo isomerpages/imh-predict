@@ -58,7 +58,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>Carol Zhang</p>
+<h4><strong>Carol Zhang</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile card (test)/DSC1011.jpg">
 </div>
