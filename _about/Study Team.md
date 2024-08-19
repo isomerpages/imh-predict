@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Principal Investigator</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero banner (test)/DSC1012.jpg">
-</div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal Investigator: A/Prof Mythily Subramaniam" src="/images/Portraits/Mythily/DSC1431.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Mythily Subramaniam</div><div class="isomer-card-description">A/Prof Mythily is the Assistant Chairman Medical Board (Research) at the Institute of Mental Health (IMH).</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h3><strong>Co-Investigators</strong></h3>
