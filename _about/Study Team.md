@@ -9,8 +9,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/DSC1461.jpg">
 </div>
 <h3><strong>Principal Investigator</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Principal Investigator: A/Prof Mythily Subramaniam" src="/images/Portraits/Mythily/DSC1431.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Mythily Subramaniam</div><div class="isomer-card-description">A/Prof Mythily is the Assistant Chairman Medical Board (Research) at the Institute of Mental Health (IMH).</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<h4>A/Prof Mythily Subramaniam</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Mythily/DSC1431.jpg">
 </div>
+<p>A/Prof Mythily is the Assistant Chairman Medical Board (Research) at the
+Institute of Mental Health.</p>
 <h3><strong>Co-Investigators</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Co-Investigator: Anitha Jeyagurunathan" src="/images/Portraits/Anitha/DSC1485.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anitha Jeyagurunathan</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
