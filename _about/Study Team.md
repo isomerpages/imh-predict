@@ -11,7 +11,7 @@ description: ""
 <h3><strong>Principal Investigator</strong></h3>
 <h4>A/Prof Mythily Subramaniam</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%" height="20%" width="40%" alt="" src="/images/Portraits/Mythily/DSC1431.jpg">
+<img style="width: 40%" height="20%" width="40%" alt="" src="/images/Portraits/Mythily/DSC1431_small.jpg">
 </div>
 <p>A/Prof Mythily is the Assistant Chairman Medical Board (Research) at the
 Institute of Mental Health.</p>
