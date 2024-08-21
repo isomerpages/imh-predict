@@ -13,8 +13,8 @@ variant: tiptap
 </div>
 <p><strong>Dr Edimansyah Abdin</strong> 
 <br>Principal Biostatistician, Research Division, Institute of Mental Health</p>
-<p><strong>Dr Edimansyah Abdin</strong> Edimansyah Abdin is a principal biostatistician
-at the research division, Institute of Mental Health, Singapore. He joined
+<p><strong>Dr Edimansyah Abdin</strong> is a principal biostatistician at
+the research division, Institute of Mental Health, Singapore. He joined
 IMH in 2008 after he earned his PhD from University Sains Malaysia. He
 has been providing statistical support to the department including study
 design, sample size calculation, perform statistical analyses for nationwide
