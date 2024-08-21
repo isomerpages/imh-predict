@@ -26,7 +26,7 @@ sections:
       title: About PREDICT
       description: A longitudinal cohort study on depression
       button: Continue reading
-      url: /about/study-information
+      url: /study-information/
   - announcements:
       title: Latest News
       id: announcements
