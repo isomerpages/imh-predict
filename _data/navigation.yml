@@ -8,6 +8,5 @@ links:
     collection: resources
   - title: FAQ
     collection: faq
-  - title: Contact US
+  - title: Contact Us
     url: /contact-us
-    sublinks: []
