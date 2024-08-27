@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Procedures</h2>
 <h2></h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Stock photos/Recruitment/DSC1753.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recruitment</div><div class="isomer-card-description">Screening for eligibility.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/recruitment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Stock photos/Recruitment/DSC1753.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recruitment</div><div class="isomer-card-description">Screening for eligibility.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
