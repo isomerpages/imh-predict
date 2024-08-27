@@ -34,6 +34,6 @@ contacts:
       - phone: +65 6389 2960
       - email: yunjue_zhang@imh.com.sg
       - other: ""
-    title: Zhang Yunjue (Carol)
+    title: Carol Zhang
 feedback: ""
 ---
