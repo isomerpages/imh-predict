@@ -1,5 +1,5 @@
 collections:
-  recruitment:
+  express-interest:
     output: true
     order:
       - Inclusion Criteria.md
