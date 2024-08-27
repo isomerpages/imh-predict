@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Stock photos/Recruitment/DSC1729.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Stock photos/ICF/DSC1586.jpg">
 </div>
 <p><strong>Consent Taking</strong>
 </p>
