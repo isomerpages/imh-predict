@@ -8,6 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Stock photos/Interview/DSC1597.jpg">
+</div>
 <p><strong>Survey: Sociodemographic Information</strong>
 </p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mollis,
