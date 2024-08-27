@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p><strong>Survey Sociodemographic Information</strong>
+<p><strong>Survey: Sociodemographic Information</strong>
 </p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mollis,
 dui a scelerisque ultricies, neque augue molestie dui, a scelerisque orci
