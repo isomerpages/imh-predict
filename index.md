@@ -9,7 +9,7 @@ sections:
   - hero:
       title: PREDICT
       subtitle: Preventing Depression Through Research
-      background: /images/Stock photos/Blood pressure/DSC1714.jpg
+      background: /images/Stock photos/Interview/DSC1605.jpg
       button: Join Us!
       url: /contact-us/
       key_highlights:
