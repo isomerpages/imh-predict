@@ -56,7 +56,7 @@ depression in Singapore.</p>
 <h2>Study Themes</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_2.png">
 </div>
 <h3>Theme 1</h3>
 <p>In the Netherlands Study of Depression and Anxiety (NESDA) study, Prins
