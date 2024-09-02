@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_9.png">
 </div>
 <h2>Procedures</h2>
 <h2></h2>
