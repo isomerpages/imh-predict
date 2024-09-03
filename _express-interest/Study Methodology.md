@@ -4,13 +4,10 @@ permalink: /study-methodology/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_9.png">
 </div>
 <h2>Procedures</h2>
-<h2></h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/recruitment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Stock photos/Recruitment/DSC1753.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Recruitment</div><div class="isomer-card-description">Screening for eligibility.</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/consent-taking/" class="isomer-card">
 <div class="isomer-card-image">
