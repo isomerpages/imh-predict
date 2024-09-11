@@ -1,21 +1,21 @@
-title: Title
-url: ""
+title: PREDICT
+url: https://predict-imhresearch.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#243665"
+  secondary-color: "#8bd8bd"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f2b705"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#d0021b"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Preventing Depression Through Research
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +53,7 @@ staging: https://staging-lite.d2pbfp83ad6pg3.amplifyapp.com
 prod: https://master.d15invg1m5z48.amplifyapp.com
 facebook-pixel: ""
 resources_name: archive-chamber
+shareicon: /images/2.png
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
