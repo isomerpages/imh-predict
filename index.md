@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: PREDICT
-      subtitle: Preventing Depression Through Research
+      title: ""
+      subtitle: ""
       background: /images/Stock photos/Interview/DSC1605.jpg
       button: Join Us!
       url: /contact-us/
