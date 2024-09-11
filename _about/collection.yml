@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Study Team.md
-      - Study Team/Janhavi Vaingankar.md
-      - Study Team/Mythily Subramaniam.md
       - Study Team/.keep
+      - Study Team/Mythily Subramaniam.md
+      - Study Team/Janhavi Vaingankar.md
       - Study Collaborators.md
       - Study Information.md
