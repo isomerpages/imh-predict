@@ -2,8 +2,8 @@ title: PREDICT
 url: https://predict-imhresearch.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#243665"
-  secondary-color: "#8bd8bd"
+  primary-color: "#8bd8bd"
+  secondary-color: "#243665"
   media-colors:
     - title: media-color-one
       color: "#f2b705"
