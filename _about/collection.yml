@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Study Team.md
-      - Study Team F/.keep
+      - Study Team/.keep
       - Study Collaborators.md
       - Study Information.md
