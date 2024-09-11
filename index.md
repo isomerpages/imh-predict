@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ""
-      subtitle: ""
-      background: /images/Stock photos/Interview/DSC1605.jpg
-      button: Join Us!
+      background: /images/2_Long.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
