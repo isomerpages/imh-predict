@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Study Team.md
+      - Study Team/Dr Edimansyah Abdin.md
       - Study Team/.keep
       - Study Team/Mythily Subramaniam.md
       - Study Team/Janhavi Vaingankar.md
