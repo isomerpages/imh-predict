@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2_Long.png
+      background: /images/2__Big.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
