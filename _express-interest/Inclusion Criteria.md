@@ -4,26 +4,33 @@ permalink: /inclusion-criteria/
 variant: tiptap
 description: ""
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Subsyndromal Depression</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Recruitment_Poster_Control_and_SD_v1_1_8Aug24_Clean.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Icons/stethoscope_medical_tool.svg">
 </div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Depression</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Recruitment_Poster_Depression_v1_1_8_Aug_2024_Clean.png">
-</div>
-</div>
-</details>
-</div>
+<p><strong><u>Subsyndromal Depression</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Presence of three or more symptoms of depression
+<br>BUT</p>
+</li>
+<li>
+<p>Not having major depression</p>
+</li>
+</ul>
+<p><strong><u>Depression</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Had first episode of depression (within one year of diagnosis)
+<br>OR</p>
+</li>
+<li>
+<p>History of one year or more of diagnosed depression</p>
+</li>
+<li>
+<p>Been receiving care from IMH or NHG Polyclinic</p>
+</li>
+</ul>
 <p></p>
