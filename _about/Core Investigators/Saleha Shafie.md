@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 338.125px;" height="auto" width="100%" alt="" src="https://staging.d15invg1m5z48.amplifyapp.com/images/Portraits/Saleha/DSC1498.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide8.jpg">
 </div>
-<p><strong>Saleha Shafie<br></strong>Manager, Research Division, Institute
-of Mental Health</p>
 <p><strong>Saleha Shafie</strong> is a Manager at the Research Division of
 IMH. She has a bachelor’s degree in psychology. She has experience in fieldwork
 of different nationwide epidemiological studies in mental health for over
