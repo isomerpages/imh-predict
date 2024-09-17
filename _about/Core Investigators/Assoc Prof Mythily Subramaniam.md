@@ -5,14 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Portraits/Mythily/DSC1431_small.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide2.jpg">
 </div>
-<p><strong>Associate Professor Mythily Subramaniam</strong>
-<br>Assistant Chairman Medical Board (Research), Institute of Mental Health
-<br>Consultant, Ministry of Health, Singapore
-<br>Associate Professor, Saw Swee Hock School of Public Health, NUS</p>
+<p></p>
 <p><strong>Assoc Prof. Mythily Subramaniam </strong>is currently Assistant
 Chairman Medical Board (Research) and Lead Investigator of the Programme
 of Mental Health Policy Studies at the Institute of Mental Health (IMH).
