@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 338.125px;" height="auto" width="100%" alt="" src="https://staging.d15invg1m5z48.amplifyapp.com/images/Portraits/Carol/DSC1011.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide7.jpg">
 </div>
-<p><strong>Carol Zhang<br></strong>Manager, Research Division</p>
 <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis
 ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida
 sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur
