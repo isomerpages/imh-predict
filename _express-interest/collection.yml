@@ -2,5 +2,6 @@ collections:
   express-interest:
     output: true
     order:
+      - Study Procedures.md
       - Study Procedures/.keep
       - Inclusion Criteria.md
