@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 338.125px;" height="auto" width="100%" alt="" src="https://staging.d15invg1m5z48.amplifyapp.com/images/Portraits/Edi/DSC1479.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide4.jpg">
 </div>
-<p><strong>Dr Edimansyah Abdin</strong>
-<br>Principal Biostatistician, Research Division, Institute of Mental Health</p>
 <p><strong>Dr Edimansyah Abdin</strong> is a principal biostatistician at
 the research division, Institute of Mental Health, Singapore. He joined
 IMH in 2008 after he earned his PhD from University Sains Malaysia. He
