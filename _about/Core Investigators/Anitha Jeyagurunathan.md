@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 338.125px;" height="auto" width="100%" alt="" src="https://staging.d15invg1m5z48.amplifyapp.com/images/Portraits/Anitha/DSC1485_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide5.jpg">
 </div>
-<p><strong>Anitha Jeyagurunathan<br></strong>Principal Research Officer,
-Institute of Mental Health</p>
 <p><strong>Anitha Jeyagurunathan </strong>is a Principal Research Officer
 at Institute of Mental Health, Research Division. She holds a master’s
 degree in social work, specialized in medical and psychiatric social work,
