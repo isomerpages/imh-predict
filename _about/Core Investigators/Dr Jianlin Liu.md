@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 338.125px;" height="auto" width="100%" alt="" src="https://staging.d15invg1m5z48.amplifyapp.com/images/Portraits/Jianlin/DSC1472_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide9.jpg">
 </div>
-<p><strong>Dr. Liu Jianlin</strong>
-<br>Research Fellow, Research Division, Institute of Mental Health</p>
 <p><strong>Dr. Liu Jianlin</strong> is a Research Fellow at the Research Division,
 Institute of Mental health, Singapore. He completed his PhD (Psychological
 Medicine) with the Yong Loo Lin School of Medicine, National University
