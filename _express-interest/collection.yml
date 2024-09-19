@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Study Procedures.md
+      - Study Procedures/Recruitment.md
       - Study Procedures/.keep
       - Inclusion Criteria.md
