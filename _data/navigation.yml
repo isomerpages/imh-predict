@@ -6,6 +6,11 @@ links:
     collection: express-interest
   - title: Resources
     collection: resources
+  - title: Media Center
+    url: /media-center
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: FAQ
     collection: faq
   - title: Contact Us
