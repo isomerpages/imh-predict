@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Assoc_Prof_Mythily_Subramaniam.png">
+</div>
 <p><strong>Assoc Prof. Mythily Subramaniam </strong>is currently Assistant
 Chairman Medical Board (Research) and Lead Investigator of the Programme
 of Mental Health Policy Studies at the Institute of Mental Health (IMH).
