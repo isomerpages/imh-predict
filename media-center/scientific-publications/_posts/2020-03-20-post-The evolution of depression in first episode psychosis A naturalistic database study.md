@@ -10,8 +10,7 @@ image: ""
 variant: markdown
 ---
 <h1>The evolution of depression in first-episode psychosis: A naturalistic database study</h1>
-<h4><strong>Sutapa Basu, Swapna Verma, Edimansyah Abdin</strong></h4>
-<h4></h4>
+<h4 style="color:#243665"><strong>Sutapa Basu, Swapna Verma, Edimansyah Abdin</strong></h4>
 <p>Depression is commonly seen in the course of schizophrenia and can occur
 during any of the phases of the psychotic illness. The present study examines
 the incidence of depression at baseline and de novo depression in first
