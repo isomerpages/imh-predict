@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Carol_Zhang.png">
 </div>
 <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis
 ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida
