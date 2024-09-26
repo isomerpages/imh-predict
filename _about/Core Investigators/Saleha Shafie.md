@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Saleha_Shafie.png">
 </div>
 <p><strong>Saleha Shafie</strong> is a Manager at the Research Division of
 IMH. She has a bachelor’s degree in psychology. She has experience in fieldwork
