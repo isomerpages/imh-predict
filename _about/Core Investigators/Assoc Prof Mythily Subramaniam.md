@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Assoc_Prof_Mythily_Subramaniam.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Assistant_Chairman_Medical_Board__Research___Institute_of_Mental_Health_Consultant__Ministry_of_Health__Singapore_Associate_Professor__Saw_Swee_Hock_School_of_Public_Health__NUS.png">
 </div>
 <p><strong>Assoc Prof. Mythily Subramaniam </strong>is currently Assistant
 Chairman Medical Board (Research) and Lead Investigator of the Programme
