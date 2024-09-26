@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Shazana_Shahwan.png">
 </div>
 <p><strong>Ms. Shazana Shahwan</strong> obtained her master’s in clinical
 psychology degree and worked as a psychologist prior to her research career.
