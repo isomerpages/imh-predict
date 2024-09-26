@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Slide3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Dr_Janhavi.png">
 </div>
 <p><strong>Dr Janhavi Ajit Vaingankar</strong> is a Director at the Research
 Division, Institute of Mental Health, Singapore. She received her PhD in
