@@ -2,8 +2,8 @@ collections:
   join-us:
     output: true
     order:
-      - Sign Up.md
       - Study Overview.md
-      - Study Procedures/Recruitment.md
+      - Sign Up.md
       - Study Procedures/.keep
+      - Study Procedures/Recruitment.md
       - Inclusion Criteria.md
