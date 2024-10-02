@@ -5,9 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Study Procedures
 ---
-<p>Biological Sampling</p>
-<p></p>
-<p>Blood Draw</p>
-<p></p>
-<p>Hair Sampling</p>
-<p></p>
+<h1>Biological Sampling</h1>
+<p>Brief description on biological sampling and purpose.</p>
+<h2>Blood Draw</h2>
+<p>Blood draw procedure description and purpose.</p>
+<p>Citations:</p>
+<h2>Hair Sampling</h2>
+<p>Hair sampling procedure and purpose.</p>
+<p>Citations:</p>
