@@ -44,3 +44,7 @@ personal data protection and confidentiality of study data and more.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Stock photos/Interview/DSC1597.jpg">
+</div>
+<p></p>
