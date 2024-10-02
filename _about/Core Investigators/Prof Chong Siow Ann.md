@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Core Investigators
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Prof_Chong_Siow_Ann.png">
 </div>
 <p><strong>Professor Chong Siow Ann</strong> is a Senior Consultant Psychiatrist
 at the Institute of Mental Health (IMH) and was the recipient of the Translational<em> &amp; </em>Clinical
