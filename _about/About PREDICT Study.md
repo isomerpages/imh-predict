@@ -56,9 +56,12 @@ depression in Singapore.</p>
 <h2>Study Themes</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_7.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Infographics/STUDY_THEMES.png">
 </div>
-<h3>Theme 1</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Theme 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>In the Netherlands Study of Depression and Anxiety (NESDA) study, Prins
 et al. (2011) found that patients with anxiety or depressive disorders
 receiving either guideline-concordant or non-guideline-concordant treatment
@@ -82,8 +85,11 @@ of clinical interventions, social prescriptions, and care protocols for
 depression. When offered in a timely manner, these interventions will improve
 the quality of life for patients and carers, guide resource planning and
 optimize healthcare utilisation.</p>
-<p></p>
-<h3>Theme 2</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Theme 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>With the Healthier SG initiative, there is an effort to empower healthcare
 professionals in primary care with the capabilities to manage anxiety and
 depression. Mental health primary care protocols for these conditions are
@@ -103,8 +109,11 @@ to track the right siting of care, trajectories of care, and outcomes across
 settings and age groups. For participants agreeable to data linkage, data
 from medical records will also be captured across primary, secondary, and
 tertiary care settings.</p>
-<p></p>
-<h3>Theme 3</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Theme 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The study will include assessments of several psychosocial factors that
 have been shown to influence the development and course of depression.
 Using a machine learning approach, Wardenaar et al. (2021) examined the
@@ -131,8 +140,11 @@ disorders. This proposed study will therefore conduct routine assays for
 metabolic functions – such as blood glucose and lipid assays, kidney and
 liver function tests, and haematocrit to examine the development of medical
 comorbidity and its impact on depression.</p>
-<p></p>
-<h3>Theme 4</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Theme 4</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Subsyndromal depression or SD is defined as the presence of clinically
 relevant levels of depressive symptoms without meeting the diagnostic criteria
 for MDD as established by the Diagnostic and Statistical Manual 4th Edition
@@ -148,3 +160,7 @@ to intervene and prevent the progression toward MDD. The proposed study
 cohort could provide insights into the prevalence, and course of SD and
 potential preventive interventions in this cohort to prevent the onset
 of depression.</p>
+</div>
+</details>
+</div>
+<p></p>
