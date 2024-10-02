@@ -4,6 +4,7 @@ collections:
     order:
       - Study Overview.md
       - Sign Up.md
+      - Study Procedures/Physical Assessment.md
       - Study Procedures/Questionnaire.md
       - Study Procedures/Biological Sampling.md
       - Study Procedures/.keep
