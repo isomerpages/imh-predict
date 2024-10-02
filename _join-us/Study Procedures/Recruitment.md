@@ -6,8 +6,13 @@ description: ""
 third_nav_title: Study Procedures
 ---
 <p>Recruitment page</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -19,7 +24,7 @@ third_nav_title: Study Procedures
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Stock photos/ICF/DSC1587.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="6">
 <p>Volunteers will first be briefed about the study. A researcher will explain
 the study to the volunteer, including the study procedures, risks, reimbursement,
 personal data protection and confidentiality of study data and more.</p>
@@ -27,6 +32,21 @@ personal data protection and confidentiality of study data and more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>d</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>s</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>a</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>f</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>g</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,6 +54,21 @@ personal data protection and confidentiality of study data and more.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
