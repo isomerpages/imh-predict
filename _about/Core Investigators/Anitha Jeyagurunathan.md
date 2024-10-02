@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Core Investigators
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Anitha_Jeyagurunathan_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Anitha_Jeyagurunathan.png">
 </div>
 <p><strong>Anitha Jeyagurunathan </strong>is a Principal Research Officer
 at Institute of Mental Health, Research Division. She holds a master’s
