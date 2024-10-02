@@ -55,9 +55,6 @@ with good or poor prognoses among those with depression and subsyndromal
 depression in Singapore.</p>
 <h2>Study Themes</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Infographics/STUDY_THEMES.png">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Theme 1</summary>
