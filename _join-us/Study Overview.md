@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/01__1_.png">
 </div>
 <h2>Procedures</h2>
 <div class="isomer-card-grid">
