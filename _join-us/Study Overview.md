@@ -4,8 +4,9 @@ permalink: /study-overview/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_study_themes_infog_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/01.png">
 </div>
 <h2>Procedures</h2>
 <div class="isomer-card-grid">
