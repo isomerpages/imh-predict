@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/01__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Study_Procedures.png">
 </div>
 <h2>Procedures</h2>
 <div class="isomer-card-grid">
@@ -56,7 +56,5 @@ description: ""
 </div>
 </div>
 </div>
-<h2>Compensation</h2>
-<p>Participants will be compensated for their time and effort for each visit.</p>
-<h2>Time Taken</h2>
-<p>Total time taken: 2 hr</p>
+<h2></h2>
+<p></p>
