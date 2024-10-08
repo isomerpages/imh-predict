@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled_design__1_.png
+      background: /images/ffce8945da70b024c6045f90b88b0670.gif
       url: /contact-us/
       key_highlights:
         - title: Highlight A
