@@ -21,11 +21,6 @@ contacts:
       - other: ""
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 6389 3620
-      - email: saleha_shafie@imh.com.sg
-      - other: ""
-    title: Saleha Shafie
-  - content:
       - phone: +65 6389 2579
       - email: anitha_jeyagurunathan@imh.com.sg
       - other: ""
@@ -35,5 +30,10 @@ contacts:
       - email: yunjue_zhang@imh.com.sg
       - other: ""
     title: Carol Zhang
+  - content:
+      - phone: +65 6389 3620
+      - email: saleha_shafie@imh.com.sg
+      - other: ""
+    title: Dr Janhavi Vaingankar
 feedback: ""
 ---
