@@ -31,8 +31,8 @@ contacts:
       - other: ""
     title: Carol Zhang
   - content:
-      - phone: +65 6389 3620
-      - email: saleha_shafie@imh.com.sg
+      - phone: +65 6389 2794
+      - email: janhavi_vaingankar@imh.com.sg
       - other: ""
     title: Dr Janhavi Vaingankar
 feedback: ""
