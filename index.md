@@ -19,6 +19,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: image
   - infobar:
       title: About PREDICT
       description: A longitudinal cohort study on depression
