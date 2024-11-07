@@ -15,14 +15,12 @@ sections:
       description: A longitudinal cohort study on depression
       button: Continue reading
       url: /study-information/
-  - announcements:
-      title: Latest News
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Launch of PREDICT Study
-          date: 09 September 2024
-          announcement: Press release on the commencement of the PREDICT study.
-          link_text: ""
-          link_url: ""
+  - infopic:
+      title: Visitor from the Netherlands
+      subtitle: Professor Brenda Penninx
+      id: infopic
+      description: The head of the NESDA project visits the Singapore team for the
+        PREDICT Study.
+      button: Button Text
+      alt: Image alt text
 ---
