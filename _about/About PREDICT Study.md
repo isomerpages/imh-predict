@@ -8,16 +8,15 @@ description: ""
 <h2></h2>
 <h2>Study Goals<br></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Untitled_design.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.gif">
 </div>
 <p>This cohort study aims to gain a deeper understanding of determinants,
 disease progression, disease outcomes, and early identification of subgroups
 with good or poor prognoses among those with depression and subsyndromal
 depression in Singapore.</p>
 <h2>Study Themes</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Study_Themes.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Infographics.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
