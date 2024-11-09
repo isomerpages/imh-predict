@@ -1,5 +1,5 @@
 collections:
-  directions:
+  how-to-get-here:
     output: true
     order:
       - Directions.md
