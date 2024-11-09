@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Study Procedure Overview.md
       - Study Schedule Overview.md
       - Sign Up.md
       - Study Procedures/.keep
