@@ -1,4 +1,5 @@
 collections:
   directions:
     output: true
-    order: []
+    order:
+      - How To Get Here.md
