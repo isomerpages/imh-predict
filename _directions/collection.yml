@@ -2,4 +2,4 @@ collections:
   directions:
     output: true
     order:
-      - How To Get Here.md
+      - Directions.md
