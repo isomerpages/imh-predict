@@ -8,6 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/DSC1461.jpg">
 </div>
+<p></p>
 <p>The study team is comprised of various researchers from diverse backgrounds
 and walks of life, including: renown researchers such as A/Prof Mythily
 Subramaniam, Dr Janhavi Vaingankar and Dr Edimansyah Abdin, Biostatisticians,
@@ -19,6 +20,7 @@ utmost care to ensure a smooth session and confidentiality of the data
 collected. Strict training protocols have been established and the team
 has been thoroughly trained to conduct the study. Read more about the training
 <a href="https://staging.d15invg1m5z48.amplifyapp.com/predict-training-by-professor-brenda-penninx/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<hr>
 <h3><strong>Team Members</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/dr-janhavi-vaingankar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Co-Investigator: Dr Janhavi Vaingankar" src="/images/Portraits/Cropped/Jan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Janhavi Vaingankar</div><div class="isomer-card-description">Director, Research Division</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/dr-edimansyah-abdin/" class="isomer-card">
