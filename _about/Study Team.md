@@ -4,10 +4,21 @@ permalink: /study-team/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h1>MEET THE STUDY TEAM</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/DSC1461.jpg">
 </div>
+<p>The study team is comprised of various researchers from diverse backgrounds
+and walks of life, including: renown researchers such as A/Prof Mythily
+Subramaniam, Dr Janhavi Vaingankar and Dr Edimansyah Abdin, Biostatisticians,
+Managers/Assistant Managers and Research Fellows/Coordinators/Officers/Assistants.
+The list of team members have been meticulously curated after careful consideration
+to ensure the highest quality of work. Participants of the study can rest
+assure that their safety and the data provided will be treated with the
+utmost care to ensure a smooth session and confidentiality of the data
+collected. Strict training protocols have been established and the team
+has been thoroughly trained to conduct the study. Read more about the training
+<a href="https://staging.d15invg1m5z48.amplifyapp.com/predict-training-by-professor-brenda-penninx/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3><strong>Principal Investigator</strong></h3>
 <h4>A/Prof Mythily Subramaniam</h4>
 <div class="isomer-image-wrapper">
@@ -56,6 +67,19 @@ frontiers of mental health research with groundbreaking insights. <a href="/a-pr
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/dr-jianlin-liu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Co-Investigator: Dr Liu Jianlin" src="/images/Portraits/Cropped/Jianlin_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Liu Jianlin</div><div class="isomer-card-description">Research Fellow, Research Division</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="a prof lee eng sing" src="/images/Icons/stethoscope_medical_tool.svg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Asst Prof Lee Eng Sing</div>
+<div class="isomer-card-description">Director of Primary Care and Family Medicine Research Programme, Lee Kong
+Chian School of Medicine</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
