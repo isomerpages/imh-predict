@@ -67,7 +67,7 @@ frontiers of mental health research with groundbreaking insights. <a href="/a-pr
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/dr-jianlin-liu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Co-Investigator: Dr Liu Jianlin" src="/images/Portraits/Cropped/Jianlin_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Liu Jianlin</div><div class="isomer-card-description">Research Fellow, Research Division</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/asst-prof-lee-eng-sing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="a prof lee eng sing" src="/images/Icons/stethoscope_medical_tool.svg">
@@ -77,7 +77,68 @@ frontiers of mental health research with groundbreaking insights. <a href="/a-pr
 <div class="isomer-card-title">Asst Prof Lee Eng Sing</div>
 <div class="isomer-card-description">Director of Primary Care and Family Medicine Research Programme, Lee Kong
 Chian School of Medicine</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/prof-john-chambers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="prof john chambers" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof John Chambers</div><div class="isomer-card-description">Professor of Cardiovascular Epidemiology at LKC Medicine and the Chief Scientific Officer at PRECISE</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/prof-eric-finkelstein/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="prof eric finklestein" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Eric Finklestein</div>
+<div class="isomer-card-description">Professor at the Duke-NUS Medical School, and Executive Director of the
+Lien Centre for Palliative Care</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/dr-mok-yee-ming/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Mok" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Mok Yee Ming</div><div class="isomer-card-description">Senior Consultant psychiatrist and the Assistant Chairman Medical Board (Clinical), IMH</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/dr-nisha/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Nisha" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Nisha Chandwani</div>
+<div class="isomer-card-description">Consultant, the Chief of Department of Mood and Anxiety</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/chua-boon-yiang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="boon yiang" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chua Boon Yiang</div><div class="isomer-card-description">Director, Research Division, IMH</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rajes" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rajeswari Sambasivam</div>
+<div class="isomer-card-description">Manager, Research Division, IMH</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ellaisha" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ellaisha Samari</div><div class="isomer-card-description">Senior Research Officer, Research Division, IMH</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vathsala" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vathsala Sagayadevan</div>
+<div class="isomer-card-description">Senior Research Officer, Research Division, IMH</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Savita G" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Savita Gunasekaran</div><div class="isomer-card-description">Research Officer, Research Division, IMH</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bernard T" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bernard Tan</div>
+<div class="isomer-card-description">Senior Research Officer, , Research Division, IMH</div>
+<div class="isomer-card-link">Read more</div>
 </div>
 </a>
 </div>
