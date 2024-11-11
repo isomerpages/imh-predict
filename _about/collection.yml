@@ -2,9 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Principal Investigator.md
       - About PREDICT Study.md
-      - Study Team.md
+      - Principal Investigator.md
       - Core Investigators/.keep
       - Core Investigators/Prof Chong Siow Ann.md
       - Core Investigators/Asst Prof Lee Eng Sing.md
@@ -20,4 +19,5 @@ collections:
       - Core Investigators/Yunjue Zhang.md
       - Core Investigators/Saleha Shafie.md
       - Core Investigators/Dr Jianlin Liu.md
+      - Study Team.md
       - Study Collaborators.md
