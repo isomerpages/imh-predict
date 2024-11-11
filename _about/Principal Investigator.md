@@ -7,6 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits/Profile Card Horizontal/Assoc_Prof_Mythily.png">
 </div>
+<p>Meet our principal investigator, the immaculate <strong>Assoc/Prof Mythily Subramaniam</strong>:
+the leading expert in psychiatric epidemiology, her works have redefined
+the frontiers of mental health research with groundbreaking insights.</p>
 <p><strong>Assoc Prof. Mythily Subramaniam </strong>is currently Assistant
 Chairman Medical Board (Research) and Lead Investigator of the Programme
 of Mental Health Policy Studies at the Institute of Mental Health (IMH).
