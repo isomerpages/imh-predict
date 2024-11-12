@@ -8,7 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/predict.png">
+</div>
 <p>Institute of Mental Health recently welcomed Professor Brenda Penninx,
 the Principle Investigator from the Netherlands Study of Depression and
 Anxiety (NESDA) cohort study, for an in-depth two-day training session
