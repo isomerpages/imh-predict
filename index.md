@@ -17,7 +17,7 @@ sections:
       button: Continue reading
       url: /study-information/
   - announcements:
-      title: PREDICT Latest News
+      title: Latest PREDICT News
       id: announcements
       announcement_items:
         - title: Professor Brenda's CPE Talk
