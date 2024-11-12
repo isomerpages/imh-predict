@@ -2,7 +2,7 @@ collections:
   join-us:
     output: true
     order:
-      - Study Schedule Overview2.md
+      - Study Schedule Overview.md
       - Study Procedure Overview.md
       - Study Procedures/.keep
       - Study Procedures/Informed Consent.md
