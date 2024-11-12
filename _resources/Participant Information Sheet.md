@@ -91,11 +91,11 @@ removed from the body.</p>
 </li>
 </ul>
 </li>
-</ul>
-</li>
 <li>
 <p><strong>Higher levels are better</strong>: An HDL level of 60 mg/dL (1.6
 mmol/L) or higher is considered protective against heart disease.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>LDL (Low-Density Lipoprotein) Cholesterol</strong>: Known as "bad
