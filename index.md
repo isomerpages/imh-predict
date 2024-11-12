@@ -12,7 +12,8 @@ sections:
       variant: image
   - infobar:
       title: About PREDICT
-      description: A longitudinal cohort study on depression
+      description: A new longitudinal study aims to establish a five-year cohort to
+        comprehensively understand depressive disorders in Singapore.
       button: Continue reading
       url: /study-information/
   - announcements:
