@@ -9,8 +9,12 @@ links:
   - title: Media Center
     url: /media-center
     sublinks:
-      - title: Press Release
-        url: https://predict-imhresearch.sg/predict-press-release/
+      - title: Media Release
+        url: /media-center/media-release/
+      - title: PREDICT News
+        url: /media-center/predict-news/
+      - title: Scientific Publications
+        url: /media-center/scientific-publications/
   - title: FAQ
     collection: faq
   - title: How To Get Here
