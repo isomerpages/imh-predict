@@ -8,12 +8,9 @@ description: ""
 <h2></h2>
 <h2>Study Aims<br></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.png">
 </div>
-<p>This cohort study aims to gain a deeper understanding of determinants,
-disease progression, disease outcomes, and early identification of subgroups
-with good or poor prognoses among those with depression and subsyndromal
-depression in Singapore.</p>
+<p></p>
 <h2>Study Themes</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Infographics__1_.png">
