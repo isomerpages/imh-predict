@@ -125,21 +125,22 @@ of depression.</p>
 </div>
 <h2>Background Information</h2>
 <p>Globally, depression affects approximately 4% of the population annually,
-with about 280 million people affected 1 . The COVID-19 pandemic has worsened
-mental health conditions worldwide, leading to around 53 million additional
-cases of depression (a 27.6% increase) in the global population 2 .</p>
+with about 280 million people affected <sup>1 </sup>. The COVID-19 pandemic
+has worsened mental health conditions worldwide, leading to around 53 million
+additional cases of depression (a 27.6% increase) in the global population <sup>2</sup> .</p>
 <p>Depression can significantly impair daily functioning, preventing affected
 individuals from effectively fulfilling their academic, occupational, social,
-and family roles 3 , 4 . It is also among the leading causes of burden
-worldwide. Based on the Singapore Mental Health Study (SMHS) in 2016, the
-lifetime and annual prevalence of Major Depressive Disorder in Singapore
-were 6.3% and 2.3%, respectively 5. While the burden of MDD alone has not
-been determined, mental disorders, excluding substance use disorders, contributed
-to 10% of total Disability Adjusted Life Years (DALYs) in Singapore 6 .&nbsp;</p>
+and family roles <sup>3 , 4</sup> . It is also among the leading causes of
+burden worldwide. Based on the Singapore Mental Health Study (SMHS) in
+2016, the lifetime and annual prevalence of Major Depressive Disorder in
+Singapore were 6.3% and 2.3%, respectively <sup>5</sup>. While the burden
+of MDD alone has not been determined, mental disorders, excluding substance
+use disorders, contributed to 10% of total Disability Adjusted Life Years
+(DALYs) in Singapore <sup>6 </sup>.&nbsp;</p>
 <p>The development of depressive disorders is believed to be influenced by
-various biological, psychological, and social factors 7 . Similarly, the
-prognosis of depression is determined by numerous factors. There is limited
-data on the long-term course and outcomes of depression in Singapore.</p>
+various biological, psychological, and social factors <sup>7</sup> . Similarly,
+the prognosis of depression is determined by numerous factors. There is
+limited data on the long-term course and outcomes of depression in Singapore.</p>
 <p>Most of the available data comes from cross-sectional nationwide epidemiological
 studies like the SMHS 2010, SMHS 2016, and the Wellbeing of the Singapore
 Elderly (WiSE) study. However, these studies have limitations and do not
@@ -149,12 +150,54 @@ ability of clinicians and policymakers to plan for acute and chronic care
 of patients with mental disorders effectively.</p>
 <p>While prospective cohorts require a lot of resources and time, they provide
 the most reliable results in observational epidemiology and biological
-psychiatry 8 . One well-established cohort is the Netherlands Study of
-Depression and Anxiety (NESDA) 9 , which has 13 years of follow-up data
-on depression and anxiety disorders.</p>
+psychiatry <sup>8</sup> . One well-established cohort is the Netherlands
+Study of Depression and Anxiety (NESDA) <sup>9 </sup>, which has 13 years
+of follow-up data on depression and anxiety disorders.</p>
 <p>The Institute of Mental Health (IMH), National Healthcare Group Polyclinics
 (NHGP), Lee Kong Chian School of Medicine (LKCMedicine), Duke-NUS Medical
 School, Usher Institution-The University of Edinburgh, and the Netherlands
 Study of Depression and Anxiety (NESDA) Cohort are collaborating to establish
 a well-characterized depression cohort in Singapore to ensure a comprehensive
 understanding of depressive disorders over a five-year period.</p>
+<p>Additionally, the study will focus on subsyndromal depression (SSD), characterized
+by significant depressive symptoms that do not meet MDD criteria. SSD is
+a strong risk factor for MDD and impacts quality of life. By understanding
+SSD's prevalence and progression, the study aims to develop preventive
+interventions.</p>
+<p>This research will provide data to inform clinical interventions, social
+prescriptions, and care protocols, enhancing depression management and
+resource planning in Singapore's healthcare system.</p>
+<h4>Reference:</h4>
+<p>1. Epidemiology amp; Disease Control Division, Ministry of Health, Singapore;
+Institute for Health Metrics and Evaluation. (2019). The Burden of Disease
+in Singapore, 1990–2017: An overview of the Global Burden of Disease Study
+2017 results. Seattle, WA: IHME.</p>
+<p>2. COVID-19 Mental Disorders Collaborators. (2021). Global prevalence
+and burden of depressive and anxiety disorders in 204 countries and territories
+in 2020 due to the COVID-19 pandemic. Lancet. 398, 1700–1712.</p>
+<p>3. Kupferberg A, Bicks L, Hasler G. (2016). Social functioning in major
+depressive disorder. Neuroscience and Biobehavioral Reviews. 69, 313–332.</p>
+<p>4. Rizvi SJ, Cyriac A, Grima E, Tan M, Lin P, Gallaugher LA, McIntyre
+RS, Kennedy SH. (2015). Depression and employment status in primary and
+tertiary care settings. Canadian Journal of Psychiatry. 60(1), 14–22</p>
+<p>5. Subramaniam M, Abdin E, Vaingankar JA, Shafie S, Chua BY, Sambasivam
+R, et al. (2020). Tracking the mental health of a nation: prevalence and
+correlates of mental disorders in the second Singapore mental health study.
+Epidemiology and Psychiatric Science. 5, 1–10.</p>
+<p>6. Epidemiology amp; Disease Control Division, Ministry of Health, Singapore;
+Institute for Health Metrics and Evaluation. (2019). The Burden of Disease
+in Singapore, 1990–2017: An overview of the Global Burden of Disease Study
+2017 results. Seattle, WA: IHME.</p>
+<p>7. Remes O, Mendes JF, Templeton P. (2021). Biological, Psychological,
+and Social Determinants of Depression: A Review of Recent Literature. Brain
+Sciences. 11(12), 1633.</p>
+<p>8. Kircher T. (2022). Longitudinal cohort studies in psychiatry. Journal
+of Affective Disorders. 299, 456.Kirlic N, Cohen ZP, Singh MK. (2020).
+Is there an ace up our sleeve? A review of interventions and strategies
+for addressing behavioral and neurobiological effects of adverse childhood
+experiences in youth. Adversity and Resilience Science. 1:5–28.</p>
+<p>9. Penninx BW, Beekman AT, Smit JH, Zitman FG, Nolen WA, Spinhoven P,
+et al; NESDA Research Consortium. (2008). The Netherlands Study of Depression
+and Anxiety (NESDA): rationale, objectives and methods. International Journal
+of Methods in Psychiatric Research. 17(3):121-40.</p>
+<p></p>
