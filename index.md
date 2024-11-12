@@ -17,9 +17,8 @@ sections:
       button: Continue reading
       url: /study-information/
   - announcements:
-      title: Latest News
+      title: PREDICT Latest News
       id: announcements
-      subtitle: Latest news in the predict
       announcement_items:
         - title: Professor Brenda's CPE Talk
           date: 14 October 2024
