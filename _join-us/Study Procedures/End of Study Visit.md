@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Study Procedures
 ---
-<h1>Conclusion</h1>
+<h1>Conclusion (WIP)</h1>
 <p></p>
 <h3>Compensation</h3>
 <p>Volunteers who complete the study will be reimbursed for their time and
