@@ -15,12 +15,18 @@ sections:
       description: A longitudinal cohort study on depression
       button: Continue reading
       url: /study-information/
-  - infopic:
-      title: Visitor from the Netherlands
-      subtitle: Professor Brenda Penninx
-      id: infopic
-      description: The head of the NESDA project visits the Singapore team for the
-        PREDICT Study.
-      button: Button Text
-      alt: Image alt text
+  - announcements:
+      title: Latest News
+      id: announcements
+      subtitle: Latest news in the predict
+      announcement_items:
+        - title: Professor Brenda's CPE Talk
+          date: 14 October 2024
+          announcement: Professor Brenda provided an overview of the NESDA cohort and
+            presented findings pertaining to depression, and its associated risk
+            factors and disease burden. She also gave her thoughts around how
+            the results gathered as part of the NESDFA could be applied to the
+            local population and practice.
+          link_text: Read more
+          link_url: /cpe-talk-by-professor-brenda-penninx/
 ---
