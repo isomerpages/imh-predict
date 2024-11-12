@@ -35,3 +35,5 @@ with brief psychotic disorder (<em>p</em> = 0.015) and those with lower
 PANSS positive scores (<em>p</em> = 0.017). De novo depression over 12 months
 was 9.44%. Depression at 1-year follow-up was significantly predicted by
 depression at baseline.</p>
+
+doi: https://doi.org/10.1002/cpp.2449
