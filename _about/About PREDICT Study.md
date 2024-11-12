@@ -8,7 +8,7 @@ description: ""
 <h2></h2>
 <h2>Study Aims<br></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.png">
 </div>
 <p>This cohort study aims to gain a deeper understanding of determinants,
 disease progression, disease outcomes, and early identification of subgroups
