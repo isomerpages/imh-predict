@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Participant Information Sheet.md
-      - Publications.md
       - Mental Health Resources.md
