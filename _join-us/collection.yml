@@ -4,12 +4,6 @@ collections:
     order:
       - Study Schedule Overview.md
       - Study Procedure Overview.md
-      - Study Procedures/.keep
-      - Study Procedures/Informed Consent.md
-      - Study Procedures/Biological Sampling.md
-      - Study Procedures/Questionnaire.md
-      - Study Procedures/Physical Assessment.md
-      - Study Procedures/End of Study Visit.md
       - Pre Visit Information.md
       - Post Visit Information.md
       - Sign Up.md
