@@ -9,7 +9,19 @@ sections:
   - hero:
       background: /images/1000000059.jpg
       url: /contact-us/
-      variant: image
+      variant: floating
+      backgroundColor: gray
+      size: md
+      title: You're invited!
+      button: JOIN US
+      key_highlights:
+        - title: Study overview
+          description: Learn about the study schedule
+          url: /join-us
+        - title: Study Procedures
+          description: Learn about the procedures
+          url: ""
+      subtitle: Begin your journey in preventing depression!
   - infobar:
       title: About PREDICT
       description: A new longitudinal study aims to establish a five-year cohort to
