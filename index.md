@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       variant: floating
       backgroundColor: gray
-      size: md
+      size: sm
       title: You're invited!
       button: JOIN US
       key_highlights:
@@ -22,6 +22,7 @@ sections:
           description: Learn about the procedures
           url: ""
       subtitle: Begin your journey in preventing depression!
+      alignment: left
   - infobar:
       title: About PREDICT
       description: A new longitudinal study aims to establish a five-year cohort to
