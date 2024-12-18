@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Firefly_Ultrawide__Four_silhouettes_of_people__men_and_women__of_various_ethnicities_on_bottom_right.jpg
+      background: /images/Firefly_Ultrawide__Four_silhouettes_of_people__men_and_women__of_various_ethnicities_on_bottom_right__2_.jpg
       url: /contact-us/
       variant: floating
       backgroundColor: gray
