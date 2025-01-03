@@ -2,19 +2,19 @@ title: PREDICT
 url: https://predict-imhresearch.sg
 favicon: /images/2__Squar_e_ish.png
 colors:
-  primary-color: "#00767a"
-  secondary-color: "#edb971"
+  primary-color: "#8abbc2"
+  secondary-color: "#e09393"
   media-colors:
     - title: media-color-one
-      color: "#8bd8bd"
-    - title: media-color-two
       color: "#243766"
+    - title: media-color-two
+      color: "#8bd8bd"
     - title: media-color-three
       color: "#967942"
     - title: media-color-four
-      color: "#ba3b46"
-    - title: media-color-five
       color: "#00838f"
+    - title: media-color-five
+      color: "#ba3b46"
 description: Preventing Depression Through Research
 permalink: none
 baseurl: ""
