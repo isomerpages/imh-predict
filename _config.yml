@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#8bd8bd"
     - title: media-color-three
-      color: "#967942"
+      color: "#ba3b46"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
-      color: "#ba3b46"
+      color: "#e7bb79"
 description: Preventing Depression Through Research
 permalink: none
 baseurl: ""
