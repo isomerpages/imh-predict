@@ -9,12 +9,12 @@ links:
   - title: Media Center
     url: /media-center
     sublinks:
+      - title: IMH Publications
+        url: /media-center/imh-publication/
       - title: Media Release
         url: /media-center/media-release/
       - title: PREDICT News
         url: /media-center/predict-news/
-      - title: IMH Publications
-        url: /media-center/imh-publication/
   - title: FAQ
     collection: faq
   - title: Contact Us
