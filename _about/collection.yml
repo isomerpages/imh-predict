@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - About PREDICT Study.md
+      - About the PREDICT Study.md
       - Principal Investigator.md
       - Core Investigators/About the team.md
       - Core Investigators/.keep
