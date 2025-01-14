@@ -1,7 +1,16 @@
 logo: /images/Logo/predict.png
 links:
   - title: About
-    collection: about
+    url: /study-information/
+    sublinks:
+      - title: About the PREDICT Study
+        url: /study-information/
+      - title: Principal Investigator
+        url: /principal-investigator/
+      - title: Core-Investigators
+        url: /about-the-team/
+      - title: Study Collaborators
+        url: /study-collaborators/
   - title: For Participants
     collection: join-us
   - title: Resources
