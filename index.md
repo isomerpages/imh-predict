@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/250102_180019_192_2.jpg
       url: /contact-us/
-      variant: floating
+      variant: side
       backgroundColor: gray
       size: sm
       title: You're invited!
