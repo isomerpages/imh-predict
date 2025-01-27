@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h1>Study Information</h1>
-<h2></h2>
 <h2>Study Aims<br></h2>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,7 +31,7 @@ description: ""
 </ol>
 <h2>Study Goals</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Infographics__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="PREDICT Study Goals" src="/images/Infographics/PREDICT_Infographics__5_.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
