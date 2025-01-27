@@ -7,17 +7,36 @@ description: ""
 <h1>Study Information</h1>
 <h2></h2>
 <h2>Study Aims<br></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Infographics/Gain_a_deeper_understanding_of.png">
-</div>
+<ol data-tight="true" class="tight">
+<li>
+<p>Gain a deeper understanding of the aspects of depression, such as its:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Determinants</em>
+</p>
+</li>
+<li>
+<p><em>Disease progression</em>
+</p>
+</li>
+<li>
+<p><em>Disease outcomes</em>
+</p>
+</li>
+</ul>
 <p></p>
-<h2>Study Themes</h2>
+</li>
+<li>
+<p>Identify subgroups of depression and sub-syndromal depression in Singapore.</p>
+</li>
+</ol>
+<h2>Study Goals</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographics/PREDICT_Infographics__1_.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Theme 1</summary>
+<summary>Goal #1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
@@ -39,7 +58,7 @@ interventions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Theme 2</summary>
+<summary>Goal #2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Integrating Bio-Psycho-Social Paradigms for Comprehensive Understanding</u></strong>
 </p>
@@ -91,7 +110,7 @@ conditions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Theme 3</summary>
+<summary>Goal #3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Determining the Outcomes of Depression</u></strong>
 </p>
@@ -112,7 +131,7 @@ settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Theme 4</summary>
+<summary>Goal #4</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Prevention of Depression</u></strong>
 </p>
