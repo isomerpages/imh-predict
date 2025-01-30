@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/250102_180019_192_2.jpg
+      background: /images/Screenshot_2025_01_27_224436.png
       url: /contact-us/
       variant: side
       backgroundColor: gray
