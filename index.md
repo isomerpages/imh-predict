@@ -54,4 +54,5 @@ sections:
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
       alt: Image alt text
+      image: /images/Screenshot_2025_01_30_114934.png
 ---
