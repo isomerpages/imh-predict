@@ -1,5 +1,5 @@
 collections:
-  join-us:
+  for-participants:
     output: true
     order:
       - Study Schedule Overview.md
