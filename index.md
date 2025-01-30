@@ -15,8 +15,8 @@ sections:
       title: You're invited!
       button: JOIN US
       key_highlights:
-        - title: Study overview
-          description: Learn about the study schedule
+        - title: What Can You Expect
+          description: Find out what you'll be doing
           url: /join-us
         - title: Contact Us
           description: Reach out to our researchers
@@ -25,9 +25,10 @@ sections:
       alignment: left
   - infobar:
       title: About PREDICT
-      description: A new longitudinal study aims to establish a five-year cohort to
-        comprehensively understand depressive disorders in Singapore.
-      button: Continue reading
+      description: "Preventing Depression: Investigation in Cohorts of its etiology
+        and Trajectory. A longitudinal study aims to comprehensively understand
+        depressive disorders."
+      button: Learn more
       url: /study-information/
   - announcements:
       title: Latest PREDICT News
@@ -42,4 +43,15 @@ sections:
             local population and practice.
           link_text: Read more
           link_url: /cpe-talk-by-professor-brenda-penninx/
+  - infopic:
+      title: About Depression
+      subtitle: What is Depression?
+      id: infopic
+      description: Global and Singapore, lifetime and 12-months prevalence of
+        depression has seen a steady rise.
+      button: Read more
+      url: "Preventing Depression: Investigation in Cohorts of its etiology and
+        Trajectory. A new longitudinal study aims to comprehensively understand
+        depressive disorders locally."
+      alt: Image alt text
 ---
