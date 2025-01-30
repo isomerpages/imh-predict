@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Screenshot_2025_01_27_224436.png
-      url: /contact-us/
+      url: /sign-up/
       variant: side
       backgroundColor: gray
       size: sm
@@ -18,9 +18,9 @@ sections:
         - title: Study overview
           description: Learn about the study schedule
           url: /join-us
-        - title: Study Procedures
-          description: Learn about the procedures
-          url: ""
+        - title: Contact Us
+          description: Reach out to our researchers
+          url: /contact-us/
       subtitle: Begin your journey in preventing depression!
       alignment: left
   - infobar:
