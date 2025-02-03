@@ -4,31 +4,6 @@ permalink: /study-information/
 variant: tiptap
 description: ""
 ---
-<h1>Study Information</h1>
-<h2>Study Aims<br></h2>
-<ol data-tight="true" class="tight">
-<li>
-<p>Gain a deeper understanding of the aspects of depression, such as its:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Determinants</em>
-</p>
-</li>
-<li>
-<p><em>Disease progression</em>
-</p>
-</li>
-<li>
-<p><em>Disease outcomes</em>
-</p>
-</li>
-</ul>
-<p></p>
-</li>
-<li>
-<p>Identify subgroups of depression and sub-syndromal depression in Singapore.</p>
-</li>
-</ol>
 <h2>Study Goals</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PREDICT Study Goals" src="/images/Infographics/PREDICT_Infographics__5_.png">
