@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/Screenshot_2025_01_27_224436.png
+      background: /images/Hero Banner/Banner.gif
       url: /sign-up/
       variant: side
       backgroundColor: gray
