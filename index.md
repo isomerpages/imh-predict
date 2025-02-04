@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/Banner.gif
+      background: /images/Hero Banner/Banner2.gif
       url: /sign-up/
-      variant: side
+      variant: floating
       backgroundColor: gray
       size: sm
       title: You're invited!
@@ -22,7 +22,7 @@ sections:
           description: Reach out to our researchers
           url: /contact-us/
       subtitle: Begin your journey in preventing depression!
-      alignment: left
+      alignment: right
   - infobar:
       title: About PREDICT
       description: "Preventing Depression: Investigation in Cohorts of its etiology
