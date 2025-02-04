@@ -42,4 +42,29 @@ sections:
         depressive disorders locally."
       alt: Image alt text
       image: /images/Screenshot_2025_01_30_114934.png
+  - infobar:
+      title: ========
+      subtitle: This is a dividing line
+      id: infobar
+      description: This section divides solid work from messy tinkering.
+  - infopic:
+      title: ABOUT PREDICT
+      id: infopic
+      description: We are researching ways to Prevent Depression by Investigating
+        Cohorts of its causes and Trajectories (PREDICT). We aim for a deep
+        understanding of depression.
+      button: Learn More
+      url: /study-information/
+      image: /images/Placeholder_Logo.jpg
+  - infopic:
+      title: ABOUT DEPRESSION
+      id: infopic
+      description: This is a sophisticated description of depression and associated
+        depression disorders by Wei Jie that succinctly describes everything a
+        layperson needs to know.
+      button: Read More
+      url: "Preventing Depression: Investigation in Cohorts of its etiology and
+        Trajectory. A new longitudinal study aims to comprehensively understand
+        depressive disorders locally."
+      alt: Image alt text
 ---
