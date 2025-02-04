@@ -60,9 +60,20 @@ sections:
       title: ABOUT DEPRESSION
       id: infopic
       description: This is a sophisticated description of depression and associated
-        depression disorders by Wei Jie that succinctly describes everything a
+        depressive disorders by Wei Jie that succinctly describes everything a
         layperson needs to know.
       button: Read More
+      url: "Preventing Depression: Investigation in Cohorts of its etiology and
+        Trajectory. A new longitudinal study aims to comprehensively understand
+        depressive disorders locally."
+      alt: Image alt text
+      image: /images/Depression_infopic.png
+  - infopic:
+      title: HOW YOU CAN HELP
+      id: infopic
+      description: We are looking for participants to <> and deepen our
+        understanding of depression.
+      button: LEARN MORE
       url: "Preventing Depression: Investigation in Cohorts of its etiology and
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
