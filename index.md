@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/Banner2.gif
+      background: /images/Hero Banner/Banner3.gif
       url: /sign-up/
       variant: floating
       backgroundColor: gray
-      size: sm
+      size: md
       title: You're invited!
       button: JOIN US
       key_highlights:
