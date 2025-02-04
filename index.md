@@ -56,6 +56,7 @@ sections:
       button: Learn More
       url: /study-information/
       image: /images/Placeholder_Logo.jpg
+      alt: Boxy predict logo
   - infopic:
       title: ABOUT DEPRESSION
       id: infopic
@@ -66,16 +67,16 @@ sections:
       url: "Preventing Depression: Investigation in Cohorts of its etiology and
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
-      alt: Image alt text
+      alt: Person reading book
       image: /images/Depression_infopic.png
   - infopic:
       title: HOW YOU CAN HELP
       id: infopic
       description: We are looking for participants to [PREDICT STUDY METHODOLOGIES]
         and deepen our understanding of depression.
-      button: LEARN MORE
+      button: WHAT TO EXPECT
       url: "Preventing Depression: Investigation in Cohorts of its etiology and
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
-      alt: Image alt text
+      alt: Two people looking over papers
 ---
