@@ -5,7 +5,6 @@ variant: tiptap
 description: List of PREDICT Study Co-Investigators
 third_nav_title: Core Investigators
 ---
-<h1>LIST OF CO-INVESTIGATORS</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Chong Profile Card" src="/images/Portraits/Profile Card Horizontal/Prof_Chong_Siow_Ann.png">
 </div>
@@ -14,21 +13,6 @@ at the Institute of Mental Health (IMH) and was the recipient of the Translation
 Research<em> (</em>TCR) Flagship Programme in psychosis. He has mentored
 clinicians and researchers in IMH - a few of whom have become either successful
 researchers or achieved positions of clinical leadership.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof John Chambers Profile Card" src="/images/Portraits/Profile Card Horizontal/Prof_John_Chambers.png">
-</div>
-<p><strong>Professor John Chambers </strong>is the Professor of Cardiovascular
-Epidemiology at LKC Medicine and the Chief Scientific Officer at PRECISE.
-He has led several cohort studies and is currently the lead PI of HELIOS
-and the SG100K cohort.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Eric Finkelstein Profile Card" src="/images/Portraits/Profile Card Horizontal/Prof_Eric_Finkelstein.png">
-</div>
-<p><strong>Professor Eric Finkelstein</strong> is a health economist, Professor
-at the Duke-NUS Medical School, and Executive Director of the Lien Centre
-for Palliative Care. Most recently, he has lead studies quantifying the
-economic burden of depression and anxiety symptoms and children and adults
-in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Janhavi Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Janhavi_Vaingankar.png">
 </div>
