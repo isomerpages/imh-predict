@@ -71,8 +71,8 @@ sections:
   - infopic:
       title: HOW YOU CAN HELP
       id: infopic
-      description: We are looking for <b>participants</b> to [PREDICT STUDY
-        METHODOLOGIES] and deepen our understanding of depression.
+      description: We are looking for participants to [PREDICT STUDY METHODOLOGIES]
+        and deepen our understanding of depression.
       button: LEARN MORE
       url: "Preventing Depression: Investigation in Cohorts of its etiology and
         Trajectory. A new longitudinal study aims to comprehensively understand
