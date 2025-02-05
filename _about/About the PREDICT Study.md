@@ -111,7 +111,7 @@ settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>**Goal #4**</summary>
+<summary>Goal #4</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Prevention of Depression</u></strong>
 </p>
