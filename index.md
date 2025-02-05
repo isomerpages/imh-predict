@@ -41,7 +41,7 @@ sections:
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
       alt: Image alt text
-      image: /images/Infographics/Colour_Map.png
+      image: /images/Infographics/Incremental_cost_S_1_7_billion_per_year.gif
   - infopic:
       title: HOW YOU CAN HELP
       id: infopic
