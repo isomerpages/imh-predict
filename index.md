@@ -48,28 +48,6 @@ sections:
       id: infobar
       description: This section divides solid work from messy tinkering.
   - infopic:
-      title: ABOUT PREDICT
-      id: infopic
-      description: We are researching ways to Prevent Depression by Investigating
-        Cohorts of its causes and Trajectories (PREDICT). We aim for a deep
-        understanding of depression.
-      button: Learn More
-      url: /study-information/
-      image: /images/Placeholder_Logo.jpg
-      alt: Boxy predict logo
-  - infopic:
-      title: ABOUT DEPRESSION
-      id: infopic
-      description: This is a sophisticated description of depression and associated
-        depressive disorders by Wei Jie that succinctly describes everything a
-        layperson needs to know.
-      button: Read More
-      url: "Preventing Depression: Investigation in Cohorts of its etiology and
-        Trajectory. A new longitudinal study aims to comprehensively understand
-        depressive disorders locally."
-      alt: Person reading book
-      image: /images/Depression_infopic.png
-  - infopic:
       title: HOW YOU CAN HELP
       id: infopic
       description: We are looking for participants to **[PREDICT STUDY
