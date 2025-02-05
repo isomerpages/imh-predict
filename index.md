@@ -42,11 +42,6 @@ sections:
         depressive disorders locally."
       alt: Image alt text
       image: /images/Screenshot_2025_01_30_114934.png
-  - infobar:
-      title: ========
-      subtitle: This is a dividing line
-      id: infobar
-      description: This section divides solid work from messy tinkering.
   - infopic:
       title: HOW YOU CAN HELP
       id: infopic
