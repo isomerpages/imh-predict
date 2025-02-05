@@ -41,7 +41,7 @@ sections:
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
       alt: Image alt text
-      image: /images/Infographics/PREDICT_Global_SG_Dep.png
+      image: /images/Infographics/Global_Map_Colours.png
   - infopic:
       title: HOW YOU CAN HELP
       id: infopic
@@ -52,4 +52,5 @@ sections:
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
       alt: Two people looking over papers
+      image: /images/Placeholder_Logo.jpg
 ---
