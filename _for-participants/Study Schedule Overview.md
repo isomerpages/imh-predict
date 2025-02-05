@@ -6,7 +6,8 @@ description: ""
 ---
 <h1>OVER THE COURSE OF THE STUDY</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Study Schedule Overview" src="/images/Infographics/PREDICT_Infographics__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Study overview table" src="/images/Infographics/study_schedule.png">
 </div>
 <p></p>
