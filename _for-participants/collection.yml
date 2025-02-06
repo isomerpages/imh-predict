@@ -2,8 +2,8 @@ collections:
   for-participants:
     output: true
     order:
-      - Study Schedule Overview.md
       - Study Procedure Overview.md
+      - Study Schedule Overview.md
       - Pre Visit Information.md
       - Post Visit Information.md
       - Sign Up.md
