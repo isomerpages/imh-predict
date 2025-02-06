@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Study Procedure Overview.md
-      - Study Schedule Overview.md
+      - Study Journey Overview.md
       - Pre Visit Information.md
       - Post Visit Information.md
       - Sign Up.md
