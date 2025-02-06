@@ -13,7 +13,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Goal #1</summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png">Goal #1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
