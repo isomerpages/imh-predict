@@ -6,9 +6,6 @@ description: ""
 ---
 <h2>Study Goals</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PREDICT Study Goals" src="/images/Infographics/PREDICT_Infographics__5_.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About us (pastels)" src="/images/Infographics/About_Us_Pastel.png">
 </div>
 <div class="isomer-image-wrapper">
