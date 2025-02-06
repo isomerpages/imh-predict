@@ -9,10 +9,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="PREDICT Study Goals" src="/images/Infographics/PREDICT_Infographics__5_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="about us pastel" src="/images/Infographics/About_us_pastel.png">
+<img style="width: 100%" height="auto" width="100%" alt="About us (pastels)" src="/images/Infographics/About_Us_Pastel.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="about us branch" src="/images/Infographics/About_us_branch.png">
+<img style="width: 100%" height="auto" width="100%" alt="About us (branching)" src="/images/Infographics/About_Us_Branch.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
