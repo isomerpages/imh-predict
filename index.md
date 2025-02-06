@@ -43,7 +43,7 @@ sections:
       alt: Image alt text
       image: /images/Infographics/Incremental_cost_S_1_7_billion_per_year.gif
   - infopic:
-      title: HOW YOU CAN HELP
+      title: DISCOVER WHAT YOUR PARTICIPATION INVOLVES
       id: infopic
       description: We are looking for participants to **[PREDICT STUDY
         METHODOLOGIES]** and deepen our understanding of depression.
