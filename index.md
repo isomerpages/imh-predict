@@ -48,5 +48,5 @@ sections:
       button: WHAT TO EXPECT
       url: /journey-overview/
       alt: Two people looking over papers
-      image: /images/Placeholder_Logo.jpg
+      image: /images/Stock photos/ICF/DSC1592.jpg
 ---
