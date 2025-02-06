@@ -2,7 +2,7 @@ collections:
   for-participants:
     output: true
     order:
-      - Study Procedure Overview.md
+      - Procedure Overview.md
       - Journey Overview.md
       - Pre Visit Information.md
       - Post Visit Information.md
