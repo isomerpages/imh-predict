@@ -46,7 +46,7 @@ sections:
       description: We are looking for participants to **[PREDICT STUDY
         METHODOLOGIES]** and deepen our understanding of depression.
       button: WHAT TO EXPECT
-      url: /study-procedure-overview/
+      url: /journey-overview/
       alt: Two people looking over papers
       image: /images/Placeholder_Logo.jpg
 ---
