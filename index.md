@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/BannerNew.gif
+      background: /images/Hero Banner/bannerX.gif
       url: /sign-up/
       variant: floating
       backgroundColor: gray
@@ -39,7 +39,7 @@ sections:
       button: Read more
       url: about-depression
       alt: Image alt text
-      image: /images/Infographics/AbtDep1.gif
+      image: /images/Infographics/AbtDepX.gif
   - infopic:
       title: Discover what your participation involves
       id: infopic
