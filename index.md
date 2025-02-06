@@ -39,7 +39,7 @@ sections:
       button: Read more
       url: about-depression
       alt: Image alt text
-      image: /images/Infographics/Incremental_cost_S_1_7_billion_per_year.gif
+      image: /images/Infographics/AbtDep1.gif
   - infopic:
       title: Discover what your participation involves
       id: infopic
