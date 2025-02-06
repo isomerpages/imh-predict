@@ -4,7 +4,7 @@ permalink: /study-schedule-overview/
 variant: tiptap
 description: ""
 ---
-<h1>OVER THE COURSE OF THE STUDY</h1>
+<h1>VISITS ACROSS THE STUDY PERIOD</h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
