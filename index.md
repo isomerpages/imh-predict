@@ -47,7 +47,7 @@ sections:
       id: infopic
       description: We are looking for participants to **[PREDICT STUDY
         METHODOLOGIES]** and deepen our understanding of depression.
-      button: WHAT TO EXPECT
+      button: OVERVIEW OF YOUR INVOLVEMENT
       url: "Preventing Depression: Investigation in Cohorts of its etiology and
         Trajectory. A new longitudinal study aims to comprehensively understand
         depressive disorders locally."
