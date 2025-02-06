@@ -9,6 +9,7 @@ description: "PREDICT Study: About Depression"
 to anyone, no matter their background or life situation.</center><p></p>
 <p></p>
 <h2>Symptoms of Depression</h2>
+<img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 <h4>Fatigue</h4>
 <p>Depression often leads to extreme tiredness, making it difficult to get
 out of bed or complete daily tasks.</p>
