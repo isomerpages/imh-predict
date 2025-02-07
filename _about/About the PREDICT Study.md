@@ -4,7 +4,7 @@ permalink: /study-information/
 variant: markdown
 description: ""
 ---
-<h2>Study Goals</h2>
+<h2><strong>Study Goals</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/About_Us_Pastel_v2.png">
 </div>
@@ -13,7 +13,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png">Goal #1</summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b>Deepen Insight Into Prognosis</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
