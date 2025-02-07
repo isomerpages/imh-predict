@@ -10,9 +10,9 @@ to anyone, no matter their background or life situation.</center><p></p>
 <p></p>
 <h2><strong>Symptoms of Depression</strong></h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
-<h4>Low Mood</h4>
+<h4><strong>Low Mood</strong></h4>
 <p style="margin:0">A persisting feeling of sadness is the main characteristic of depression. </p>
-<h4>Fatigue</h4>
+<h4><strong>Fatigue</strong></h4>
 <p style="margin:0">Depression often leads to extreme tiredness, making it difficult to get
 out of bed or complete daily tasks.</p>
 <p></p>
