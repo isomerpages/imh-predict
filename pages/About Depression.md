@@ -4,7 +4,7 @@ permalink: /about-depression/
 variant: markdown
 description: "PREDICT Study: About Depression"
 ---
-<h1><center><strong>DEPRESSION IS MORE COMMON <p> </p>THAN YOU THINK<p></p></strong></center></h1>
+<h1><center><strong>DEPRESSION IS MORE COMMON </strong></center></h1><p></p><h1><center><strong>THAN YOU THINK<p></p></strong></center></h1>
 <p></p><center>Millions of people around the world experience depression. It can happen
 to anyone, no matter their background or life situation.</center><p></p>
 <p></p>
