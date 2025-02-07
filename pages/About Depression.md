@@ -4,11 +4,11 @@ permalink: /about-depression/
 variant: markdown
 description: "PREDICT Study: About Depression"
 ---
-<h1><center>DEPRESSION IS MORE COMMON <p> </p>THAN YOU THINK<p></p></center></h1>
+<h1><center><strong>DEPRESSION IS MORE COMMON <p> </p>THAN YOU THINK<p></p></strong></center></h1>
 <p></p><center>Millions of people around the world experience depression. It can happen
 to anyone, no matter their background or life situation.</center><p></p>
 <p></p>
-<h2>Symptoms of Depression</h2>
+<h2><strong>Symptoms of Depression</strong></h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 <h4>Low Mood</h4>
 <p style="margin:0">A persisting feeling of sadness is the main characteristic of depression. </p>
