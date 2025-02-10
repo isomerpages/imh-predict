@@ -8,9 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/About_Us_Pastel_v2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/About_Us_Branch_v2.png">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b>Deepen Insight Into Prognosis</b></summary>
