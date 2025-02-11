@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h1><strong>Mapping the World Health Organization Disability Assessment Scale 2.0 to the EQ-5D-5L in patients with mental disorders</strong></h1>
+<h4>Edimansyah Abdin, Vanessa Seet, Anitha Jeyagurunathan, Sing Chik Tan, Muhammad Iskandar Shah Mohmad Khalid, Yee Ming Mok, Swapna Verma, Mythily Subramaniam<br></h4>
 <h3><strong>Objective</strong></h3>
 <p>The current study aims to develop an algorithm for mapping the WHODAS
 2.0 to the EQ-5D-5 L for patients with mental disorders.</p>
