@@ -8,6 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h1>Understanding Major Depressive Disorder in Singapore: Insights from the second Singapore Mental Health Study (SMHS 2016)</h1>
+<h4>Kumarasan Roystonn, Yen Sin Koh, Saleha Shafie, Rajeswari Sambasivam, Janhavi Ajit Vaingankar, Siow Ann Chong, Mythily Subramaniam</h4>
+<p></p>
 <p><strong>Background: </strong>Major Depressive Disorder (MDD) poses significant
 public health challenges globally and in Southeast Asia, with substantial
 impairment and disease burden. Understanding its prevalence and associated
