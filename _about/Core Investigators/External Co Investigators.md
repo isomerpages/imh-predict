@@ -25,7 +25,7 @@ in Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Brenda Penninx" src="/images/Prof_Brenda.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Brenda Penninx" src="/images/Portraits/Profile Card Horizontal/Prof_Brenda.png">
 </div>
 <p><strong>Professor Brenda Penninx</strong> a leading researcher from the
 Netherlands Study of Depression and Anxiety (NESDA), recently visited Singapore
