@@ -9,10 +9,7 @@ image: ""
 variant: tiptap
 ---
 <h1><strong>Risk and protective factors of mental health during the COVID-19 pandemic: A cross-sectional study in Singapore</strong></h1>
-<p>
-<br>Mythily Subramaniam, Edimansyah Abdin, Saleha Shafie, Peizhi Wang, Shazana
-Shahwan, Pratika Satghare, Boon Yiang Chua, Michael Y Ni, Phyllis Lun,
-Wen Lin Teh, Janhavi Ajit Vaingankar, Siow Ann Chong</p>
+<h4>Mythily Subramaniam, Edimansyah Abdin, Saleha Shafie, Peizhi Wang, Shazana Shahwan, Pratika Satghare, Boon Yiang Chua, Michael Y Ni, Phyllis Lun, Wen Lin Teh, Janhavi Ajit Vaingankar, Siow Ann Chong</h4>
 <p><strong>Introduction: </strong>The main aims of the study were to: establish
 the average levels of psychological distress, suicidality and positive
 mental health (PMH); and examine their associated risk and protective factors
