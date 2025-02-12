@@ -32,7 +32,7 @@ interventions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Goal #2</summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Bio_Psycho_Social.png"><b>Integrate Bio-Psycho-Social Paradigms</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Integrating Bio-Psycho-Social Paradigms for Comprehensive Understanding</u></strong>
 </p>
@@ -84,7 +84,7 @@ conditions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Goal #3</summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Understand_Depression.png"><b>Understand Depression Across Groups</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Determining the Outcomes of Depression</u></strong>
 </p>
@@ -105,7 +105,7 @@ settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Goal #4</summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Prevent_Depression.png"><b>Prevent Depression</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Prevention of Depression</u></strong>
 </p>
