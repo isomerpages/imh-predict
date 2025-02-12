@@ -16,12 +16,6 @@ to anyone, no matter their background or life situation.</p>
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
 <p>Depression is characterized by an array of symptoms that were experienced
 for a prolonged period of time.</p>
-<h4><strong>Depressed mood</strong></h4>
-<p></p>
-<ul>
-<li>
-<p>A persistent feeling of sadness and emptiness. A core characteristic of
-depression</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -97,8 +91,8 @@ thoughts about themselves.</div>
 </div>
 </div>
 <h4></h4>
-</li>
-</ul>
+
+
 <h4><strong>Depression is different for everyone</strong></h4>
 <p>People with depression may experience different set symptoms from one
 another. They may also hold different perceptions towards the the illness,
