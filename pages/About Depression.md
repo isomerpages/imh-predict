@@ -11,7 +11,7 @@ to anyone, no matter their background or life situation.</center><p></p>
 <h2><strong>Symptoms of Depression</strong></h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
-<p style="margin:0">Depression is charaterised by an array of symptoms that were experienced for a prolonged period of time. </p>
+<p style="margin:0">Depression is characterized by an array of symptoms that were experienced for a prolonged period of time. </p>
 <h4><ul><strong>Depressed mood </strong></ul></h4>
 <p style="margin:0"></p><ul>A persistent feeling of sadness and emptiness. A core characteristic of depression
 <p></p>
@@ -36,19 +36,19 @@ thoughts about themselves.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 <h4><strong>Biopsychosocial Factors</strong></h4>
 <p style="margin:0">No factors can lead to depression single handedly! It is a result of a combination of biological, psychological and social factors </p>
-<h4><strong>Biological</strong></h4>
+<h4><strong>Biological Factors</strong></h4>
 <p style="margin:0"><b>Genetic predisposition</b> plays a crucial role in an individual’s likelihood
 of experiencing depression.</p>
 <p><b>Chemical imbalanced</b> in the brain can lead to abnormal fluctuation in mood </p>
 <p style="margin:0">Stressful life events can trigger or exacerbate depression, impacting
 mental health significantly.</p>
-<h4><strong>Psychological</strong></h4>
-<p style="margin:0"><b>Negative thought pattern </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts</p>
+<h4><strong>Psychological Factors</strong></h4>
+<p style="margin:0"><b>Negative thinking patterns </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts.</p>
 <p><b>Traumatic life experiences</b> such as loss or abuse, can
 contribute to the development of depression.</p>
-<h4><strong>Social</strong></h4>
-<p><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
-<p style="margin:0"><b>Stressful life events </b> like changing of workplace or preparing for exams can trigger or exacerbate depression, impacting
+<h4><strong>Social Factors</strong></h4>
+<p style="margin:0"><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
+<p><b>Stressful life events </b> like changing of workplace or preparing for exams can trigger or exacerbate depression, impacting
 mental health significantly.</p>
 
 <p></p>
