@@ -34,15 +34,23 @@ thoughts about themselves.</p>
 <p style="margin:0">People with depression may have difficulties concentrating and making right decision at work, in school or during social interaction. </p></ul><p></p>
 <h2>Causes of Depression</h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
-<h4>Stress</h4>
-<p>Stressful life events can trigger or exacerbate depression, impacting
-mental health significantly.</p>
-<h4>Genetics</h4>
-<p>Genetic predisposition plays a crucial role in an individual’s likelihood
+<h4><strong>Biopsychosocial Factors</strong></h4>
+<p style="margin:0">No factors can lead to depression single handedly! It is a result of a combination of biological, psychological and social factors </p>
+<h4><strong>Biological</strong></h4>
+<p style="margin:0"><b>Genetic predisposition</b> plays a crucial role in an individual’s likelihood
 of experiencing depression.</p>
-<h4>Life Experiences</h4>
-<p>Traumatic or challenging life experiences, such as loss or abuse, can
+<p><b>Chemical imbalanced</b> in the brain can lead to abnormal fluctuation in mood </p>
+<p style="margin:0">Stressful life events can trigger or exacerbate depression, impacting
+mental health significantly.</p>
+<h4><strong>Psychological</strong></h4>
+<p style="margin:0"><b>Negative thought pattern </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts</p>
+<p><b>Traumatic life experiences</b> such as loss or abuse, can
 contribute to the development of depression.</p>
+<h4><strong>Social</strong></h4>
+<p><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
+<p style="margin:0"><b>Stressful life events </b> like changing of workplace or preparing for exams can trigger or exacerbate depression, impacting
+mental health significantly.</p>
+
 <p></p>
 <h2>Help is Available - And It Works</h2>
 <h4>Talking to Someone</h4>
