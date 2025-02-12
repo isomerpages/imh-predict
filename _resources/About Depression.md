@@ -4,73 +4,149 @@ permalink: /about-depression/
 variant: tiptap
 description: "PREDICT Study: About Depression"
 ---
-<h1><center><strong>DEPRESSION IS MORE COMMON</strong></center></h1><p></p><h1 style="margin:0"><center><strong> COMMON THAN YOU THINK<p></p></strong></center></h1>
-<p></p><center>Millions of people around the world experience depression. It can happen
-to anyone, no matter their background or life situation.</center><p></p>
+<h1><strong>DEPRESSION IS MORE COMMON</strong></h1>
+<h1><strong>THAN YOU THINK</strong></h1>
 <p></p>
+<p>Millions of people around the world experience depression. It can happen
+to anyone, no matter their background or life situation.</p>
 <h2><strong>Symptoms of Depression</strong></h2>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
+</div>
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
-<p style="margin:0">Depression is characterized by an array of symptoms that were experienced for a prolonged period of time. </p>
-<h4><ul><strong>Depressed mood </strong></ul></h4>
-<p style="margin:0"></p><ul>A persistent feeling of sadness and emptiness. A core characteristic of depression
+<p>Depression is characterized by an array of symptoms that were experienced
+for a prolonged period of time.</p>
+<h4><strong>Depressed mood</strong></h4>
 <p></p>
-<h4><strong>Fatigue</strong></h4>
-<p style="margin:0">Depression often leads to extreme tiredness, making it difficult to get
-out of bed or complete daily tasks.</p>
+<ul>
+<li>
+<p>A persistent feeling of sadness and emptiness. A core characteristic of
+depression</p>
 <p></p>
-<h4><strong>Loss of Interest and Motivation</strong></h4>
-<p style="margin:0">Individuals may feel unmotivated and find it challenging to engage in
-activities they once enjoyed.</p>
-<h4><strong>Sleep Changes</strong></h4>
-<p style="margin:0">Depression can disrupt sleep patterns, causing insomnia or excessive sleeping.</p>
-<h4><strong>Appetite and Weight Changes</strong></h4>
-<p style="margin:0">People with depression may experience changes in appetite, resulting in
-significant weight loss or gain.</p>
-<h4><strong>Feeling of guilt and worthlessness</strong></h4>
-<p style="margin:0">Depression can distort self-image, leading individuals to have negative
-thoughts about themselves.</p>
-<h4><strong>Poor Concentration</strong></h4>
-<p style="margin:0">People with depression may have difficulties concentrating and making right decision at work, in school or during social interaction. </p></ul><p></p>
-
-<h4><strong> Depression is different for everyone</strong></h4>
-<p style="margin:0">People with depression may experience different set symptoms from one another. They may also hold different perceptions towards the the illness, as well as giving it a different meaning. Below is a video by the World Health Organization depicting one such representation.</p><p></p>
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC" height="315" width="560"></iframe></center>
-
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fatigue</div>
+<div class="isomer-card-description">Depression often leads to extreme tiredness, making it difficult to get
+out of bed or complete daily tasks.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Loss of Interest and Motivation</div>
+<div class="isomer-card-description">Individuals may feel unmotivated and find it challenging to engage in
+activities they once enjoyed.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sleep Changes</div>
+<div class="isomer-card-description">Depression can disrupt sleep patterns, causing insomnia or excessive sleeping.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Appetite and Weight Changes</div>
+<div class="isomer-card-description">People with depression may experience changes in appetite, resulting in
+significant weight loss or gain.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Feeling of guilt and worthlessness</div>
+<div class="isomer-card-description">Depression can distort self-image, leading individuals to have negative
+thoughts about themselves.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Poor Concentration</div>
+<div class="isomer-card-description">People with depression may have difficulties concentrating and making
+right decision at work, in school or during social interaction.</div>
+</div>
+</div>
+</div>
+<h4></h4>
+</li>
+</ul>
+<h4><strong>Depression is different for everyone</strong></h4>
+<p>People with depression may experience different set symptoms from one
+another. They may also hold different perceptions towards the the illness,
+as well as giving it a different meaning. Below is a video by the World
+Health Organization depicting one such representation.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC"></iframe>
+</div>
 <h2>Causes of Depression</h2>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
+</div>
 <h4><strong>Biopsychosocial Factors</strong></h4>
-<p style="margin:0">No factors can lead to depression single handedly! It is a result of a combination of biological, psychological and social factors </p>
-
+<p>No factors can lead to depression single handedly! It is a result of a
+combination of biological, psychological and social factors</p>
 <details class="isomer-details">
-<summary><h4><strong>Biological Factors</strong></h4></summary>
+<summary><strong>Biological Factors</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><b>Genetic predisposition</b> plays a crucial role in an individual’s likelihood
-of experiencing depression.</p>
-<p><b>Chemical imbalanced</b> in the brain can lead to abnormal fluctuation in mood </p>
+<p><strong>Genetic predisposition</strong> plays a crucial role in an individual’s
+likelihood of experiencing depression.</p>
+<p><strong>Chemical imbalanced</strong> in the brain can lead to abnormal
+fluctuation in mood</p>
 </div>
 </details>
-
-
 <details class="isomer-details">
-<summary><h4><strong>Psychological Factors</strong></h4></summary>
+<summary><strong>Psychological Factors</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><b>Negative thinking patterns </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts.</p>
-<p><b>Traumatic life experiences</b> such as loss or abuse, can
+<p><strong>Negative thinking patterns </strong>can lead to rumination of
+negative event and self-perception, sending individual down a spiral of
+negative thoughts.</p>
+<p><strong>Traumatic life experiences</strong> such as loss or abuse, can
 contribute to the development of depression.</p>
 </div>
 </details>
-
 <details class="isomer-details">
-<summary><h4><strong>Social Factors</strong></h4></summary>
+<summary><strong>Social Factors</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
-<p><b>Stressful life events </b> like changing of workplace or preparing for exams can trigger or exacerbate depression, impacting
-mental health significantly.</p>
+<p><strong>Lack of social support</strong> removed the protection and resources
+that individuals may have against stresses.</p>
+<p><strong>Stressful life events </strong>like changing of workplace or preparing
+for exams can trigger or exacerbate depression, impacting mental health
+significantly.</p>
 </div>
 </details>
-
 <p></p>
 <h2>Help is Available - And It Works</h2>
 <h4>Talking to Someone</h4>
