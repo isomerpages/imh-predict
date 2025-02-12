@@ -31,6 +31,18 @@ depression</p>
 </div>
 </div>
 <div class="isomer-card-body">
+<div class="isomer-card-title">Depressed mood</div>
+<div class="isomer-card-description">A persistent feeling of sadness and emptiness. A core characteristic of
+depression.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
 <div class="isomer-card-title">Fatigue</div>
 <div class="isomer-card-description">Depression often leads to extreme tiredness, making it difficult to get
 out of bed or complete daily tasks.</div>
@@ -81,18 +93,6 @@ significant weight loss or gain.</div>
 <div class="isomer-card-title">Feeling of guilt and worthlessness</div>
 <div class="isomer-card-description">Depression can distort self-image, leading individuals to have negative
 thoughts about themselves.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Poor Concentration</div>
-<div class="isomer-card-description">People with depression may have difficulties concentrating and making
-right decision at work, in school or during social interaction.</div>
 </div>
 </div>
 </div>
