@@ -27,7 +27,7 @@ depression</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -39,7 +39,7 @@ depression.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Icons/1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -51,7 +51,7 @@ out of bed or complete daily tasks.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Icons/5.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -63,7 +63,7 @@ activities they once enjoyed.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Icons/4.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +74,7 @@ activities they once enjoyed.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Icons/3.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ significant weight loss or gain.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Icons/6.png">
 </div>
 </div>
 <div class="isomer-card-body">
