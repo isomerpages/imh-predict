@@ -10,18 +10,21 @@ to anyone, no matter their background or life situation.</center><p></p>
 <p></p>
 <h2><strong>Symptoms of Depression</strong></h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
-<h4><strong>Low Mood</strong></h4>
-<p style="margin:0">A persisting feeling of sadness is the main characteristic of depression. </p>
+<h4><strong>It's More Than Just Feeling Sad</strong></h4>
+<p style="margin:0">Depression is charaterised by an array of symptoms that were experienced for a prolonged period of time. </p>
+<h4><strong>Depressed mood</strong></h4>
+<p style="margin:0">A persistent feeling of sadness and emptiness. A core characteristic of depression
+</p>
 <h4><strong>Fatigue</strong></h4>
 <p style="margin:0">Depression often leads to extreme tiredness, making it difficult to get
 out of bed or complete daily tasks.</p>
 <p></p>
-<h4>Lack of Motivation</h4>
+<h4><strong>Loss of Interest and Motivation</strong></h4>
 <p style="margin:0">Individuals may feel unmotivated and find it challenging to engage in
 activities they once enjoyed.</p>
 <h4>Sleep Changes</h4>
 <p style="margin:0">Depression can disrupt sleep patterns, causing insomnia or excessive sleeping.</p>
-<h4>Appetite Changes</h4>
+<h4>Appetite and Weight Changes</h4>
 <p style="margin:0">People with depression may experience changes in appetite, resulting in
 significant weight loss or gain.</p>
 <h4>Self-Perception Issues</h4>
@@ -29,6 +32,7 @@ significant weight loss or gain.</p>
 thoughts about themselves.</p>
 
 <h2>Causes of Depression</h2>
+<img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 <h4>Stress</h4>
 <p>Stressful life events can trigger or exacerbate depression, impacting
 mental health significantly.</p>
