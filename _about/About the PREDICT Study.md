@@ -10,7 +10,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="text-align: left"><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b></b></p><h4><b>Deepen Insight Into Prognosis</b></h4><p></p></summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b><h4>Deepen Insight Into Prognosis</h4></b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
