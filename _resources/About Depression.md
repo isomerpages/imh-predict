@@ -106,7 +106,7 @@ as well as giving it a different meaning. Below is a video by the World
 Health Organization depicting one such representation.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC"></iframe>
+<center><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC"></iframe></center>
 </div>
 <h2>Causes of Depression</h2>
 <div class="isomer-image-wrapper">
@@ -149,20 +149,20 @@ significantly.</p>
 </details>
 <p></p>
 <h2>Help is Available - And It Works</h2>
-<h4>Talking to Someone</h4>
-<p>Talking to a friend or family member can provide immediate support and
+<h4><strong>Talking to Someone</strong></h4>
+<p style="margin:0">Talking to a friend or family member can provide immediate support and
 understanding. Sharing feelings can relieve emotional burden and enhance
 connection.</p>
-<h4>Therapy Options</h4>
-<p>Various therapeutic approaches exist, including cognitive behavioral therapy
-(CBT), which can help change negative thought patterns.</p>
-<h4>Medication Assistance</h4>
-<p>Antidepressants can be effective for many individuals. A healthcare provider
-can help determine if medication is appropriate.</p>
-<h4>Lifestyle Changes</h4>
-<p>Incorporating regular exercise, a balanced diet, and adequate sleep can
-significantly impact mood and overall well-being.</p>
-<h4>Recovery is Possible</h4>
-<p>Everyone’s journey is different, but recovery is possible. Utilizing available
-resources can lead to significant improvement in mental health.</p>
+<h4><strong>Therapy Options</strong></h4>
+Various therapeutic approaches exist, including cognitive behavioral therapy
+(CBT), which can help change negative thought patterns.<p></p>
+<h4><strong>Medication Assistance</strong></h4>
+Antidepressants can be effective for many individuals. A healthcare provider
+can help determine if medication is appropriate.<p></p>
+<h4><strong>Lifestyle Changes</strong></h4>
+Incorporating regular exercise, a balanced diet, and adequate sleep can
+significantly impact mood and overall well-being.<p></p>
+<h4><strong>Recovery is Possible</strong></h4>
+Everyone’s journey is different, but recovery is possible. Utilizing available
+resources can lead to significant improvement in mental health.<p></p>
 <p></p>
