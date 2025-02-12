@@ -10,7 +10,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b>Deepen Insight Into Prognosis</b></summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"><b><h4>Deepen Insight Into Prognosis</h4></b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
@@ -32,7 +32,7 @@ interventions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Bio_Psycho_Social.png"><b>Integrate Bio-Psycho-Social Paradigms</b></summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Bio_Psycho_Social.png"><b><h4>Integrate Bio-Psycho-Social Paradigms</h4></b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Integrating Bio-Psycho-Social Paradigms for Comprehensive Understanding</u></strong>
 </p>
@@ -84,7 +84,7 @@ conditions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Understand_Depression.png"><b>Understand Depression Across Groups</b></summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Understand_Depression.png"><b><h4>Understand Depression Across Groups</h4></b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Determining the Outcomes of Depression</u></strong>
 </p>
@@ -105,7 +105,7 @@ settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Prevent_Depression.png"><b>Prevent Depression</b></summary>
+<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Prevent_Depression.png"><b><h4>Prevent Depression</h4></b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Prevention of Depression</u></strong>
 </p>
