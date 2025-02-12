@@ -43,10 +43,10 @@ sections:
   - infopic:
       title: Discover what your participation involves
       id: infopic
-      description: We are looking for participants to **[PREDICT STUDY
-        METHODOLOGIES]** and deepen our understanding of depression.
+      description: We are looking for participants to contribute to research and
+        deepen our understanding of depression.
       button: WHAT TO EXPECT
-      url: /journey-overview/
+      url: /procedure-overview/
       alt: Two people looking over papers
       image: /images/Stock photos/ICF/DSC1592.jpg
 ---
