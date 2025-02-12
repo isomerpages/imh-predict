@@ -36,7 +36,7 @@ thoughts about themselves.</p>
 <h4><strong> Depression is different for everyone</strong></h4>
 <p style="margin:0">People with depression may experience different set symptoms from one another. They may also hold different perceptions towards the the illness, as well as giving it a different meaning. Below is a video by the World Health Organization depicting one such representation.</p><p></p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC" height="315" width="560"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC" height="315" width="560"></iframe></center>
 
 <h2>Causes of Depression</h2>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
