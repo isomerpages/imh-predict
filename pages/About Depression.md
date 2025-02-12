@@ -36,20 +36,34 @@ thoughts about themselves.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 <h4><strong>Biopsychosocial Factors</strong></h4>
 <p style="margin:0">No factors can lead to depression single handedly! It is a result of a combination of biological, psychological and social factors </p>
-<h4><strong>Biological Factors</strong></h4>
-<p style="margin:0"><b>Genetic predisposition</b> plays a crucial role in an individual’s likelihood
+
+<details class="isomer-details">
+<summary><h4><strong>Biological Factors</strong></h4></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><b>Genetic predisposition</b> plays a crucial role in an individual’s likelihood
 of experiencing depression.</p>
 <p><b>Chemical imbalanced</b> in the brain can lead to abnormal fluctuation in mood </p>
-<p style="margin:0">Stressful life events can trigger or exacerbate depression, impacting
-mental health significantly.</p>
-<h4><strong>Psychological Factors</strong></h4>
-<p style="margin:0"><b>Negative thinking patterns </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts.</p>
+</div>
+</details>
+
+
+<details class="isomer-details">
+<summary><h4><strong>Psychological Factors</strong></h4></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><b>Negative thinking patterns </b> can lead to rumination of negative event and self-perception, sending individual down a spiral of negative thoughts.</p>
 <p><b>Traumatic life experiences</b> such as loss or abuse, can
 contribute to the development of depression.</p>
-<h4><strong>Social Factors</strong></h4>
-<p style="margin:0"><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
+</div>
+</details>
+
+<details class="isomer-details">
+<summary><h4><strong>Social Factors</strong></h4></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><b>Lack of social support</b> removed the protection and resources that individuals may have against stresses.</p>
 <p><b>Stressful life events </b> like changing of workplace or preparing for exams can trigger or exacerbate depression, impacting
 mental health significantly.</p>
+</div>
+</details>
 
 <p></p>
 <h2>Help is Available - And It Works</h2>
