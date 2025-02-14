@@ -106,25 +106,22 @@ Health Organization depicting one such representation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 </div>
 <h4><strong>Biopsychosocial Factors</strong></h4>
-<p>No factors can lead to depression single handedly! It is a result of a
-combination of biological, psychological and social factors</p>
+<p>No factors can lead to depression single handedly! Rather, it arises from a combination of biological, psychological and social factors</p>
 <details class="isomer-details">
 <summary><strong>Biological Factors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Genetic predisposition</strong> plays a crucial role in an individual’s
 likelihood of experiencing depression.</p>
-<p><strong>Chemical imbalanced</strong> in the brain can lead to abnormal
-fluctuation in mood</p>
+<p><strong>Chemical imbalances</strong> in the brain can lead to abnormal
+fluctuations in mood</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Psychological Factors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Negative thinking patterns </strong>can lead to rumination of
-negative event and self-perception, sending individual down a spiral of
-negative thoughts.</p>
+<p><strong>Negative thinking patterns </strong>can lead to excessive rumination on past events, driving individuals into a spiral of persistent negative thoughts.</p>
 <p><strong>Traumatic life experiences</strong> such as loss or abuse, can
 contribute to the development of depression.</p>
 </div>
@@ -133,8 +130,8 @@ contribute to the development of depression.</p>
 <summary><strong>Social Factors</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Lack of social support</strong> removed the protection and resources
-that individuals may have against stresses.</p>
+<p>A <strong>lack of social support</strong> removes the protection and resources
+that individuals need to cope with stress.</p>
 <p><strong>Stressful life events </strong>like changing of workplace or preparing
 for exams can trigger or exacerbate depression, impacting mental health
 significantly.</p>
