@@ -8,14 +8,26 @@ description: ""
 <p>Below are lists of helplines and websites for those who may be facing mental health issues to seek help from:</p>
 <p></p>
 
+<details class="isomer-details">
+<summary><h4><strong>Government Affliated Initiatives</strong></h4>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
+<details class="isomer-details">
+<summary><strong>National Care Hotline</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 1800-202-6868</p>
+</div></details>
+	
+<details class="isomer-details">
+<summary><strong>Fei Yue's Online Counselling Service</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Website: https://www.ec2.sg/</p>
+</div></details>
+
+</div></details>
 
 
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_12_at_23_01_53.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_12_at_23_02_34.png">
-</div>
+
 <p>Click <a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download a copy of our Helpline Brochure</p>
