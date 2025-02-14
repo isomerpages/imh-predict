@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h1> Helpline Brochure </h1>
-<p>Below are lists of helplines and websites to avenues for those who may be facing mental health issues to seek help from:</p>
+<p>Below are lists of helplines and websites for those who may be facing mental health issues to seek help from:</p>
 <p></p>
 
 
