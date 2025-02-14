@@ -14,7 +14,7 @@ to anyone, no matter their background or life situation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 </div>
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
-<p>Depression is characterized by an array of symptoms that were experienced
+<p>Depression is characterized by an array of symptoms that are experienced
 for a prolonged period of time.</p>
 <p></p>
 <div class="isomer-card-grid">
@@ -94,8 +94,7 @@ thoughts about themselves.</div>
 
 
 <h4><strong>Depression is different for everyone</strong></h4>
-<p>People with depression may experience different set symptoms from one
-another. They may also hold different perceptions towards the the illness,
+<p>Individuals with depression may experience a variety of symptoms that differ from person to person. They may also hold different perceptions towards the the illness,
 as well as giving it a different meaning. Below is a video by the World
 Health Organization depicting one such representation.</p>
 <p></p>
