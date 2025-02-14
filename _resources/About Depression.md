@@ -5,7 +5,6 @@ variant: markdown
 description: "PREDICT Study: About Depression"
 ---
 <center><h1><strong>DEPRESSION IS MORE COMMON THAN YOU THINK</strong></h1>
-<h1><strong>THAN YOU THINK</strong></h1>
 <p></p></center>
 <p>Millions of people around the world experience depression. It can happen
 to anyone, no matter their background or life situation.</p>
