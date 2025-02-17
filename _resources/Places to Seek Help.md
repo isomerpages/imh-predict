@@ -112,15 +112,23 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6365-8751</p>
 </div></details>	
+	
 <details class="isomer-details">
 <summary><strong>Queenstown</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6476-1481</p>
 </div></details>	
+	
 <details class="isomer-details">
-<summary><strong>Queenstown</strong></summary>
+<summary><strong>Toa Payoh</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tel: 6476-1481</p>
+<p>Tel: 6356-1622</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Woodlands</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6362-2481</p>
 </div></details>	
 	
 </div></details>
