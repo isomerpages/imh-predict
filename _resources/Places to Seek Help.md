@@ -66,6 +66,13 @@ description: ""
 <p>Tel: 6449-9088</p>
 </div></details>
 
+<details class="isomer-details">
+<summary><strong>TOUCHline (Counselling)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Website: https://www.touch.org.sg/keeping-our-community-safe</p>
+<p>Tel: 1800-377-2252</p>
+</div></details>
+	
 </div></details>
 
 <p>Click <a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
