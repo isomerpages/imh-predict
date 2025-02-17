@@ -100,6 +100,9 @@ Health Organization depicting one such representation.</p>
 <div class="iframe-wrapper">
 <center><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC"></iframe></center>
 </div>
+
+<hr>
+
 <h2><strong>Causes of Depression</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
