@@ -58,7 +58,14 @@ description: ""
 <p>Website: https://www.careconer.org.sg/family-violence</p>
 <p>Tel: 6476-1482</p>
 </div></details>
-	
+
+<details class="isomer-details">
+<summary><strong>TRANS SAFE Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Website: https://www.transfamilyservices.org.sg/services-safe</p>
+<p>Tel: 6449-9088</p>
+</div></details>
+
 </div></details>
 
 <p>Click <a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
