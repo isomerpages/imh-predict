@@ -44,6 +44,34 @@ description: ""
 </div></details>
 
 <details class="isomer-details">
+<summary><h4><strong>Hospitals</strong></h4>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
+<details class="isomer-details">
+<summary><strong>National University Hospital (NUH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Department of Psychological Medicine</p>
+<p>Tel: 6779-5555</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>KK Womens' and Children's Hospital (KKH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Psychology Service</p>
+<p>Tel: 6225-5554</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Singapore General Hospital (SGH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Department of Psychiatry</p>
+<p>Tel: 6222-3322</p>
+</div></details>	
+
+</div></details>
+
+<details class="isomer-details">
 <summary><h4><strong>Government Affliated Initiatives</strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
