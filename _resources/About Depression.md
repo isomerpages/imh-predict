@@ -100,15 +100,15 @@ Health Organization depicting one such representation.</p>
 <div class="iframe-wrapper">
 <center><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XiCrniLQGYc?si=WXJLuLVa1uoXARAC"></iframe></center>
 </div>
-<h2>Causes of Depression</h2>
+<h2><strong>Causes of Depression</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 </div>
 <h4><strong>Biopsychosocial Factors</strong></h4>
 <p>No factors can lead to depression single handedly! Rather, it arises from a combination of biological, psychological and social factors</p>
 <details class="isomer-details">
-<summary><strong>Biological Factors</strong>
-</summary>
+<summary><h4><strong>Biological Factors</strong></h4><h4>
+</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Genetic predisposition</strong> plays a crucial role in an individual’s
 likelihood of experiencing depression.</p>
@@ -117,7 +117,7 @@ fluctuations in mood</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Psychological Factors</strong>
+<summary><h4><strong>Psychological Factors</strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Negative thinking patterns </strong>can lead to excessive rumination on past events, driving individuals into a spiral of persistent negative thoughts.</p>
@@ -126,8 +126,8 @@ contribute to the development of depression.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Social Factors</strong>
-</summary>
+<summary><h4><strong>Social Factors</strong></h4><h4>
+</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A <strong>lack of social support</strong> removes the protection and resources
 that individuals need to cope with stress.</p>
