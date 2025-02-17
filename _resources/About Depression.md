@@ -140,7 +140,7 @@ significantly.</p>
 </div>
 </details>
 <p></p>
-<h2>Help is Available - And It Works</h2>
+<h2><strong>Help is Available - And It Works</strong></h2>
 <h4><strong>Talking to Someone</strong></h4>
 <p style="margin:0">Talking to a friend or family member can provide immediate support and
 understanding. Sharing feelings can relieve emotional burden and enhance
