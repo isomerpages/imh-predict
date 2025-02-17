@@ -9,6 +9,20 @@ description: ""
 <p></p>
 
 <details class="isomer-details">
+<summary><h4><strong>Institute of Mental Health</strong></h4>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
+<details class="isomer-details">
+<summary><strong>Main Hotline</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: Those needing professional psychiatric care &amp; treatment</p>
+<p>Tel: 6389-2222</p>
+</div></details>	
+
+</div></details>
+
+<details class="isomer-details">
 <summary><h4><strong>Government Affliated Initiatives</strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
