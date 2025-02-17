@@ -178,6 +178,30 @@ description: ""
 </div></details>	
 </div></details>
 	
+<details class="isomer-details">
+<summary><strong>Marine Parade Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6445-0100</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Pasir Ris Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6581-2159</p>
+</div></details>		
+	
+<details class="isomer-details">
+<summary><strong>REACH Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6252-2566</p>
+</div></details>		
+	
+<details class="isomer-details">
+<summary><strong>Rotary Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6779-9488</p>
+</div></details>		
+
 </div></details>	
 
 <details class="isomer-details">
