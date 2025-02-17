@@ -379,10 +379,24 @@ description: ""
 </div></details>	
 	
 <details class="isomer-details">
-<summary><strong>Community Health Assessment Team (Chat)</strong></summary>
+<summary><strong>We Care</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To help and support young people with mental health concerns</p>
-<p>Tel: 6493-6500/6493-6501</p>
+<p>Purpose: For support and treatment programmes for all forms of addiction.</p>
+<p>Tel: 6547-5459</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Alcoholics Anonymous</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To provide a platform for alcoholics to support each other in achieving sobriety.</p>
+<p>Tel: 6475-0890</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Al-Anon family groups</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To offer help and support to families and friends of alcoholics.</p>
+<p>Tel: 9894-1201</p>
 </div></details>	
 	
 </div></details>
