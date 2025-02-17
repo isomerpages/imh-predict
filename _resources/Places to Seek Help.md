@@ -93,6 +93,19 @@ description: ""
 </div></details>
 
 <details class="isomer-details">
+<summary><h4><strong>Family Care Centres</strong></h4>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
+<details class="isomer-details">
+<summary><strong>All Addictions Helpline</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To provide support for all addiction-related issues</p>
+<p>Tel: 6-RECOVER (6-7326837)</p>
+</div></details>	
+</div></details>	
+
+<details class="isomer-details">
 <summary><h4><strong>Government Affliated Initiatives</strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
