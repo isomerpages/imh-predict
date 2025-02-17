@@ -98,11 +98,33 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 
 <details class="isomer-details">
-<summary><strong>All Addictions Helpline</strong></summary>
+<summary><strong>South Central Community Family Service Centre (SCCFSC)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To provide support for all addiction-related issues</p>
-<p>Tel: 6-RECOVER (6-7326837)</p>
+<p>Tel: 6461 9200</p>
 </div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Care Corner Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+	
+<details class="isomer-details">
+<summary><strong>Admiralty</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6365-8751</p>
+</div></details>	
+<details class="isomer-details">
+<summary><strong>Queenstown</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6476-1481</p>
+</div></details>	
+<details class="isomer-details">
+<summary><strong>Queenstown</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6476-1481</p>
+</div></details>	
+	
+</div></details>
+	
 </div></details>	
 
 <details class="isomer-details">
