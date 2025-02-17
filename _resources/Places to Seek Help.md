@@ -330,5 +330,62 @@ description: ""
 	
 </div></details>
 
+<details class="isomer-details">
+<summary><h4><strong>Others</strong></h4>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
+<details class="isomer-details">
+<summary><strong>AWARE Helpline</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: Women with Problems</p>
+<p>Tel: 1800-744-5935</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Care Corner Mandarin Counselling</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: For the Mandarin-speaking community with family, marital or personal problems.</p>
+<p>Tel: 1800-353-5800</p>
+</div></details>	
+
+<details class="isomer-details">
+<summary><strong>Centre for Promoting Alternatives to Violence (PAVe)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: For families facing violence in need of counselling and support services</p>
+<p>Website: http://www.pave.org.sg/index.php</p>
+<p>Tel: 6555-0390</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>SAGE Helpline for Seniors</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: For anyone 50 years and above or anyone who has a concern or question regarding someone 50 years and above.</p>
+<p>Tel: 1800-555-5555/6353-7159</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Samaritans of Singapore (SOS)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: For anybody in criisis and the suicidal.</p>
+<p>Tel: 1800-221-4444</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Community Health Assessment Team (Chat)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To help and support young people with mental health concerns</p>
+<p>Tel: 6493-6500/6493-6501</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Community Health Assessment Team (Chat)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To help and support young people with mental health concerns</p>
+<p>Tel: 6493-6500/6493-6501</p>
+</div></details>	
+	
+</div></details>
+
 <p>Click <a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download a copy of our Helpline Brochure</p>
