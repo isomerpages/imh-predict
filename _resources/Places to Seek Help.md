@@ -130,8 +130,25 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6362-2481</p>
 </div></details>	
-	
 </div></details>
+	
+<details class="isomer-details">
+<summary><strong>Fei Yue Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+	
+<details class="isomer-details">
+<summary><strong>Bukit Batok</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6569-0381</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Choa Chu Kang</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6762-5215</p>
+</div></details>	
+	
+</div></details>	
 	
 </div></details>	
 
