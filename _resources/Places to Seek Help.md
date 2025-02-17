@@ -147,8 +147,36 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6762-5215</p>
 </div></details>	
+</div></details>
 	
+<details class="isomer-details">
+<summary><strong>Hougang Sheng Hong Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6289-5022</p>
 </div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Kampong Kapor Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6299-7662</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Lakeside Family Service Centre</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+	
+<details class="isomer-details">
+<summary><strong>Jurong East</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6564-9722</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Jurong West</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tel: 6567-1908</p>
+</div></details>	
+</div></details>
 	
 </div></details>	
 
