@@ -5,6 +5,9 @@ variant: markdown
 description: ""
 ---
 <h1> Helpline Brochure </h1>
+
+<img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/help.jpg">
+
 <p>Below are lists of helplines and websites for those who may be facing mental health issues to seek help from:</p>
 <p></p>
 
