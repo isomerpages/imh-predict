@@ -69,6 +69,27 @@ description: ""
 <p>Tel: 6222-3322</p>
 </div></details>	
 
+<details class="isomer-details">
+<summary><strong>Sengkang General Hospital (SKH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Department of Psychiatry</p>
+<p>Tel: 6930-6000</p>
+</div></details>	
+	
+<details class="isomer-details">
+<summary><strong>Tan Tock Seng Hospital (TTSH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Psychological Medicine Clinic</p>
+<p>Tel: 6256-6011</p>
+</div></details>
+	
+<details class="isomer-details">
+<summary><strong>Changi General Hospital (CGH)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Division of Psychological Medicine</p>
+<p>Tel: 6788-8833</p>
+</div></details>
+	
 </div></details>
 
 <details class="isomer-details">
