@@ -10,7 +10,7 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Deepen_Insight.png"></summary>
+<summary><img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Deepen_Insight_Banner.png"></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>To Gain Deeper Insight into the Prognosis of Depressive Disorders<br></u></strong>
 </p>
@@ -32,7 +32,7 @@ interventions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Bio_Psycho_Social.png"></summary>
+<summary><img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Integrate_BPS_Banner.png"></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Integrating Bio-Psycho-Social Paradigms for Comprehensive Understanding</u></strong>
 </p>
@@ -84,7 +84,7 @@ conditions.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Understand_Depression.png"></summary>
+<summary><img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Understand_Depression_Banner.png"></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Determining the Outcomes of Depression</u></strong>
 </p>
@@ -105,7 +105,7 @@ settings.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><img style="width: 10%" height="auto" width="10%" alt="branch v2" src="/images/Icons/Prevent_Depression.png"></summary>
+<summary><img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Prevent_Depression_Banner.png"></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Prevention of Depression</u></strong>
 </p>
