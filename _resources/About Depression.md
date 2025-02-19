@@ -108,7 +108,7 @@ Health Organization depicting one such representation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 </div>
 <h4><strong>Biopsychosocial Factors</strong></h4>
-<p>No factors can lead to depression single handedly! Rather, it arises from a combination of biological, psychological and social factors</p>
+<p>No factor can lead to depression single handedly! Rather, it arises from a combination of biological, psychological and social factors</p>
 <details class="isomer-details">
 <summary><h4><strong>Biological Factors</strong></h4><h4>
 </h4></summary>
