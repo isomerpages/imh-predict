@@ -39,14 +39,14 @@ patients and assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Nisha Chandwani Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Nisha.png">
 </div>
-<p><strong>Dr. Nisha Chandwani</strong> is a Consultant, the Chief of Department
+<p><strong>Dr Nisha Chandwani</strong> is a Consultant, the Chief of Department
 of Mood and Anxiety and the service lead for the Mood Disorders Unit at
 the Institute of Mental Health, Singapore. She will help in the recruitment
 of patients and assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shazana Shahwan Profile Card" src="/images/Portraits/Profile Card Horizontal/Shazana_Shahwan.png">
 </div>
-<p><strong>Ms. Shazana Shahwan</strong> obtained her master’s in clinical
+<p><strong>Ms Shazana Shahwan</strong> obtained her master’s in clinical
 psychology degree and worked as a psychologist prior to her research career.
 She has trained lay interviewers and junior researchers in the administration
 psychological assessment tools for epidemiological research studies and
@@ -65,7 +65,7 @@ and has been in the mental health research for more than 20 years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Liu Jianlin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Liu_Jianlin.png">
 </div>
-<p><strong>Dr. Liu Jianlin</strong> is a Research Fellow at the Research Division,
+<p><strong>Dr Liu Jianlin</strong> is a Research Fellow at the Research Division,
 Institute of Mental health, Singapore. Dr. Liu is an American Psychological
 Association (APA) Editorial Fellow with Psychological Bulletin and Psychological
 Trauma: Theory, Research, Practice, and Policy. He is also the Consulting
