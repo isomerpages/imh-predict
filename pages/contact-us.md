@@ -24,12 +24,12 @@ contacts:
       - phone: +65 6389 2579
       - email: anitha_jeyagurunathan@imh.com.sg
       - other: ""
-    title: Ms. Anitha Jeyagurunathan
+    title: Ms Anitha Jeyagurunathan
   - content:
       - phone: +65 6389 2960
       - email: yunjue_zhang@imh.com.sg
       - other: ""
-    title: Ms. Zhang Yunjue
+    title: Ms Zhang Yunjue
   - content:
       - phone: +65 6389 2794
       - email: janhavi_vaingankar@imh.com.sg
