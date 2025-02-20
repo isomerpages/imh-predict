@@ -31,6 +31,14 @@ researchers or achieved positions of clinical leadership.</p>
 <p><strong>Dr Nisha Chandwani</strong> is a consultant and Chief of Department of Mood and Anxiety at
 IMH. She will help in the recruitment of patients and assessments.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Liu Jianlin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Liu_Jianlin.png">
+</div>
+<p><strong>Dr Liu Jianlin</strong> is a Research Fellow at the Research Division,
+Institute of Mental health, Singapore. Dr. Liu is an American Psychological
+Association (APA) Editorial Fellow with Psychological Bulletin and Psychological
+Trauma: Theory, Research, Practice, and Policy. He is also the Consulting
+Editor for Journal of Traumatic Stress.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shazana Shahwan Profile Card" src="/images/Portraits/Profile Card Horizontal/Shazana_Shahwan.png">
 </div>
 <p><strong>Ms Shazana Shahwan</strong> is a manager IMH's Research Division. She graduated with a Masters in Clinical Psychology and worked as a psychologist prior to her research career. She has over 15 years of experience conducting clinical assessments. She led research in the areas of stigma and non-suicidal self-injury and to date, has over 90 publications. Her roles in the PREDICT study include delivering the internet-based Skills Training in Affective and Interpersonal Regulation (i-STAIR) intervention and administering assessments in the longitudinal study..</p>
@@ -48,11 +56,3 @@ recruitment progress.
 <img style="width: 100%" height="auto" width="100%" alt="Carol Zhang Yunjue Profile Card" src="/images/Portraits/Profile Card Horizontal/Carol_Zhang.png">
 </div>
 <p>Carol Zhang is an Assistant Manager at the Institute of Mental Health.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Liu Jianlin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Liu_Jianlin.png">
-</div>
-<p><strong>Dr Liu Jianlin</strong> is a Research Fellow at the Research Division,
-Institute of Mental health, Singapore. Dr. Liu is an American Psychological
-Association (APA) Editorial Fellow with Psychological Bulletin and Psychological
-Trauma: Theory, Research, Practice, and Policy. He is also the Consulting
-Editor for Journal of Traumatic Stress.</p>
