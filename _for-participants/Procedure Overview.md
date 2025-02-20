@@ -4,6 +4,7 @@ permalink: /procedure-overview/
 variant: markdown
 description: ""
 ---
+<h1 align="centre">Overview of the study procedure</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/PREDICT_Infographics__1_.png">
 </div>
