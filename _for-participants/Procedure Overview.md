@@ -13,7 +13,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/2.png">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/a1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/2.png">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/a2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
