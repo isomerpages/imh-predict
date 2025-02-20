@@ -16,11 +16,7 @@ researchers or achieved positions of clinical leadership.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Janhavi Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Janhavi_Vaingankar.png">
 </div>
-<p><strong>Dr Janhavi Ajit Vaingankar</strong> is a Director at the Research
-Division, Institute of Mental Health, Singapore. She received her PhD in
-Public Health from the National University of Singapore. She has over 20
-years’ research experience that ranges from basic to mental health services
-research.</p>
+<p><strong>Dr Janhavi Ajit Vaingankar</strong> is an Epidemiologist, with Ph.D. in Public Health. She is a co-investigator of national mental health surveys in Singapore, including the National Youth Mental Health Study, Singapore Mental Health Study, and Well-being of the Singapore Elderly study. Her research focuses on psychiatric epidemiology, health services research, development and psychometric testing of person-reported outcome measures, and research in positive mental health and caregiver outcomes. She has over 200 peer-reviewed publications in these areas and an H-index of 58. </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Edimansyah Abdin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Edimansyah_Abdin.png">
 </div>
