@@ -146,15 +146,13 @@ significantly.</p>
 understanding. Sharing feelings can relieve emotional burden and enhance
 connection.</p>
 <h4><strong>Therapy Options</strong></h4>
-Various therapeutic approaches exist, including cognitive behavioral therapy
-(CBT), which can help change negative thought patterns.<p></p>
+<p>Various therapeutic approaches exist, including cognitive behavioral therapy (CBT), which can help change negative thought patterns.</p>
 <h4><strong>Medication Assistance</strong></h4>
-Antidepressants can be effective for many individuals. A healthcare provider
-can help determine if medication is appropriate.<p></p>
+<p>Antidepressants can be effective for many individuals. A healthcare provider
+can help determine if medication is appropriate.</p>
 <h4><strong>Lifestyle Changes</strong></h4>
-Incorporating regular exercise, a balanced diet, and adequate sleep can
-significantly impact mood and overall well-being.<p></p>
+<p>Incorporating regular exercise, a balanced diet, and adequate sleep can
+significantly impact mood and overall well-being.</p>
 <h4><strong>Recovery is Possible</strong></h4>
-Everyone’s journey is different, but recovery is possible. Utilizing available
-resources can lead to significant improvement in mental health.<p></p>
-<p></p>
+<p>Everyone’s journey is different, but recovery is possible. Utilizing available
+resources can lead to significant improvement in mental health.</p>
