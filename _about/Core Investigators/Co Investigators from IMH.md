@@ -31,13 +31,14 @@ researchers or achieved positions of clinical leadership.</p>
 <p><strong>Dr Nisha Chandwani</strong> is a consultant and Chief of Department of Mood and Anxiety at
 IMH. She will help in the recruitment of patients and assessments.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Yuan Qi Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Yuan_Qi.png">
+</div>
+<p><strong>Dr Yuan Qi</strong> is a Senior Research Fellow in IMH's Research Division. He is a trained quantitative researcher with experience in qualitative research methodology. He received his Ph.D. in Public Health from the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong, and a Bachelor's degree in Public Health Management from Tongji Medical College, Huazhong University of Science and Technology, China. His main research interests include stigma, dementia and related caregiving, mental health of caregivers, and digital health. He is currently an academic editor of Plos One and an editorial board member of Scientific Reports. In the PREDICT project, he will lead the sub-study on the digital intervention to improve the mental health of individuals with subsyndromal depression.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Liu Jianlin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Liu_Jianlin.png">
 </div>
-<p><strong>Dr Liu Jianlin</strong> is a Research Fellow at the Research Division,
-Institute of Mental health, Singapore. Dr. Liu is an American Psychological
-Association (APA) Editorial Fellow with Psychological Bulletin and Psychological
-Trauma: Theory, Research, Practice, and Policy. He is also the Consulting
-Editor for Journal of Traumatic Stress.</p>
+<p><strong>Dr Liu Jianlin</strong> is a Research Fellowin IMH's Research Division and an Adjunct Assistant Professor at the Department of Psychology, National University of Singapore. He completed his PhD (Psychological Medicine) with the Yong Loo Lin School of Medicine, National University of Singapore. He is an active scholar and educator in the field of psychological trauma. Dr. Liu is an American Psychological Association (APA) Editorial Fellow with Psychological Assessment. He is also the Consulting Editor for Psychological Bulletin, Psychological Trauma: Theory, Research, Practice, and Policy, and Journal of Traumatic Stress. Dr. Liu leads a trauma intervention trial (within PREDICT) for individuals with adverse childhood experiences and subsyndromal depression. He also provides training and supervision for trauma assessments to the team..</p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Shazana Shahwan Profile Card" src="/images/Portraits/Profile Card Horizontal/Shazana_Shahwan.png">
 </div>
