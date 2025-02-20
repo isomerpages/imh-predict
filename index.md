@@ -39,7 +39,7 @@ sections:
       button: Read more
       url: about-depression
       alt: Image alt text
-      image: /images/Infographics/AbtDepress.gif
+      image: /images/Infographics/AbtDep.gif
   - infopic:
       title: Discover what your participation involves
       id: infopic
