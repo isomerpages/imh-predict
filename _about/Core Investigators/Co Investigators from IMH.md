@@ -21,10 +21,7 @@ researchers or achieved positions of clinical leadership.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Dr Edimansyah Abdin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Edimansyah_Abdin.png">
 </div>
 <p><strong>Dr Edimansyah Abdin</strong> is a principal biostatistician at
-the research division, Institute of Mental Health, Singapore. He has been
-providing statistical support to the department including study design,
-sample size calculation, perform statistical analyses for nationwide surveys,
-clinical trials, and validating the mental health instruments.</p>
+the research division, Institute of Mental Health, Singapore. He has over 10 years of experience providing statistical support to researchers and clinicians, including study design, sample size calculation, weighting of survey samples, perform statistical analysis, and interpretation of results. He has led statistical analyses for several nationwide population-based surveys, clinical trials, and validation studies. His research interests include psychiatric epidemiology, psychometrics, and health services research.s.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Mok Yee Ming Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Mok.png">
 </div>
