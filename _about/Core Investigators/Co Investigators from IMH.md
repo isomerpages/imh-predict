@@ -62,3 +62,11 @@ recruitment progress.</p>
 <p><strong>Ms Pratika Satghare </strong>is a senior research officer at IMH's Research Division. She holds a master’s degree in public health. With over a decade of experience in mixed-methods mental health research, her expertise lies in psychiatric epidemiology and its physical co-morbidities. She has conducted qualitative and quantitative studies across diverse populations, including foreign migrant workers, young individuals with mental illness, and their caregivers. She has several  publications relevant to her research
 focus. In her role, she actively recruits research participants, trains interviewers, conducts
 interviews, ensure data integrity through meticulous study documentation and rigorous data analysis.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ellaisha Profile Card" src="/images/Portraits/Profile Card Horizontal/Ellaisha.png">
+</div>
+<p><strong>Ms Ellaisha Samari </strong>is a senior research officer at IMH's Research Division. She holds a master’s degree in public health. She has been actively involved in mental health research, focusing on youth mental health and caregiver well-being. With over eight years of expertise in conducting qualitative interviews and administering questionnaires, Ellaisha will be responsible for administering questionnaires and ensuring rigorous data monitoring for this project.</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" alt="Bernard Tan Profile Card" src="/images/Portraits/Profile Card Horizontal/Bernard_Tan.png">
+</div>
+<p><strong>Mr Bernard Tan </strong> is a Senior Research Officer at the IMH's Research Division. He graduated with a BSc in Psychology and currently manages and maintains the quality of data for the department. His responsibilities for the PREDICT study include overseeing data storage, ensuring data integrity, conducting preliminary analysis, and managing contact records. </p>
