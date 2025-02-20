@@ -61,5 +61,4 @@ recruitment progress.</p>
 </div>
 <p><strong>Ms Pratika Satghare </strong>is a senior research officer at IMH's Research Division. She holds a master’s degree in public health. With over a decade of experience in mixed-methods mental health research, her expertise lies in psychiatric epidemiology and its physical co-morbidities. She has conducted qualitative and quantitative studies across diverse populations, including foreign migrant workers, young individuals with mental illness, and their caregivers. She has several  publications relevant to her research
 focus. In her role, she actively recruits research participants, trains interviewers, conducts
-interviews, ensure data integrity through meticulous study documentation and rigorous data analysis.
-.</p>
+interviews, ensure data integrity through meticulous study documentation and rigorous data analysis.</p>
