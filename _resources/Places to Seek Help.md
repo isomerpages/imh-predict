@@ -370,7 +370,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Samaritans of Singapore (SOS)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For anybody in criisis and the suicidal.</p>
+<p>Purpose: For anybody in crisis and the suicidal.</p>
 <p>Tel: 1800-221-4444</p>
 </div></details>	
 	
