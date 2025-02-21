@@ -4,6 +4,7 @@ permalink: /pre-visit-information/
 variant: markdown
 description: ""
 ---
+<h1>Things to take note before coming down for the visit</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attire: We suggest all participants to come in a casual attire that is
@@ -17,4 +18,6 @@ procedure. See the overview of the procedures <a href="/procedure-overview/" rel
 <p>Come on time to minimise disruption to other participants/study.</p>
 </li>
 </ul>
-<p></p>
+<h3><strong>Site Map</strong></h3>
+<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/SiteMap.gif">
+<p>Follow the <span style="color: red">red</span> dotted line if you are walking in and the <span style="color: purple">purple</span> dotted line if you are drop off by car</p>
