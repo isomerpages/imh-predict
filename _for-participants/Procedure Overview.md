@@ -32,7 +32,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Biological Sampling</div>
-<div class="isomer-card-description">To be added</div>
+<div class="isomer-card-description">With your consent, a certified research coordinator will collect a fasting blood sample of approximately 30 ml (6 teaspoons) to assess your metabolic status. The study will also analyze biomarkers that may affect brain function. Additionally, a small hair sample will be collected for a longitudinal cumulative cortisol assay.</div>
 </div>
 </div>
 </div>
