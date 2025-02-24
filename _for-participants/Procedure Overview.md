@@ -46,7 +46,8 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Questionnaire</div>
-<div class="isomer-card-description">To be added</div>
+<div class="isomer-card-description"> Version a. This interview will collect data on sociodemographics (e.g., age, gender, ethnicity, education, and employment), mental health (e.g., depression, anxiety, and substance use), psychosocial risks (e.g., loneliness, childhood trauma, and social media use), and protective factors (e.g., resilience, social support, and positive mental health). It will also cover personality, healthcare use, stressful life events, family history of depression, and quality of life. All data will be collected via an online platform.
+	Version b. This interview will gather information about your background (e.g., age, gender, education, and job), mental health (e.g., depression, anxiety, and substance use), and social experiences (e.g., loneliness, childhood experiences, and social media use). It will also look at positive factors that support well-being (e.g., resilience and social support), as well as personality, healthcare use, life challenges, family history of depression, and overall quality of life. All responses will be collected through an online platform.</div>
 </div>
 </div>
 </div>
