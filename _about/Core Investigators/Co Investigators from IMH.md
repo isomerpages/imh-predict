@@ -46,7 +46,7 @@ IMH. She will help in the recruitment of patients and assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Carol Zhang Yunjue Profile Card" src="/images/Portraits/Profile Card Horizontal/Carol_Zhang.png">
 </div>
-<p>Carol Zhang is the Assistant Manager at the Institute of Mental Health's (IMH) Research Department. She holds a Master of Public Health and has dedicated her career to mental health research, specializing in public health epidemiology, stigma, and caregiver mental well-being. With a strong background in mixed-methods research, she integrates both qualitative and quantitative approaches to gain a comprehensive understanding of mental health issues. Her work aims to inform policies and interventions that improve mental health outcomes at both individual and population levels.</p>
+<p><strong>Ms Carol Zhang</strong> is the Assistant Manager at the Institute of Mental Health's (IMH) Research Department. She holds a Master of Public Health and has dedicated her career to mental health research, specializing in public health epidemiology, stigma, and caregiver mental well-being. With a strong background in mixed-methods research, she integrates both qualitative and quantitative approaches to gain a comprehensive understanding of mental health issues. Her work aims to inform policies and interventions that improve mental health outcomes at both individual and population levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anitha Jeyagurunathan Profile Card" src="/images/Portraits/Profile Card Horizontal/Anitha_Jeyagurunathan.png">
 </div>
