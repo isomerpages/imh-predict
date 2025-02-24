@@ -61,7 +61,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Physical Health Assessment</div>
-<div class="isomer-card-description">To be added</div>
+<div class="isomer-card-description">During the assessment, physical health measurements such as height, weight, blood pressure, hip and waist circumference and grip strength will be recorded to provide a comprehensive overview of your overall health.</div>
 </div>
 </div>
 </div>
@@ -75,7 +75,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">End of Study Visit</div>
-<div class="isomer-card-description">To be added</div>
+<div class="isomer-card-description">You will receive an inconvenience fee as specified in the informed consent form, and you will be required to sign the payment voucher upon reimbursement.</div>
 </div>
 </div>
 </div>
