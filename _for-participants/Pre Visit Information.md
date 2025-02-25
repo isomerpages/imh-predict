@@ -13,7 +13,7 @@ description: ""
 light and comfortable.</p>
 </li>
 <li>
-<p>Please come fasted as there is a fasted blood draw as part of the study
+<p>Please come fasting, as fasting blood draw is part of the study
 procedure. See the overview of the procedures <a href="/procedure-overview/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
