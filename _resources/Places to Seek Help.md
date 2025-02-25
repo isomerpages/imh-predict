@@ -15,7 +15,7 @@ description: ""
 <p><strong>Tel: 1800-221-4444</strong></p>
 
 <h3>MindlineSG</h3>
-<p><strong>Website: <a href="mindline.sg">mindline.sg</a></strong></p><a href="mindline.sg">
+<p><strong>Website: <a href="mindline.sg">mindline.sg</a></strong></p>
 
 <h2> Other mental health helplines and websites </h2>
 <p>Below are lists of other helplines and websites for those who may be facing mental health issues to seek help from:</p>
@@ -407,5 +407,5 @@ description: ""
 	
 </div></details>
 
-</a><p><a href="mindline.sg">Click </a><a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p><a href="mindline.sg">Click </a><a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download a copy of our Helpline Brochure</p>
