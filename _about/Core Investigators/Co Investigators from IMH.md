@@ -10,9 +10,7 @@ third_nav_title: Core Investigators
 </div>
 <p><strong>Professor Chong Siow Ann</strong> is a senior consultant 
 at the Institute of Mental Health (IMH) and was the recipient of the Translational<em> &amp; </em>Clinical
-Research<em> (</em>TCR) Flagship Programme in psychosis. He has mentored
-clinicians and researchers in IMH - most of whom have become either successful
-researchers or achieved positions of clinical leadership.</p>
+Research<em> (</em>TCR) Flagship Programme in psychosis. He is also the lead investigator of several nationwide epidemiological studies in Singapore, which have provided a deeper understanding of the state of mental health in the country and informed policy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Janhavi Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Janhavi_Vaingankar.png">
 </div>
