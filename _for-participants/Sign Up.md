@@ -4,6 +4,8 @@ permalink: /sign-up/
 variant: markdown
 description: Sign up for the PREDICT Study
 ---
+<h1>How to sign up</h1>
+
 <p>Please indicate " <strong><u>PREDICT</u> </strong>"<strong> </strong>in
 the <strong>message </strong>field to express interest. If the form below
 is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a0012869089" rel="noopener noreferrer nofollow" target="_blank">here</a>.
