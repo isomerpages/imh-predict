@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: What Can You Expect
           description: Find out what you'll be doing
-          url: /join-us/
+          url: /procedure-overview/
         - title: Contact Us
           description: Reach out to our researchers
           url: /contact-us/
