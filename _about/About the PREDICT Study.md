@@ -49,8 +49,8 @@ Factor</p>
 <p>(BDNF) and longitudinal cortisol levels via hair samples.</p>
 </li>
 <li>
-<p>Inflammatory markers like C-reactive protein (CRP), and tumor necrosis
-factor-alpha (TNF-α) will be monitored.</p>
+<p>Inflammatory markers like C-Reactive Protein (CRP), and Tumor Necrosis
+Factor-alpha (TNF-α) will be monitored.</p>
 </li>
 </ul>
 </li>
@@ -62,7 +62,7 @@ factor-alpha (TNF-α) will be monitored.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The study will explore the association of psychosocial factors including
-age of onset, mastery, loneliness, resilience, social support and stressful
+age of onset, loneliness, resilience, social support and stressful
 life events with depression.</p>
 </li>
 </ul>
@@ -92,7 +92,7 @@ conditions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The findings of the study will provide insights into recovery trajectories,
-risks of relapse, and persistence of subthreshold symptoms in the Singapore
+risk of relapse, and persistence of subthreshold symptoms in the Singapore
 context.</p>
 </li>
 <li>
@@ -116,7 +116,7 @@ settings.</p>
 factor for major depressive disorder (MDD).</p>
 </li>
 <li>
-<p>Leveraging the population sample from SMHS and HELIOS, the research will
+<p>Leveraging the population samples from epidemiological studies, the research will
 identify individuals with subsyndromal symptoms and trial two non-pharmaceutical
 interventions:</p>
 <ul data-tight="true" class="tight">
