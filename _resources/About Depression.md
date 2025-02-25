@@ -4,7 +4,7 @@ permalink: /about-depression/
 variant: markdown
 description: "PREDICT Study: About Depression"
 ---
-<center><h1><strong>DEPRESSION  IS  MORE  COMMON  THAN  YOU  THINK</strong></h1>
+<center><h1><strong>DEPRESSION IS MORE COMMON THAN YOU THINK</strong></h1>
 <p></p></center>
 <p>Millions of people around the world experience depression. It can happen
 to anyone, no matter their background or life situation.</p>
@@ -13,7 +13,7 @@ to anyone, no matter their background or life situation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 </div>
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
-<p>Depression is characterized by an array of symptoms that are experienced
+<p>Depression is characterized by a range of symptoms that are experienced
 for a prolonged period of time.</p>
 <p></p>
 <div class="isomer-card-grid">
@@ -83,7 +83,7 @@ significant weight loss or gain.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Feeling of guilt and worthlessness</div>
+<div class="isomer-card-title">Feelings of guilt and worthlessness</div>
 <div class="isomer-card-description">Depression can distort self-image, leading individuals to have negative
 thoughts about themselves.</div>
 </div>
@@ -108,7 +108,7 @@ Health Organization depicting one such representation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/Biopsychosocial.png">
 </div>
 <h4><strong>Biopsychosocial Factors</strong></h4>
-<p>No factor can lead to depression single handedly! Rather, it arises from a combination of biological, psychological and social factors</p>
+<p>No factor can lead to depression single-handedly! Rather, it arises from a combination of biological, psychological and social factors.</p>
 <details class="isomer-details">
 <summary><h4><strong>Biological Factors</strong></h4><h4>
 </h4></summary>
@@ -116,7 +116,7 @@ Health Organization depicting one such representation.</p>
 <p><strong>Genetic predisposition</strong> plays a crucial role in an individual’s
 likelihood of experiencing depression.</p>
 <p><strong>Chemical imbalances</strong> in the brain can lead to abnormal
-fluctuations in mood</p>
+fluctuations in mood.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -154,5 +154,5 @@ can help determine if medication is appropriate.</p>
 <p>Incorporating regular exercise, a balanced diet, and adequate sleep can
 significantly impact mood and overall well-being.</p>
 <h4><strong>Recovery is Possible</strong></h4>
-<p>Everyone’s journey is different, but recovery is possible. Utilizing available
+<p>Everyone’s journey is unique, but recovery is possible. Utilizing available
 resources can lead to significant improvement in mental health.</p>
