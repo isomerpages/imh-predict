@@ -4,7 +4,7 @@ permalink: /pre-visit-information/
 variant: markdown
 description: ""
 ---
-<h1>Things to take note before coming down</h1>
+<h1>Things to take note of before coming down for your study visit</h1>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
