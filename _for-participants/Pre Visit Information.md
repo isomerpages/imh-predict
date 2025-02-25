@@ -17,7 +17,7 @@ light and comfortable.</p>
 procedure. See the overview of the procedures <a href="/procedure-overview/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p>Come on time to minimise disruption to other participants/study.</p>
+<p>Please arrive on time to minimise disruption to other participants and the study.</p>
 </li>
 </ul>
 <h3><strong>Site Map</strong></h3>
