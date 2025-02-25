@@ -35,7 +35,7 @@ sections:
       subtitle: What is Depression?
       id: infopic
       description: The Lifetime and 12-month prevalence of depression, both globally
-        and in Singapore have been increasing steadily.
+        and in Singapore, have been increasing steadily.
       button: Read more
       url: about-depression
       alt: Image alt text
