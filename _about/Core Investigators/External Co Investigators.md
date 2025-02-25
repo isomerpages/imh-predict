@@ -9,7 +9,7 @@ third_nav_title: Core Investigators
 <img style="width: 100%" height="auto" width="100%" alt="Prof John Chambers Profile Card" src="/images/Portraits/Profile Card Horizontal/Prof_John_Chambers.png">
 </div>
 <p><strong>Professor John Chambers </strong>is the Professor of Cardiovascular
-Epidemiology at LKC Medicine and the Chief Scientific Officer at PRECISE.
+Epidemiology at LKCMedicine and the Chief Scientific Officer at PRECISE.
 He has led several cohort studies and is currently the lead PI of HELIOS
 and the SG100K cohort.</p>
 <p></p>
@@ -27,10 +27,9 @@ in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Brenda Penninx" src="/images/Portraits/Profile Card Horizontal/Prof_Brenda.png">
 </div>
-<p><strong>Professor Brenda Penninx</strong> a leading researcher from the
-Netherlands Study of Depression and Anxiety (NESDA), recently visited Singapore
-to share groundbreaking insights with the PREDICT study team. NESDA, a
-comprehensive multi-site cohort study, focuses on understanding the long-term
+<p><strong>Professor Brenda Penninx</strong> is a Professor of Psychiatric Epidemiology in the Department of Psychiatry at&nbsp;Amsterdam UMC. She also leads the
+Netherlands Study of Depression and Anxiety (NESDA). NESDA is a
+comprehensive multi-site cohort study, that focuses on understanding the long-term
 progression and impact of depressive and anxiety disorders. It integrates
 biological and psychosocial research to identify predictors of these conditions’
 course and consequences.</p>
