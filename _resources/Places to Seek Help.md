@@ -19,7 +19,7 @@ description: ""
 <p style="margin-left: 30px;"><strong>Tel: 1800-221-4444</strong></p>
 
 <h2> Other mental health helplines and websites </h2>
-<p>Below are lists of other helplines and websites for those who may be facing mental health issues to seek help from:</p>
+<p>Below is a list of helplines and websites for those facing mental health challenges to seek help. Please click on the helpline brochure for contact details.</p>
 <p></p>
 
 <details class="isomer-details">
