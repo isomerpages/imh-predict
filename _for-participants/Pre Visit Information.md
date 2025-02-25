@@ -9,8 +9,7 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Attire: We suggest all participants to come in a casual attire that is
-light and comfortable.</p>
+<p>Attire: We suggest that all participants wear casual attire that is light and comfortable.</p>
 </li>
 <li>
 <p>Please come fasting, as fasting blood draw is part of the study
