@@ -93,7 +93,7 @@ thoughts about themselves.</div>
 
 
 <h4><strong>Depression is different for everyone</strong></h4>
-<p>Individuals with depression may experience a variety of symptoms that differ from person to person. They may also hold different perceptions towards the the illness,
+<p>Individuals with depression may experience a variety of symptoms that differ from person to person. They may also hold different perceptions towards the illness,
 as well as giving it a different meaning. Below is a video by the World
 Health Organization depicting one such representation.</p>
 <p></p>
