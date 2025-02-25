@@ -4,7 +4,9 @@ permalink: /pre-visit-information/
 variant: markdown
 description: ""
 ---
-
+<h1>Things to take note before coming down</h1>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attire: We suggest all participants to come in a casual attire that is
