@@ -15,6 +15,7 @@ description: ""
 <p><strong>Tel: 1800-221-4444</strong></p>
 
 <h3>MindlineSG</h3>
+<p><strong>Tel: 6389-2222</strong></p>
 <p><strong>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></strong></p>
 
 <h2> Other mental health helplines and websites </h2>
