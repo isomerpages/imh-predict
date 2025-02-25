@@ -11,12 +11,12 @@ description: ""
 <h2>Crisis help line</h2>
 <p>If you or someone you know is in crisis, do contact the one of the following helplines:</p>
 
-<h3>Samaritans of Singapore (SOS)</h3>
-<p><strong>Tel: 1800-221-4444</strong></p>
+<h3 style="margin-left: 30px;">MindlineSG</h3>
+<p style="margin-left: 30px;"><strong>Tel: 6389-2222</strong></p>
+<p style="margin-left: 30px;"><strong>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></strong></p>
 
-<h3>MindlineSG</h3>
-<p><strong>Tel: 6389-2222</strong></p>
-<p><strong>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></strong></p>
+<h3 style="margin-left: 30px;">Samaritans of Singapore (SOS)</h3>
+<p style="margin-left: 30px;"><strong>Tel: 1800-221-4444</strong></p>
 
 <h2> Other mental health helplines and websites </h2>
 <p>Below are lists of other helplines and websites for those who may be facing mental health issues to seek help from:</p>
