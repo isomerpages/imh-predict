@@ -8,6 +8,16 @@ description: ""
 
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/help.jpg">
 
+<h2>Crisis help line</h2>
+<p>If you or someone you know is in crisis, do contact the one of the following helplines:</p>
+
+<h3>Samaritans of Singapore (SOS)</h3>
+<p><strong>Tel: 1800-221-4444</strong></p>
+
+<h3>MindlineSG</h3>
+<p><strong>Website: mindline.sg</strong></p>
+
+<h2> Other mental health other helplines and websites </h2>
 <p>Below are lists of helplines and websites for those who may be facing mental health issues to seek help from:</p>
 <p></p>
 
@@ -365,13 +375,6 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: For anyone 50 years and above or anyone who has a concern or question regarding someone 50 years and above.</p>
 <p>Tel: 1800-555-5555/6353-7159</p>
-</div></details>	
-	
-<details class="isomer-details">
-<summary><strong>Samaritans of Singapore (SOS)</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For anybody in crisis and the suicidal.</p>
-<p>Tel: 1800-221-4444</p>
 </div></details>	
 	
 <details class="isomer-details">
