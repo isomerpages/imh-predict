@@ -26,8 +26,8 @@ sections:
   - infobar:
       title: About PREDICT
       description: "Preventing Depression: Investigation in Cohorts of its etiology
-        and Trajectory. A longitudinal study aims to comprehensively understand
-        depressive disorders."
+        and Trajectory. A longitudinal study that aims to comprehensively
+        understand depression."
       button: Learn more
       url: /study-information/
   - infopic:
