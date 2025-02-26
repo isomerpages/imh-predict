@@ -17,7 +17,7 @@ Thank you for visiting the Building Resilience and Intervention (BRAVE) website 
     *   that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
 
 #### **Links from this Web Site to other web sites**
-*   This Web Site contains hyperlinks to web sites which are not maintained by the PREDICT Study Team. The BRAVE Study Team is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
+*   This Web Site contains hyperlinks to web sites which are not maintained by the PREDICT Study Team. The PREDICT Study Team is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
     
 *   Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the PREDICT Study Team be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
