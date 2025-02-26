@@ -42,11 +42,7 @@ interventions.</p>
 <p>Neurobiological factors</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Neurobiological markers examined will include Brain-Derived Neurotrophic
-Factor</p>
-</li>
-<li>
-<p>(BDNF) and longitudinal cortisol levels via hair samples.</p>
+<p>Neurobiological markers examined will include Brain-Derived Neurotrophic Factor (BDNF) and longitudinal cortisol levels via hair samples.</p>
 </li>
 <li>
 <p>Inflammatory markers like C-Reactive Protein (CRP), and Tumor Necrosis
