@@ -1,12 +1,56 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
+The PREDICT study is conducted by the Institute of Mental Health (IMH), referred to as “Study Team”, “we”, “us” or “our” in this privacy statement.
 
-### **Government Agency Privacy Statement**
+#### **Type of Personal Information Collected and Purpose for Collection**
+    
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+i. A variety of information may be collected, including the participants' given name, family name, NRIC number, contact number and email address.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+ii. The personal information collected will allow the scheduling of consent-taking sessions leading to participation in the PREDICT study.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+iii. The Study Team will use the contact information collected during registration if interest for necessary communication and customer support. We will be unable to validate consent-giving and confirm study participation if no information was provided.
+
+#### **Disclosure of Personal Information**
+    
+
+i. The Study Team will not disclose any Participants' personal information except under these limited circumstances:
+
+a. ~~The Study Team will access the Participants' personal information to provide the services that participants request for. These services may include Mental Health Service Providers, Social Service Agencies, and other services relevant to the participants' needs.~~
+
+iii. Any disclosure of the participants' personal information by the Study Team to any third party will be used specifically for the purpose for which it had been disclosed. The Study Team will not share the participants' personal information to any party that is not involved in the screening, assessment, or management of mental health needs of the participant.
+
+vi. The Study Team shall protect and take all reasonable precautions and adequate measures to safeguard the participants’ personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction. The Study Team will not be held responsible for all submitted information and data that may be shared with any other third parties apart from those that The Study Team directly liaised with for the purpose of conducting this study.
+
+#### **Personal Information Security**
+    
+
+i. The Study Team shall protect and take all reasonable precautions and adequate measures to safeguard the participants' personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction.
+
+~~ii. The Study Team will protect the confidentiality of the participants’ personal information in its dealing with third parties.~~
+
+#### **Accuracy of Personal Information**
+    
+
+i. The participants’ personal information will be deemed as accurate and complete upon registration, necessary for the purpose for which it is intended to be used.
+
+ii. Accurate, complete and up to date personal information will minimise any inappropriate decisions made about a participant when the need arises.
+
+iii. A ‘Registration Confirmation’ Email will be sent to all successful registrants confirming their successful registration for the PREDICT Study.
+
+iv. The participants may email to imhresearch@imh.com.sg and request for changes to be made to their study participation details.
+
+#### **Retention and Destruction of Personal Information**
+    
+
+i. The Study Team will maintain appropriate practices for retention and destruction where participants’ personal information will be erased and destroyed if it is no longer of use or relevant. Upon the destruction of participants’ personal information, the Study Team will then no longer have access to such personal information.
+
+#### **Transfer of Personal Information**
+    
+
+i. The participants’ personal information provided is not transferrable to other countries and will be accessed only by the Study Team and its duly authorised partner/s. The Study Team shall not use any data provided by the participants, or any substance that is replicated or derived therefrom for any commercial or profit-generating purpose, or in the conduct of research that is subject to consulting, licensing or other similar legal or commercial obligations to another institution, corporation or business entity, unless the provider provides its prior written consent.
+
+7.  For any enquiries regarding the Privacy Policy or any requests regarding personal information, please contact the Study Team at 6389 2000
