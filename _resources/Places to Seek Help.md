@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/help.jpg">
 
 <h2>Crisis helpline</h2>
-<p>If you or someone you know is in crisis, do contact one of the following helplines:</p>
+<p>If you or someone you know is in crisis, please contact one of the following helplines:</p>
 
 <h3 style="margin-left: 30px;">MindlineSG</h3>
 <p style="margin-left: 30px;"><strong>Tel: 6389-2222</strong></p>
