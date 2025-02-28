@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/BannerNew.gif
+      background: /images/Hero Banner/NewBanner.gif
       url: /sign-up/
       variant: floating
       backgroundColor: gray
@@ -25,7 +25,7 @@ sections:
       alignment: right
   - infobar:
       title: About PREDICT
-      description: "Preventing Depression: Investigation in Cohorts of its etiology
+      description: "PREventing Depression: Investigation in Cohorts of its etiology
         and Trajectory. A longitudinal study that aims to comprehensively
         understand depression."
       button: Learn more
