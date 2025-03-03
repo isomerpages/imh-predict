@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1><strong>Excess costs of depression among a population-based older adults with chronic diseases in Singapore</strong></h1>
+<h1><strong>Excess costs of depression among population-based older adults with chronic diseases in Singapore</strong></h1>
 <h4>Jia Wei Neo, Xue Ying Guo, Edimansyah Abdin, Janhavi Ajit Vaingankar, Siow Ann Chong, Mythily Subramaniam &amp; Cynthia Chen</h4>
 <p></p>
 <h3>Background</h3>
