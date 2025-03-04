@@ -6,14 +6,14 @@ description: "PREDICT Study: About Depression"
 ---
 <h1 align="center"><strong>DEPRESSION IS MORE COMMON THAN YOU THINK</strong></h1>
 <p></p>
-<p>Millions of people around the world experience depression. It can happen
+<p align="justified">Millions of people around the world experience depression. It can happen
 to anyone, no matter their background or life situation.</p>
 <h2><strong>Symptoms of Depression</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/SympDep.gif">
 </div>
 <h4><strong>It's More Than Just Feeling Sad</strong></h4>
-<p>Depression is characterized by a range of symptoms that are experienced
+<p align="justified">Depression is characterized by a range of symptoms that are experienced
 for a prolonged period of time.</p>
 <p></p>
 <div class="isomer-card-grid">
