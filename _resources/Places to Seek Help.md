@@ -350,6 +350,13 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 
 <details class="isomer-details">
+<summary><strong>Health Promotion Board</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To provide resources and supports on mental well-being</p>
+<p>Website: https://www.hpb.gov.sg/healthy-living/mental-wellbeing</p>
+</div></details>	
+	
+<details class="isomer-details">
 <summary><strong>AWARE Helpline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: Women with Problems</p>
