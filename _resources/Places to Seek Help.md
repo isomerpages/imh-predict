@@ -406,6 +406,13 @@ description: ""
 <p>Tel: 9894-1201</p>
 </div></details>	
 	
+<details class="isomer-details">
+<summary><strong>Beyond Blue (Australia based organization)</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Purpose: To provide online resources and supports on mental health.</p>
+<p>Website: https://beyondblue.org.au</p>
+</div></details>	
+	
 </div></details>
 
 <p><a href="mindline.sg">Click </a><a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
