@@ -142,17 +142,17 @@ significantly.</p>
 <p></p>
 <h2><strong>Help is Available - And It Works</strong></h2>
 <h4><strong>Talking to Someone</strong></h4>
-<p style="margin:0">Talking to a friend or family member can provide immediate support and
+<p align="justify" style="margin:0">Talking to a friend or family member can provide immediate support and
 understanding. Sharing feelings can relieve emotional burden and enhance
 connection.</p>
 <h4><strong>Therapy Options</strong></h4>
-<p>Various therapeutic approaches exist, including cognitive behavioral therapy (CBT), which can help change negative thought patterns.</p>
+<p align="justify">Various therapeutic approaches exist, including cognitive behavioral therapy (CBT), which can help change negative thought patterns.</p>
 <h4><strong>Medication Assistance</strong></h4>
-<p>Antidepressants can be effective for many individuals. A healthcare provider
+<p align="justify">Antidepressants can be effective for many individuals. A healthcare provider
 can help determine if medication is appropriate.</p>
 <h4><strong>Lifestyle Changes</strong></h4>
-<p>Incorporating regular exercise, a balanced diet, and adequate sleep can
+<p align="justify">Incorporating regular exercise, a balanced diet, and adequate sleep can
 significantly impact mood and overall well-being.</p>
 <h4><strong>Recovery is Possible</strong></h4>
-<p>Everyone’s journey is unique, but recovery is possible. Utilizing available
+<p align="justify">Everyone’s journey is unique, but recovery is possible. Utilizing available
 resources can lead to significant improvement in mental health.</p>
