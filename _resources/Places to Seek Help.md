@@ -430,5 +430,5 @@ description: ""
 	
 </div></details>
 
-<p><a href="mindline.sg">Click </a><a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/PREDICT_Helpline_Brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download a copy of our Helpline Brochure</p>
