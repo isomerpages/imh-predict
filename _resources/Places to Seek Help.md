@@ -4,7 +4,7 @@ permalink: /places-to-seek-help/
 variant: markdown
 description: ""
 ---
-<h1> Helpline Brochure </h1>
+<h1> Seeking Help? Here Are Some Options </h1>
 
 <img style="width: 100%" height="auto" width="100%" alt="branch v2" src="/images/Infographics/help.jpg">
 
