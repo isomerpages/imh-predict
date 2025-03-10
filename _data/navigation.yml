@@ -18,6 +18,8 @@ links:
   - title: Media Center
     url: /media-center
     sublinks:
+      - title: Featured Articles
+        url: /media-center/featured-articles/
       - title: IMH Publications
         url: /media-center/imh-publication/
       - title: PREDICT News
