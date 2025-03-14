@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Prevalence and risk factors of depression and anxiety in primary care.&nbsp; Annals Academy of Medicine, Singapore</h1>
+<h1>Prevalence and risk factors of depression and anxiety in primary care.&nbsp;</h1>
 <h4>Yu Cong Eugene Chua, Yijun Carol Lin, Jeremy Kaiwei Lew, Sabrina Kay Wye Wong, Winnie Shok Wen Soon, Jinhui Wan, Edimansyah Abdin, Mythily Subramaniam, Wern Ee Tang, Eng Sing Lee</h4>
 <p><strong>Introduction: </strong>Anxiety and depressive disorders are highly
 prevalent mental health conditions worldwide. However, little is known
