@@ -226,7 +226,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>SINDA Family Service Centre</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tel: 6289-5911</p>
+<p>Tel: 1800 295 3333</p>
 </div></details>	
 	
 <details class="isomer-details">
