@@ -279,7 +279,7 @@ description: ""
 </div></details>	
 
 <details class="isomer-details">
-<summary><h4><strong>Government Affliated Initiatives</strong></h4>
+<summary><h4><strong>Government Affiliated Initiatives</strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 
