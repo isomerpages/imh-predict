@@ -4,7 +4,7 @@ permalink: /post-visit-information/
 variant: markdown
 description: ""
 ---
-<h1>Things to take note after the visit</h1>
+<h1>Things to take note of after the visit</h1>
 <p>Following the end of the visit, you will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
