@@ -12,7 +12,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/predict.png">
 </div>
 <p>Institute of Mental Health (IMH) recently welcomed Professor Brenda Penninx,
-the Principle Investigator from the Netherlands Study of Depression and
+the Principal Investigator from the Netherlands Study of Depression and
 Anxiety (NESDA) cohort study, for an in-depth two-day training session
 with the PREDICT study team. The training was hosted by the Mental Health
 Policy Programme Office’s Research Unit at IMH, underscoring Singapore’s
