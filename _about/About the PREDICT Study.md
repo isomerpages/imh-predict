@@ -93,7 +93,7 @@ context.</p>
 </li>
 <li>
 <p>The study will include participants from both tertiary care (Institute
-of Mental Health, IMH) and primary care settings, this multi-site approach
+of Mental Health, IMH) and primary care settings. This multi-site approach
 will enable comparison of outcomes and care trajectories across the two
 settings.</p>
 </li>
