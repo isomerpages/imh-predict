@@ -20,7 +20,7 @@ and the SG100K cohort.</p>
 <p><strong>Professor Eric Finkelstein</strong> is a health economist, Professor
 at the Duke-NUS Medical School, and Executive Director of the Lien Centre
 for Palliative Care. Most recently, he has led studies quantifying the
-economic burden of depression and anxiety symptoms and children and adults
+economic burden of depression and anxiety symptoms among children and adults
 in Singapore.</p>
 <p></p>
 <p></p>
