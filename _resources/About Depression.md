@@ -25,7 +25,7 @@ for a prolonged period of time.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Depressed mood</div>
-<div class="isomer-card-description">A persistent feeling of sadness and emptiness. A core characteristic of
+<div class="isomer-card-description">A persistent feeling of sadness and emptiness is a core characteristic of
 depression.</div>
 </div>
 </div>
