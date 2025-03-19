@@ -35,7 +35,7 @@ in Singapore.</p>
 </div>
 <p><strong>Professor Brenda Penninx</strong> is a Professor of Psychiatric Epidemiology in the Department of Psychiatry at&nbsp;Amsterdam UMC. She also leads the
 Netherlands Study of Depression and Anxiety (NESDA). NESDA is a
-comprehensive multi-site cohort study, that focuses on understanding the long-term
+comprehensive multi-site cohort study that focuses on understanding the long-term
 progression and impact of depressive and anxiety disorders. It integrates
 biological and psychosocial research to identify predictors of these conditions’
 course and consequences.</p>
