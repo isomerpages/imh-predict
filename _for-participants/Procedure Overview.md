@@ -18,7 +18,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Consent Taking</div>
-<div class="isomer-card-description">You will be provided with more information about the study such as its purpose, procedures and possible risks involved. Information on your rights as a participant will also be shared. Time will be given to you to ask any questions about the study and to consider your participation</div>
+<div class="isomer-card-description">You will be provided with more information about the study such as its purpose, procedures and possible risks involved. Information on your rights as a participant will also be shared. Time will be given to you to ask any questions about the study and to consider your participation.</div>
 </div>
 </div>
 </div>
