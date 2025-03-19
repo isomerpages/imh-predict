@@ -248,13 +248,13 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Ang Mo Kio</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tel: 6453-5349</p>
+<p>Tel: 6038-4100</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Cheng San</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tel: 6454-6678</p>
+<p>Tel: 6038-4120</p>
 </div></details>	
 	
 <details class="isomer-details">
