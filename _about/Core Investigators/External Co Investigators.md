@@ -9,7 +9,7 @@ third_nav_title: Core Investigators
 <img style="width: 100%" height="auto" width="100%" alt="Prof John Chambers Profile Card" src="/images/Portraits/Profile Card Horizontal/Prof_John_Chambers.png">
 </div>
 <p><strong>Professor John Chambers </strong>is the Professor of Cardiovascular
-Epidemiology at LKCMedicine and the Chief Scientific Officer at PRECISE.
+Epidemiology at LKCMedicine and Chief Scientific Officer at PRECISE.
 He has led several cohort studies and is currently the lead PI of HELIOS
 and the SG100K cohort.</p>
 <p></p>
