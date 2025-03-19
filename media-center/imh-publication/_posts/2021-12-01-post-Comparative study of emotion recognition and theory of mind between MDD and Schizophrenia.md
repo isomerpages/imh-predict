@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Comparative study of emotion recognition and theory of mind between major depressive disorder and schizophrenia.&nbsp; Journal of Affective Disorders</h1>
+<h1>Comparative study of emotion recognition and theory of mind between major depressive disorder and schizophrenia</h1>
 <h4>Keane Lim, Zixu Yang, Nur Amirah Abdul Rashid, Bhing Leet Tan, Justin Dauwels, Jimmy Lee</h4>
 <p><strong>Background: </strong>Social cognition as a transdiagnostic construct
 between major depressive disorder (MDD) and schizophrenia (SCZ) is not
