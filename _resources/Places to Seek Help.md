@@ -16,7 +16,8 @@ description: ""
 <p style="margin-left: 30px;"><strong>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></strong></p>
 
 <h3 style="margin-left: 30px;">Samaritans of Singapore (SOS)</h3>
-<p style="margin-left: 30px;"><strong>Tel: 1800-221-4444</strong></p>
+<p style="margin-left: 30px;"><strong>24-hour Hotline: 1767</strong></p>
+<p style="margin-left: 30px;"><strong>24-hour CareText: 9151 1767 (via Whatsapp)</strong></p>
 
 <h2> Other mental health helplines and websites </h2>
 <p>Below is a list of helplines and websites for those facing mental health challenges to seek help. Please click on the helpline brochure for contact details.</p>
