@@ -48,7 +48,7 @@ IMH. She will help in the recruitment of patients and assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anitha Jeyagurunathan Profile Card" src="/images/Portraits/Profile Card Horizontal/Anitha_Jeyagurunathan.png">
 </div>
-<p><strong>Ms Anitha Jeyagurunathan </strong>is a principal research officer at IMH's Research Division. She holds a master’s degree in social work, and had been actively involved in
+<p><strong>Ms Anitha Jeyagurunathan </strong>is a principal research officer at IMH's Research Division. She holds a master’s degree in social work and had been actively involved in
 mental health research, focusing on women’s mental health, and caregivers’ well-being. She
 has been in mental health research for more than 20 years. She has several publications in
 renowned journals. In the PREDICT study, she will be recruiting participants, translating study documents and providing support to ensure data quality through monitoring study documents and
