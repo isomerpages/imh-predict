@@ -10,7 +10,7 @@ description: Sign up for the PREDICT Study
 the <strong>message </strong>field to express interest. If the form below
 is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a0012869089" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>The information you provide will strictly be used for contacting you.
-It will not be connected to the data you provide in the study should you
+It will not be linked to the data you provide in the study should you
 participate in the study.</p>
 <div class="iframe-wrapper">
 <iframe style="width: 100%; height: 1700px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/61e8ac0f2ce86a0012869089"></iframe>
