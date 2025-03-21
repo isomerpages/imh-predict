@@ -17,7 +17,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>The study will track a cohort of individuals diagnosed with depression
-and sub-syndromal depression over 5 years.</p>
+and subsyndromal depression over 5 years.</p>
 </li>
 <li>
 <p>Information will be collected on age, employment status, social networks,
