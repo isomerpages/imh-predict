@@ -18,7 +18,7 @@ Research<em> (</em>TCR) Flagship Programme in psychosis. He is also the lead inv
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Edimansyah Abdin Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Edimansyah_Abdin.png">
 </div>
-<p><strong>Dr Edimansyah Abdin</strong> is a principal biostatistician in IMH's Research Division. He has over 10 years of experience providing statistical support to researchers and clinicians, including study design, sample size calculation, weighting of survey samples, perform statistical analysis, and interpretation of results. He has led statistical analyses for several nationwide population-based surveys, clinical trials, and validation studies. His research interests include psychiatric epidemiology, psychometrics, and health services research.</p>
+<p><strong>Dr Edimansyah Abdin</strong> is a principal biostatistician in IMH's Research Division. He has over 10 years of experience providing statistical support to researchers and clinicians, including study design, sample size calculation, weighting of survey samples, performing statistical analysis, and interpretation of results. He has led statistical analyses for several nationwide population-based surveys, clinical trials, and validation studies. His research interests include psychiatric epidemiology, psychometrics, and health services research.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Mok Yee Ming Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Mok.png">
 </div>
