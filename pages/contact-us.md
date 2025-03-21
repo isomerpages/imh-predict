@@ -16,7 +16,7 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6389 2579
+      - phone: +65 6389 2000
       - email: imhresearch@imh.com.sg
       - other: ""
     title: General Enquiries & Feedback
