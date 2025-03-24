@@ -354,7 +354,7 @@ description: ""
 <summary><strong>Mindline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Website: https://www.mindline.sg/</p>
+<p>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></p>
 <p>Tel: 6389-2222</p>
 </div></details>	
 	
@@ -362,7 +362,7 @@ description: ""
 <summary><strong>Health Promotion Board</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: To provide resources on mental well-being</p>
-<p>Website: https://www.hpb.gov.sg/healthy-living/mental-wellbeing</p>
+<p>Website: <a href="https://www.hpb.gov.sg/healthy-living/mental-wellbeing">https://www.hpb.gov.sg/healthy-living/mental-wellbeing</a></p>
 </div></details>	
 	
 <details class="isomer-details">
