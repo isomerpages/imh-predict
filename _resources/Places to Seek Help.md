@@ -20,7 +20,7 @@ description: ""
 <p style="margin-left: 30px;"><strong>24-hour CareText: 9151 1767 (via Whatsapp)</strong></p>
 
 <h2> Other mental health helplines and websites </h2>
-<p>Below is a list of helplines and websites for those facing mental health challenges to seek help. Please click on the helpline brochure for contact details.</p>
+<p>Below is a list of helplines and websites for those facing mental health challenges to seek help. For contact details, please click on the section below or download a copy of our Helpline Brochure below.</p>
 <p></p>
 
 <details class="isomer-details">
