@@ -383,7 +383,7 @@ description: ""
 <summary><strong>Centre for Promoting Alternatives to Violence (PAVe)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: For families facing violence in need of counselling and support services</p>
-<p>Website: http://www.pave.org.sg/index.php</p>
+<p>Website: <a href="http://www.pave.org.sg/index.php">http://www.pave.org.sg/index.php</a></p>
 <p>Tel: 6555-0390</p>
 </div></details>	
 	
@@ -426,7 +426,7 @@ description: ""
 <summary><strong>Beyond Blue (Australia based organization)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: To provide online resources and supports on mental health.</p>
-<p>Website: https://beyondblue.org.au</p>
+<p>Website: <a href="https://beyondblue.org.au">https://beyondblue.org.au</a></p>
 </div></details>	
 	
 </div></details>
