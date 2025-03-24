@@ -24,7 +24,7 @@ for a prolonged period of time.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Depressed mood</div>
+<div class="isomer-card-title">Depressed Mood</div>
 <div class="isomer-card-description">A persistent feeling of sadness and emptiness is a core characteristic of
 depression.</div>
 </div>
@@ -83,7 +83,7 @@ significant weight loss or gain.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Feelings of guilt and worthlessness</div>
+<div class="isomer-card-title">Feelings of Guilt and Worthlessness</div>
 <div class="isomer-card-description">Depression can distort self-image, leading individuals to have negative
 thoughts about themselves.</div>
 </div>
