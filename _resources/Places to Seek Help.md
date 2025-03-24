@@ -298,7 +298,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Silver Ribbon Singapore</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.silverribbonsingapore.com/</p>
+<p>Website: <a href="https://www.silverribbonsingapore.com/">https://www.silverribbonsingapore.com/</a></p>
 <p>Tel: 6386-1928</p>
 </div></details>
 	
