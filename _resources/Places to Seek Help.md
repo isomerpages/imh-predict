@@ -332,14 +332,14 @@ description: ""
 <details class="isomer-details">
 <summary><strong>TRANS SAFE Centre</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.transfamilyservices.org.sg/services-safe</p>
+<p>Website: <a href="https://www.transfamilyservices.org.sg/services-safe">https://www.transfamilyservices.org.sg/services-safe</a></p>
 <p>Tel: 6449-9088</p>
 </div></details>
 
 <details class="isomer-details">
 <summary><strong>TOUCHline (Counselling)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.touch.org.sg/keeping-our-community-safe</p>
+<p>Website: <a href="https://www.touch.org.sg/keeping-our-community-safe">https://www.touch.org.sg/keeping-our-community-safe</a></p>
 <p>Tel: 1800-377-2252</p>
 </div></details>
 	
