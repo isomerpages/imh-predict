@@ -194,7 +194,7 @@ description: ""
 </div></details>
 	
 <details class="isomer-details">
-<summary><strong>Marine Parade Family Service Centre</strong></summary>
+<summary><strong>Montfort Care Family Service (Marine Parade)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6445-0100</p>
 </div></details>	
@@ -230,13 +230,13 @@ description: ""
 </div></details>	
 	
 <details class="isomer-details">
-<summary><strong>Tampines Family Service Centre</strong></summary>
+<summary><strong>MWS Family Service Centre (Tampines)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6787-2001</p>
 </div></details>	
 
 <details class="isomer-details">
-<summary><strong>Tanjong Pagar Family Service Centre</strong></summary>
+<summary><strong>THK Family Service Centre @Tanjong Pagar</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tel: 6270-6711</p>
 </div></details>	
