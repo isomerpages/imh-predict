@@ -305,7 +305,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Community Psychology Hub's Online Counselling platform</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.cphonlinecounselling.sg/hc/en-us</p>
+<p>Website: <a href="https://www.cphonlinecounselling.sg/hc/en-us">https://www.cphonlinecounselling.sg/hc/en-us</a></p>
 </div></details> 
 	
 <details class="isomer-details">
