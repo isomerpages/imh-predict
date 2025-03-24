@@ -376,7 +376,7 @@ description: ""
 <summary><strong>Care Corner Mandarin Counselling</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: For the Mandarin-speaking community with family, marital or personal problems.</p>
-<p>Tel: 1800-353-5800</p>
+<p>Tel: 1800-3535-800</p>
 </div></details>	
 
 <details class="isomer-details">
