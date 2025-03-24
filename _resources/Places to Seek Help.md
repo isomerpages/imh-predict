@@ -369,7 +369,7 @@ description: ""
 <summary><strong>AWARE Helpline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Purpose: Women with Problems</p>
-<p>Tel: 1800-744-5935</p>
+<p>Tel: 1800-777-5555</p>
 </div></details>	
 	
 <details class="isomer-details">
