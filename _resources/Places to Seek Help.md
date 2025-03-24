@@ -311,14 +311,14 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Big Love Child Protection Specialist Centre</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.biglove.org.sg/</p>
+<p>Website: <a href="https://www.biglove.org.sg/">https://www.biglove.org.sg/</a></p>
 <p>Tel: 6445-0400</p>
 </div></details>
 
 <details class="isomer-details">
 <summary><strong>HEART @ Fei Yue Child Protection Specialist Centre</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.fycs.org/our-work/children/community-based-child-protection-specialist-centre/</p>
+<p>Website: <a href="https://www.fycs.org/our-work/children/community-based-child-protection-specialist-centre/">https://www.fycs.org/our-work/children/community-based-child-protection-specialist-centre/</a></p>
 <p>Tel: 6819-9170</p>
 </div></details>
 	
