@@ -292,7 +292,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Fei Yue's Online Counselling Service</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Website: https://www.ec2.sg/</p>
+<p>Website: <a href="https://www.ec2.sg/">https://www.ec2.sg/</a></p>
 </div></details>
 
 <details class="isomer-details">
