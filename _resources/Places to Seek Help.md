@@ -299,7 +299,7 @@ description: ""
 <summary><strong>Silver Ribbon Singapore</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Website: https://www.silverribbonsingapore.com/</p>
-<p>Tel: 6385-3714</p>
+<p>Tel: 6386-1928</p>
 </div></details>
 	
 <details class="isomer-details">
