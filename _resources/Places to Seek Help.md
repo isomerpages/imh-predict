@@ -31,7 +31,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Main Hotline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: Those needing professional psychiatric care &amp; treatment</p>
+<p>Manned by trained counsellors from IMH for those requiring advice on mental health issues</p>
 <p>Tel: 6389-2222</p>
 </div></details>	
 
