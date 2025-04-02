@@ -45,7 +45,7 @@ description: ""
 <details class="isomer-details">
 <summary><strong>All Addictions Helpline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To provide support for all addiction-related issues</p>
+<p>To provide support for all addiction-related issues</p>
 <p>Tel: 6-RECOVER (6-7326837)</p>
 </div></details>	
 
@@ -354,28 +354,28 @@ description: ""
 <details class="isomer-details">
 <summary><strong>Health Promotion Board</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To provide resources on mental well-being</p>
+<p>To provide resources on mental well-being</p>
 <p>Website: <a href="https://www.hpb.gov.sg/healthy-living/mental-wellbeing">https://www.hpb.gov.sg/healthy-living/mental-wellbeing</a></p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>AWARE Helpline</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: Women with Problems</p>
+<p>Women with Problems</p>
 <p>Tel: 1800-777-5555</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Care Corner Mandarin Counselling</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For the Mandarin-speaking community with family, marital or personal problems.</p>
+<p>For the Mandarin-speaking community with family, marital or personal problems.</p>
 <p>Tel: 1800-3535-800</p>
 </div></details>	
 
 <details class="isomer-details">
 <summary><strong>Centre for Promoting Alternatives to Violence (PAVe)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For families facing violence in need of counselling and support services</p>
+<p>For families facing violence in need of counselling and support services</p>
 <p>Website: <a href="http://www.pave.org.sg/index.php">http://www.pave.org.sg/index.php</a></p>
 <p>Tel: 6555-0390</p>
 </div></details>	
@@ -383,42 +383,42 @@ description: ""
 <details class="isomer-details">
 <summary><strong>SAGE Helpline for Seniors</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For anyone 50 years and above or anyone who has a concern or question regarding someone 50 years and above.</p>
+<p>For anyone 50 years and above or anyone who has a concern or question regarding someone 50 years and above.</p>
 <p>Tel: 1800-555-5555/6353-7159</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Community Health Assessment Team (Chat)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To help and support young people with mental health concerns</p>
+<p>To help and support young people with mental health concerns</p>
 <p>Tel: 6493-6500/6493-6501</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>We Care</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: For support and treatment programmes for all forms of addiction.</p>
+<p>For support and treatment programmes for all forms of addiction.</p>
 <p>Tel: 6547-5459</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Alcoholics Anonymous</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To provide a platform for alcoholics to support each other in achieving sobriety.</p>
+<p>To provide a platform for alcoholics to support each other in achieving sobriety.</p>
 <p>Tel: 6475-0890</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Al-Anon family groups</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To offer help and support to families and friends of alcoholics.</p>
+<p>To offer help and support to families and friends of alcoholics.</p>
 <p>Tel: 9894-1201</p>
 </div></details>	
 	
 <details class="isomer-details">
 <summary><strong>Beyond Blue (Australia based organization)</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Purpose: To provide online resources and supports on mental health.</p>
+<p>To provide online resources and supports on mental health.</p>
 <p>Website: <a href="https://beyondblue.org.au">https://beyondblue.org.au</a></p>
 </div></details>	
 	
