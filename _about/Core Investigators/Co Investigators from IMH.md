@@ -22,7 +22,7 @@ Research<em> (</em>TCR) Flagship Programme in psychosis. He is also the lead inv
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Mok Yee Ming Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Mok.png">
 </div>
-<p><strong>Adj Asst Prof Mok Yee Ming</strong> is a senior consultant and the Assistant Chairman Medical Board (Clinical) at IMH. He founded Southeast Asia’s only Mood Disorders Unit (MDU). He will help in the recruitment of patients and assessments.</p>
+<p><strong>Adj Asst Prof Mok Yee Ming</strong> is a senior consultant and the Assistant Chairman Medical Board (Clinical) at IMH. He founded Southeast Asia’s only Mood Disorder Unit (MDU). He will help in the recruitment of patients and assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Nisha Chandwani Profile Card" src="/images/Portraits/Profile Card Horizontal/Dr_Nisha.png">
 </div>
