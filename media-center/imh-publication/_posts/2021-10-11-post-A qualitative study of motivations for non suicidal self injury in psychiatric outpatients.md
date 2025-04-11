@@ -40,5 +40,5 @@ presenting with NSSI.</p>
 <p><strong>Keywords: </strong>Functions; non-suicidal; reasons; self-harm;
 self-injury.</p>
 <p></p>
-<p>doi: <a href="10.11622/smedj.2021161" rel="noopener nofollow" target="_blank">10.11622/smedj.2021161</a>
+<p>doi: <a href="https://pubmed.ncbi.nlm.nih.gov/34628783/" rel="noopener nofollow" target="_blank">10.11622/smedj.2021161</a>
 </p>
