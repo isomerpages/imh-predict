@@ -34,5 +34,6 @@ depression and suicidality.Personal growth and autonomy fully mediated
 the relationship between depression and suicidality.</p>
 <p><strong>Keywords: </strong>Positive mental health; psychiatry; suicidality.</p>
 <p></p>
-<p>doi: 10.1080/13811118.2022.2151955</p>
+<p>doi: <a href="10.1080/13811118.2022.2151955" rel="noopener nofollow" target="_blank">10.1080/13811118.2022.2151955</a>
+</p>
 <p></p>
