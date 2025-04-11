@@ -59,5 +59,6 @@ among the older adults with chronic diseases, demonstrating a need for
 more resources to improve systematic and clinical care for depressed older
 adults with chronic diseases.</p>
 <p></p>
-<p>doi: https://doi.org/10.1186/s12889-024-20306-1</p>
+<p>doi: <a href="https://doi.org/10.1186/s12889-024-20306-1" rel="noopener nofollow" target="_blank">https://doi.org/10.1186/s12889-024-20306-1</a>
+</p>
 <p></p>
