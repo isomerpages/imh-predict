@@ -28,6 +28,6 @@ this study illustrate the essential role of ER for youth’s healthy functioning
 and demonstrate the value of strengthening emotional regulatory capacities
 in them.</p>
 <p></p>
-<p>doi: https://doi.org/10.1177/07435584231161002
+<p>doi: <a href="https://doi.org/10.1177/07435584231161002" rel="noopener nofollow" target="_blank">https://doi.org/10.1177/07435584231161002 </a>
 <br>
 </p>
