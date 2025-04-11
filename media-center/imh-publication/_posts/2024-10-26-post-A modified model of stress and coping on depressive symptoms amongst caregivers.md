@@ -34,6 +34,6 @@ patterns. Future studies could explore the generalizability of these findings.</
 <p><strong>Keywords: </strong>Dementia; Depressive symptoms; Informal caregivers;
 Path analysis; Transactional model of stress and coping.</p>
 <p></p>
-<p>doi: 10.1038/s41598-024-76339-4
+<p>doi: <a href="https://www.nature.com/articles/s41598-024-76339-4" rel="noopener nofollow" target="_blank">10.1038/s41598-024-76339-4 </a>
 <br>
 </p>
