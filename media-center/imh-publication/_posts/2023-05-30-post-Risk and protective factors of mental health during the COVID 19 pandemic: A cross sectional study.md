@@ -37,5 +37,5 @@ can enhance mental health and well-being.</p>
 <p><strong>Keywords: </strong>COVID-19; positive mental health; resilience;
 well-being.</p>
 <p></p>
-<p>doi: <a href="10.47102/annals-acadmedsg.202341" rel="noopener nofollow" target="_blank">10.47102/annals-acadmedsg.202341</a>
+<p>doi: <a href="https://annals.edu.sg/risk-and-protective-factors-of-mental-health-during-the-covid-19-pandemic-a-cross-sectional-study-in-singapore/" rel="noopener nofollow" target="_blank">10.47102/annals-acadmedsg.202341</a>
 </p>
