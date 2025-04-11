@@ -44,4 +44,5 @@ intervention and preventive public health measures.</p>
 <p><strong>Keywords: </strong>Chronic pain; Comorbid; MDD; Major depressive
 disorder; Prevalence; Public health; Trend.</p>
 <p></p>
-<p>doi: 10.1016/j.jad.2024.08.046.</p>
+<p>doi: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032724012667?via%3Dihub" rel="noopener nofollow" target="_blank">10.1016/j.jad.2024.08.046.</a>
+</p>
