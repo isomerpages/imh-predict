@@ -39,6 +39,6 @@ global emotion dysregulation, and this information could aid clinical formulatio
 and treatment of childhood adversity-related psychopathology. (PsycInfo
 Database Record (c) 2024 APA, all rights reserved).</p>
 <p></p>
-<p>doi: <a href="10.1037/tra0001581" rel="noopener nofollow" target="_blank">10.1037/tra0001581</a>
+<p>doi: <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Ftra0001581" rel="noopener nofollow" target="_blank">10.1037/tra0001581</a>
 </p>
 <p></p>
