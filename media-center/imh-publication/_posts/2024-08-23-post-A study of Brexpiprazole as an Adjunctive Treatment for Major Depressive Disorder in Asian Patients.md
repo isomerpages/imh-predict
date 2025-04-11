@@ -36,5 +36,6 @@ were consistent with those from clinical trials.</p>
 <p><strong>Keywords: </strong>Adjunctive treatment; Antidepressants; Asian;
 Major depressive disorder; Real world.</p>
 <p>
-<br>doi: 10.9758/cpn.23.1143</p>
+<br>doi: <a href="https://www.cpn.or.kr/journal/view.html?doi=10.9758/cpn.23.1143" rel="noopener nofollow" target="_blank">10.9758/cpn.23.1143</a>
+</p>
 <p></p>
