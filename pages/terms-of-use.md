@@ -55,10 +55,10 @@ c.       that the Contents available through this Website or any functions
 
 ##### **VI. Privacy**
 
-16.   Your use of our Website is also governed by our Privacy Statement, which explains how we collect, use, and protect your personal data. 
+16.   Your use of our Website is also governed by our [Privacy Statement](https://predict-imhresearch.sg/privacy/), which explains how we collect, use, and protect your personal data. 
 
 ##### **VII. Governing Law and Jurisdiction**
 
 17.   These Terms shall be governed and construed in accordance with laws of the Republic of Singapore. Any dispute arising out of or in connection with the Terms including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the courts of Singapore.
 
-The content of this website is meant solely for research and education purposes and is not meant to substitute any advice provided by medical professionals. If you suspect that you are facing mental or any other health related problems, you are strongly encouraged to seek professional help. 
+The content of this website is meant solely for research and education purposes and is not meant to substitute any advice provided by medical professionals. If you suspect that you are facing mental or any other health related problems, you are strongly encouraged to seek professional help.
