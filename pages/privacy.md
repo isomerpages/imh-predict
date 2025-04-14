@@ -69,6 +69,6 @@ ii.  if it falls within one of the purposes which consent is deemed under the N
 
 15.This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and we encourage you to consult the privacy notices of those sites.
 
-16.PREDICT may amend, vary or modify this privacy statement from time to time without notice by updating this page. You should check this page from time to time to apprise yourself of any changes made. This privacy statement is effective from DD MMM YYYY.
+16.PREDICT may amend, vary or modify this privacy statement from time to time without notice by updating this page. You should check this page from time to time to apprise yourself of any changes made. This privacy statement is effective from 23 Apr 2025.
 
 17.For any enquiries regarding this privacy statement or any requests regarding personal data, please contact the Study Team at 6389 2000.
