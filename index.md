@@ -1,32 +1,52 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: PREDICT
+description: Preventing Depression Through Research
+image: /images/2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Hero Banner/NewBanner_Move.gif
+      url: /sign-up/
+      variant: floating
+      backgroundColor: gray
+      size: md
+      title: You're invited!
+      button: JOIN US
+      key_highlights:
+        - title: What Can You Expect
+          description: Find out what you'll be doing
+          url: /procedure-overview/
+        - title: Contact Us
+          description: Reach out to our researchers
+          url: /contact-us/
+      subtitle: Begin your journey in preventing depression!
+      alignment: right
+  - infobar:
+      title: About PREDICT
+      description: "PREventing Depression: Investigation in Cohorts of its etiology
+        and Trajectory. A longitudinal study that aims to comprehensively
+        understand depression."
+      button: Learn more
+      url: /study-information/
+  - infopic:
+      title: About Depression
+      subtitle: What is Depression?
+      id: infopic
+      description: The lifetime and 12-month prevalence of depression, both globally
+        and in Singapore, have been increasing steadily.
+      button: Read more
+      url: about-depression
+      alt: Image alt text
+      image: /images/Infographics/AbtDep.gif
+  - infopic:
+      title: Discover what your participation involves
+      id: infopic
+      description: We are looking for participants to contribute to research and
+        deepen our understanding of depression.
+      button: WHAT TO EXPECT
+      url: /procedure-overview/
+      alt: Two people looking over papers
+      image: /images/Stock photos/ICF/DSC1592.jpg
 ---
-

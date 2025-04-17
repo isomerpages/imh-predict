@@ -1,15 +1,28 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo/2K_Frame_PREDICT__transparent_bg__GLOW_MODE.png
 links:
+  - title: About
+    url: /study-information/
+    sublinks:
+      - title: About the PREDICT Study
+        url: /study-information/
+      - title: Principal Investigator
+        url: /principal-investigator/
+      - title: Core-Investigators
+        url: /list-of-co-investigators/
+      - title: Study Collaborators
+        url: /study-collaborators/
+  - title: For Participants
+    collection: for-participants
+  - title: Resources
+    collection: resources
+  - title: Media Center
+    url: /media-center
+    sublinks:
+      - title: Featured Articles
+        url: /media-center/featured-articles/
+      - title: IMH Publications
+        url: /media-center/imh-publication/
+      - title: PREDICT News
+        url: /media-center/predict-news/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact-us

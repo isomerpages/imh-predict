@@ -1,0 +1,9 @@
+collections:
+  for-participants:
+    output: true
+    order:
+      - Procedure Overview.md
+      - Journey Overview.md
+      - Pre Visit Information.md
+      - Post Visit Information.md
+      - Sign Up.md
