@@ -2,6 +2,7 @@ collections:
   for-participants:
     output: true
     order:
+      - Screening.md
       - Procedures Overview.md
       - Main Interview.md
       - Journey Overview.md
