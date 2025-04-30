@@ -4,7 +4,6 @@ collections:
     order:
       - The procedures/.keep
       - Procedures Overview.md
-      - Screening.md
       - Main Interview.md
       - Journey Overview.md
       - Pre Visit Information.md
