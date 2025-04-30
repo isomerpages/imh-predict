@@ -7,7 +7,7 @@ third_nav_title: Procedures
 ---
 <h1 align="centre">Main Interview Overview</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/Main Interview.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/Main_Interview.gif">
 </div>
 <p>You will be invited to take part in the main study interview once we have confirmed your eligibility for the study.</p>
 
