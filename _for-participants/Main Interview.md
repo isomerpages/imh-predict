@@ -8,6 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/Infographics/PREDICT_Infographics_new.png">
 </div>
+<p>You will be invited to take part in the main study interview once we have confirmed your eligibility for the study.</p>
+
 
 <div class="isomer-card-grid">
 <div class="isomer-card">
