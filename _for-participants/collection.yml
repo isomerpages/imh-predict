@@ -2,6 +2,7 @@ collections:
   for-participants:
     output: true
     order:
+      - The procedures/.keep
       - Procedures Overview.md
       - Screening.md
       - Main Interview.md
