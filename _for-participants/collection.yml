@@ -2,8 +2,8 @@ collections:
   for-participants:
     output: true
     order:
-      - Screening.md
       - Procedures Overview.md
+      - Screening.md
       - Main Interview.md
       - Journey Overview.md
       - Pre Visit Information.md
