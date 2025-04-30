@@ -12,7 +12,7 @@ third_nav_title: Procedures
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/a1.jpg">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/S_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -26,7 +26,7 @@ third_nav_title: Procedures
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/a1.jpg">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/S_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ third_nav_title: Procedures
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Icons/a1.jpg">
+<img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/S_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
