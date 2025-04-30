@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Procedures Overview.md
-      - The procedures/.keep
-      - The procedures/Screening.md
-      - The procedures/Main Interview.md
+      - Procedures/.keep
+      - Procedures/Screening.md
+      - Procedures/Main Interview.md
       - Journey Overview.md
       - Pre Visit Information.md
       - Post Visit Information.md
