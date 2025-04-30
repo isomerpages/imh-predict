@@ -6,4 +6,9 @@ description: ""
 ---
 <h1>Overview of study procedures</h1>
 <p>The study involves two main procedures: 1) Screening (at the beginning); and 2) Main Interview (once per year for a total of 6 years)</p>
+
+<img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/PO_Screening.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/PO_Arrow.png">
+<img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/PO_MainInterview.jpg">
+
 <p>Please click on the respective procedures above for more information. </p>
