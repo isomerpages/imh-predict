@@ -11,6 +11,7 @@ third_nav_title: Procedures
 </div>
 <p>You will be invited to take part in the main study interview once we have confirmed your eligibility for the study.</p>
 
+<h1 align="centre">Details of each components</h1>
 
 <div class="isomer-card-grid">
 <div class="isomer-card">
