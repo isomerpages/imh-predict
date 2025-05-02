@@ -11,7 +11,7 @@ third_nav_title: Procedures
 <img style="width: 100%" height="10%" width="100%" alt="Placeholder image" src="/images/Screening.gif">
 <p>The purpose of the screening is to confirm your eligibility for the study. It can be done either online or in person. Your participation in the screening will also be compensated.</p>
 
-<h2 align="centre">Details of each components:</h2>
+<h2 align="centre">Details of each component:</h2>
 
 <div class="isomer-card-grid">
 <div class="isomer-card">
