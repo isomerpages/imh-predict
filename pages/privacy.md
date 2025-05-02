@@ -3,6 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
+<p><b>Privacy Statement</b></p>
 <p>The Preventing Depression: Investigation in cohorts of its etiology and trajectory (“PREDICT”) study is conducted by the Institute of Mental Health (“IMH”) as represented by the PREDICT study team, referred to as “Study Team”, “we”, “us”, “our” or “PREDICT” in this privacy statement.</p>
 
 <p>This privacy statement sets out how PREDICT uses and protects any information you give us when you use this website. PREDICT is committed to ensuring that your privacy is protected. Should you provide us information by which you can be identified when using this website, we will endeavour to ensure that such information is used only in accordance with this privacy statement.​ You and the Study Team will act in accordance with the Singapore Personal Data Protection Act 2012 (“PDPA”) and all subsidiary legislation related thereto, and will comply with the terms set out below in this privacy statement.</p>
