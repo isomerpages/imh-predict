@@ -13,7 +13,7 @@ description: ""
 </li>
 <li>
 <p>Please come fasting, as fasting blood draw is part of the study
-procedure. See the overview of the procedures <a href="/procedure-overview/" rel="noopener nofollow" target="_blank">here</a>.</p>
+procedure. See the overview of the procedures <a href="/procedures-overview/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Please arrive on time to minimise disruption to other participants and the study.</p>

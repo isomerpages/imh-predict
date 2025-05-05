@@ -1,13 +1,17 @@
 ---
-title: Procedure Overview
-permalink: /procedure-overview/
+title: Main Interview
+permalink: /main-interview/
 variant: markdown
 description: ""
+third_nav_title: Procedures
 ---
-<h1 align="centre">Overview of the study procedure</h1>
+<h1 align="centre">Main Interview Overview</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/Infographics/PREDICT_Infographics_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/Main_Interview.gif">
 </div>
+<p>You will be invited to take part in the main study interview once we have confirmed your eligibility for the study.</p>
+
+<h2 align="centre">Details of each component:</h2>
 
 <div class="isomer-card-grid">
 <div class="isomer-card">

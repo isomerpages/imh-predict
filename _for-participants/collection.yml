@@ -2,7 +2,10 @@ collections:
   for-participants:
     output: true
     order:
-      - Procedure Overview.md
+      - Procedures Overview.md
+      - Procedures/.keep
+      - Procedures/Screening.md
+      - Procedures/Main Interview.md
       - Journey Overview.md
       - Pre Visit Information.md
       - Post Visit Information.md
