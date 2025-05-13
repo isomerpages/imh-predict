@@ -56,5 +56,5 @@ with PHQ-9 cutoff scores of 10 or greater alone. Further research is needed
 to understand the clinical and research value of this combined approach
 to screening.</p>
 <p></p>
-<p>doi: <a href="https://cms.isomer.gov.sg/sites/imh-predict/resourceRoom/media-center/resourceCategory/featured-articles/editPage/10.1001/jama.2020.6504." rel="noopener nofollow" target="_blank">10.1001/jama.2020.6504</a>
+<p>doi: <a href="https://pubmed.ncbi.nlm.nih.gov/32515813/" rel="noopener nofollow" target="_blank">10.1001/jama.2020.6504</a>
 </p>
