@@ -39,3 +39,8 @@ comprehensive multi-site cohort study that focuses on understanding the long-ter
 progression and impact of depressive and anxiety disorders. It integrates
 biological and psychosocial research to identify predictors of these conditions’
 course and consequences.</p>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Sir Aziz Sheilk OBE" src="/images/Portraits/Profile Card Horizontal/Prof_Sir_Aziz_Sheilk_OBE.png">
+</div>
+<p><strong>Professor Sir Aziz Sheikh OBE</strong> is Nuffield Professor and Head of Primary Care Health Sciences at the University of Oxford. A leading figure in digital health, his research over two decades has focused on leveraging large-scale, linked data to inform health policy, enhance care quality, and develop personalised risk assessments. Professor Sheikh spearheaded the groundbreaking UK’s first 67-million person longitudinal cohort study. He is highly cited author, Fellow of ten learned societies, and advises global bodies like WHO. Knighted in 2022 for COVID-19 research contributions, he holds numerous international honours.</p>
