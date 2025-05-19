@@ -11,7 +11,7 @@ third_nav_title: Core Investigators
 <p><strong>Professor John Chambers </strong>is the Professor of Cardiovascular
 Epidemiology at LKCMedicine and Chief Scientific Officer at PRECISE.
 He has led several cohort studies and is currently the lead Principal Investigator of HELIOS
-and the SG100K cohort.</p>
+and the SG100K cohort. He hopes to achieve these through the research networks he has established in the region, the research platform at LKCMedicine and partner healthcare organisations. He will advise the team on study design and recruitment strategies as well as support the training of the team in assessments and storage of blood samples. </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -21,7 +21,7 @@ and the SG100K cohort.</p>
 at the Duke-NUS Medical School, and Executive Director of the Lien Centre
 for Palliative Care. Most recently, he has led studies quantifying the
 economic burden of depression and anxiety symptoms among children and adults
-in Singapore.</p>
+in Singapore. He has published over 300 manuscripts and 2 books, and also successfully commercialized an Obesity Cos Calculator for employers and insurers. He will lead the health economic component of this effort.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,11 +40,14 @@ progression and impact of depressive and anxiety disorders. It integrates
 biological and psychosocial research to identify predictors of these conditions’
 course and consequences.</p>
 
+<div class="isomer-image-wrapper">
+						<img style="width=100%" height="auto" width="100%" alt="Prof Ahmar" src="/images/Portraits/Profile Card Horizontal/Prof_Ahmar.png">
+						</div>						
+
 <p><strong>Dr. Syed Ahmar Shah</strong> is a Senior Research Fellow (Associate Professor, tenured) and Director of Innovation at the Usher Institute, University of Edinburgh. He leads the DIME group (Data-driven Innovation in MEdicine), with research focused on applying AI, machine learning, and digital health to improve healthcare delivery. His work includes the development of digital health tools for chronic disease management, as well as large-scale analysis of electronic health records and algorithm development. Trained in Biomedical Engineering (DPhil and MSc, University of Oxford), he has published over 80 peer-reviewed papers and is an inventor on two granted patents._</p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Sir Aziz Sheilk OBE" src="/images/Portraits/Profile Card Horizontal/Prof_Sir_Aziz_Sheilk_OBE.png">
 </div>
 
-<p><strong>Professor Sir Aziz Sheikh OBE</strong> is Nuffield Professor and Head of Primary Care Health Sciences at the University of Oxford. A leading figure in digital health, his research over two decades has focused on leveraging large-scale, linked data to inform health policy, enhance care quality, and develop personalised risk assessments. Professor Sheikh spearheaded the groundbreaking UK’s first 67-million person longitudinal cohort study. He is highly cited author, Fellow of ten learned societies, and advises global bodies like WHO. Knighted in 2022 for COVID-19 research contributions, he holds numerous international honours.</p>
-
+<p><strong>Professor Sir Aziz Sheikh OBE</strong> is Nuffield Professor and Head of Primary Care Health Sciences at the University of Oxford. A leading figure in digital health, his research over two decades has focused on leveraging large-scale, linked data to inform health policy, enhance care quality, and develop personalised risk assessments. He spearheaded the groundbreaking UK’s first 67-million person longitudinal cohort study. He is highly cited author, Fellow of ten learned societies, and advises global bodies like WHO. Knighted in 2022 for COVID-19 research contributions, he holds numerous international honours.</p>
