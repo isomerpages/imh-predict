@@ -46,7 +46,7 @@ sections:
       description: We are looking for participants to contribute to research and
         deepen our understanding of depression.
       button: WHAT TO EXPECT
-      url: /procedure-overview/
+      url: /procedures-overview/
       alt: Two people looking over papers
       image: /images/Stock photos/ICF/DSC1592.jpg
 ---
