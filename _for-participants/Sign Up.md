@@ -13,7 +13,7 @@ is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a00
 It will not be linked to the data you provide in the study should you
 participate in the study.
 
-You will be eligible for the study if you:
+</p><p>You will be eligible for the study if you:
 </p><ul data-tight="true" class="tight">
 <li>
 <p>Are between 18 to 75 years old</p>
