@@ -14,22 +14,9 @@ is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a00
 It will not be linked to the data you provide in the study should you
 participate in the study.</p>
 
-<p>Below are the eligibility criteria:
-</p><ul data-tight="true" class="tight">
-<li>
-<p>Are between 18 to 75 years old</p>
-</li>
-<li>
-<p>Are a Singapore citizen or permanent resident</p>
-</li>
-<li>
-<p>Can speak English, Chinese, Malay, or Tamil</p>
-</li>
-<li>
-<p>Have no symptoms of depression OR have some symptoms of depression not amounting to major depressive disorder</p>
-</li>
-</ul>
-<p></p>
+<p>Below are the eligibility criteria:</p>
+
+<img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/Inclusion_Criteria.jpg">
 
 <p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the PREDICT study.</p>
 <div class="iframe-wrapper">
