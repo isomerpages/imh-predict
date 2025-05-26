@@ -14,7 +14,7 @@ is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a00
 It will not be linked to the data you provide in the study should you
 participate in the study.</p>
 
-<p>Below are the eligibility criteria:</p>
+<p>You will be eligible for the study if you meet all of the following criteria:</p>
 
 <img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/Infographics/Inclusion_criteria.jpg">
 
