@@ -9,28 +9,19 @@ description: Sign up for the PREDICT Study
 <p>Please indicate " <strong><u>PREDICT</u> </strong>"<strong> </strong>in
 the <strong>message </strong>field to express interest. If the form below
 is not loading, you can fill it in <a href="https://form.gov.sg/61e8ac0f2ce86a0012869089" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>The information you provide will strictly be used for contacting you.
+</p>
+<p>The information you provide will strictly be used for contacting you.
 It will not be linked to the data you provide in the study should you
-participate in the study.
+participate in the study.</p>
 
-</p><p>You will be eligible for the study if you:
-</p><ul data-tight="true" class="tight">
-<li>
-<p>Are between 18 to 75 years old</p>
-</li>
-<li>
-<p>Are a Singapore citizen or permanent resident</p>
-</li>
-<li>
-<p>Can speak English, Chinese, Malay, or Tamil</p>
-</li>
-<li>
-<p>Have no symptoms of depression OR have some symptoms of depression not amounting to major depressive disorder</p>
-</li>
-</ul>
+<p>You will be eligible for the study if you meet all of the following criteria:</p>
+
+<img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/Infographics/Inclusion_criteria.jpg">
+
+<p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the PREDICT study.</p>
+
 <p></p>
 
-Thank you for your interest in participating in the PREDICT study. A member of our study team will contact you to arrange a screening session to confirm your eligibility.
 <div class="iframe-wrapper">
 <iframe style="width: 100%; height: 1700px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/61e8ac0f2ce86a0012869089"></iframe>
 </div>

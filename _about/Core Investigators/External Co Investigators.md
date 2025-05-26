@@ -44,7 +44,7 @@ course and consequences.</p>
 						<img style="width=100%" height="auto" width="100%" alt="Prof Ahmar" src="/images/Portraits/Profile Card Horizontal/Prof_Ahmar.png">
 						</div>						
 
-<p><strong>Dr. Syed Ahmar Shah</strong> is a Senior Research Fellow (Associate Professor, tenured) and Director of Innovation at the Usher Institute, University of Edinburgh. He leads the DIME group (Data-driven Innovation in MEdicine), with research focused on applying AI, machine learning, and digital health to improve healthcare delivery. His work includes the development of digital health tools for chronic disease management, as well as large-scale analysis of electronic health records and algorithm development. Trained in Biomedical Engineering (DPhil and MSc, University of Oxford), he has published over 80 peer-reviewed papers and is an inventor on two granted patents._</p>
+<p><strong>Dr. Syed Ahmar Shah</strong> is a Senior Research Fellow (Associate Professor, tenured) and Director of Innovation at the Usher Institute, University of Edinburgh. He leads the DIME group (Data-driven Innovation in MEdicine), with research focused on applying AI, machine learning, and digital health to improve healthcare delivery. His work includes the development of digital health tools for chronic disease management, as well as large-scale analysis of electronic health records and algorithm development. Trained in Biomedical Engineering (DPhil and MSc, University of Oxford), he has published over 80 peer-reviewed papers and is an inventor on two granted patents.</p>
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Sir Aziz Sheilk OBE" src="/images/Portraits/Profile Card Horizontal/Prof_Sir_Aziz_Sheilk_OBE.png">
