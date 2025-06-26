@@ -12,8 +12,9 @@ description: ""
 <p>If you or someone you know is in crisis, please contact one of the following helplines:</p>
 
 <h3 style="margin-left: 30px;">MindlineSG</h3>
-<p style="margin-left: 30px;"><strong>Tel: 6389-2222</strong></p>
-<p style="margin-left: 30px;"><strong>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></strong></p>
+<p style="margin-left: 30px;"><strong>Tel: 1711</strong></p>
+<p style="margin-left: 30px;"><strong>WhatsApp: 6669-1771</strong></p>
+<p style="margin-left: 30px;"><strong>Website: <a href="[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)">[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)</a></strong></p>
 
 <h3 style="margin-left: 30px;">Samaritans of Singapore (SOS)</h3>
 <p style="margin-left: 30px;"><strong>24-hour Hotline: 1767</strong></p>
@@ -23,19 +24,6 @@ description: ""
 <p>Below is a list of helplines and websites for those facing mental health challenges to seek help. For contact details, please click on the section below or download a copy of our Helpline Brochure below.</p>
 <p></p>
 
-<details class="isomer-details">
-<summary><h4><strong>Institute of Mental Health</strong></h4>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-
-<details class="isomer-details">
-<summary><strong>Main Hotline</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Manned by trained counsellors from IMH for those requiring advice on mental health issues</p>
-<p>Tel: 6389-2222</p>
-</div></details>	
-
-</div></details>
 
 <details class="isomer-details">
 <summary><h4><strong>National Addictions Management Service (NAMS)</strong></h4>
