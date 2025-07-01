@@ -412,5 +412,4 @@ description: ""
 	
 </div></details>
 
-<p>Click <a href="/files/predict_helpline_brochure.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download a copy of our Helpline Brochure</p>
+[Click here to download the Helpline Brochure](/files/Helpline_Brochure_PREDICT_Study__version1_3_25June2025.pdf)
