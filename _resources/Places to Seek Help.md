@@ -12,7 +12,7 @@ description: ""
 <p>If you or someone you know is in crisis, please contact one of the following helplines:</p>
 
 <h3 style="margin-left: 30px;">MindlineSG</h3>
-<p style="margin-left: 30px;"><strong>Tel: 1711</strong></p>
+<p style="margin-left: 30px;"><strong>Tel: 1771</strong></p>
 <p style="margin-left: 30px;"><strong>WhatsApp: 6669-1771</strong></p>
 <p style="margin-left: 30px;"><strong>Website: <a href="[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)">[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)</a></strong></p>
 
