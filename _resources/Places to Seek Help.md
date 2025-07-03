@@ -393,4 +393,4 @@ description: ""
 	
 </div></details>
 
-<p>Click <a href="/files/Helpline_Brochure_PREDICT_Study__version1_3_3July2025" rel="noopener nofollow" target="_blank">here</a> to download the Helpline Brochure.</p>
+<p>Click <a href="/files/Helpline_Brochure_PREDICT_Study__version1_3_3July2025.pdf" rel="noopener nofollow" target="_blank">here</a> to download the Helpline Brochure.</p>
