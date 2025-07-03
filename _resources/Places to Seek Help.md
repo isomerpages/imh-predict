@@ -12,7 +12,7 @@ description: ""
 <p>If you or someone you know is in crisis, please contact one of the following helplines:</p>
 
 <h3 style="margin-left: 30px;">MindlineSG</h3>
-<p style="margin-left: 30px;"><strong>Tel: 1711</strong></p>
+<p style="margin-left: 30px;"><strong>Tel: 1771</strong></p>
 <p style="margin-left: 30px;"><strong>WhatsApp: 6669-1771</strong></p>
 <p style="margin-left: 30px;"><strong>Website: <a href="[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)">[mindline.sg | Free Mental Health Resources &amp; Mindfulness Tools in Singapore](https://mindline.sg/fsmh)</a></strong></p>
 
@@ -25,22 +25,10 @@ description: ""
 <p></p>
 
 
-<details class="isomer-details">
-<summary><h4><strong>National Addictions Management Service (NAMS)</strong></h4>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+
 
 <details class="isomer-details">
-<summary><strong>All Addictions Helpline</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To provide support for all addiction-related issues</p>
-<p>Tel: 6-RECOVER (6-7326837)</p>
-</div></details>	
-
-</div></details>
-
-<details class="isomer-details">
-<summary><h4><strong>Hospitals</strong></h4>
+<summary><h4><strong>Hospitals General Enquires </strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 
@@ -331,14 +319,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 
-<details class="isomer-details">
-<summary><strong>Mindline</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></p>
-<p>Tel: 6389-2222</p>
-</div></details>	
-	
+
 <details class="isomer-details">
 <summary><strong>Health Promotion Board</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -412,4 +393,4 @@ description: ""
 	
 </div></details>
 
-[Click here to download the Helpline Brochure](/files/Helpline_Brochure_PREDICT_Study__version1_3_25June2025.pdf)
+<p>Click <a href="/files/Helpline_Brochure_PREDICT_Study__version1_3_3July2025.pdf" rel="noopener nofollow" target="_blank">here</a> to download the Helpline Brochure.</p>
