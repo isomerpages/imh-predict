@@ -25,22 +25,10 @@ description: ""
 <p></p>
 
 
-<details class="isomer-details">
-<summary><h4><strong>National Addictions Management Service (NAMS)</strong></h4>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+
 
 <details class="isomer-details">
-<summary><strong>All Addictions Helpline</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To provide support for all addiction-related issues</p>
-<p>Tel: 6-RECOVER (6-7326837)</p>
-</div></details>	
-
-</div></details>
-
-<details class="isomer-details">
-<summary><h4><strong>Hospitals</strong></h4>
+<summary><h4><strong>Hospitals General Enquires </strong></h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 
@@ -331,14 +319,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 
-<details class="isomer-details">
-<summary><strong>Mindline</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Website: <a href="https://www.mindline.sg/">https://www.mindline.sg/</a></p>
-<p>Tel: 6389-2222</p>
-</div></details>	
-	
+
 <details class="isomer-details">
 <summary><strong>Health Promotion Board</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
