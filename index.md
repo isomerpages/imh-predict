@@ -51,7 +51,7 @@ sections:
       image: /images/Stock photos/ICF/DSC1592.jpg
   - infocols:
       title: Hear What Our Participants Have to Say
-      subtitle: Participant's Experiences
+      subtitle: Participant's Voices
       id: infocols
       linktext: Learn more
       infoboxes:
@@ -63,7 +63,7 @@ sections:
             participate."'
   - textcards:
       title: Hear What Our Participants Have to Say
-      subtitle: Participant's Experiences
+      subtitle: Participant's Voices
       id: textcards
       cards:
         - title: Participant A
