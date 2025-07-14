@@ -2,6 +2,7 @@ collections:
   for-participants:
     output: true
     order:
+      - How To Get Here.md
       - Procedure Overview.md
       - Procedures/.keep
       - Procedures/Screening.md
