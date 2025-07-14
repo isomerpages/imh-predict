@@ -82,4 +82,5 @@ sections:
       button: Learn more
       url: /study-information/
       alt: Image alt text
+      image: /images/Infographics/Testimonial.gif
 ---
