@@ -36,3 +36,5 @@ There are multiple entrances to IMH. We recommend these two:
 
 <h2>Walking within the hospital</h2>
 Please refer to the map below for directions to Block 7, Research Office :
+
+<img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Sitemap2.gif">
