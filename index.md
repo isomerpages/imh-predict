@@ -75,4 +75,11 @@ sections:
             participate."'
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Participants' voices
+      id: infopic
+      description: Hear What Our Participants Have to Say
+      button: Learn more
+      url: /study-information/
+      alt: Image alt text
 ---
