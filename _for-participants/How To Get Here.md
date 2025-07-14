@@ -15,12 +15,19 @@ You can board the IMH shuttle bus at the taxi/drop-off point near Hougang MRT ex
 <h2>Getting to IMH by public transport</h2>
 There are multiple entrances to IMH. We recommend these two:
 <h4> Main Entrance</h4>
+<li>Alight at bus stop "Opp Block 910".</li>
+<li>Walk along the direction of traffic and turn left into the hospital.</li>
+<li>Notable bus services: 88 (from Aft Ang Mo Kio Stn exit A).</li>
+
 
 <h4> Side Gate near bus stop "Opp Block 579"</h4>
-*   Alight at bus stop "Opp Block 579".
-*   Turn right and enter the side gate on your left.
+<li>Alight at bus stop "Opp Block 579". </li>
+<li>Turn right and enter the side gate on your left.</li>
+<li>Notable bus services: 43 &amp; 43M (from Serangoon MRT station exit E)</li> 
+<h4>or</h4> 
+<li>Alight at bus stop "Block 579".</li>
+<li>Cross the overheard bridge. </li>
+<li>Walk along the direction of traffic and enter the side gate on your left. </li>
+<li>Notable bus services: 43 &amp; 43M (from Buangkok MRT station exit B) &amp; 161 (from Woodland Bus Interchange).</li>
 
-or 
-*Alight at bus stop "Block 579"
-* Cross
-
+<h2></h2>
