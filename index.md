@@ -81,6 +81,6 @@ sections:
       description: Hear what our participants have to say
       button: Learn more
       url: /study-information/
-      alt: Image alt text
+      alt: Testimonial
       image: /images/Infographics/Testimonial.gif
 ---
