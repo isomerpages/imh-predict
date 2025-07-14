@@ -30,4 +30,5 @@ There are multiple entrances to IMH. We recommend these two:
 <li>Walk along the direction of traffic and enter the side gate on your left. </li>
 <li>Notable bus services: 43 &amp; 43M (from Buangkok MRT station exit B) &amp; 161 (from Woodland Bus Interchange).</li>
 
-<h2></h2>
+<h2>Walking within the hospital</h2>
+Please refer to the map below for directions to Block 7, Research Office :
