@@ -2,7 +2,6 @@ collections:
   for-participants:
     output: true
     order:
-      - How To Get Here.md
       - Procedure Overview.md
       - Procedures/.keep
       - Procedures/Screening.md
@@ -11,3 +10,4 @@ collections:
       - Pre Visit Information.md
       - Post Visit Information.md
       - Sign Up.md
+      - How To Get Here.md
