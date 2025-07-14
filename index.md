@@ -78,7 +78,7 @@ sections:
   - infopic:
       title: Participants' voices
       id: infopic
-      description: Hear What Our Participants Have to Say
+      description: Hear what our participants have to say
       button: Learn more
       url: /study-information/
       alt: Image alt text
