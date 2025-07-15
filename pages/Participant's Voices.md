@@ -8,7 +8,7 @@ description: Page of participants testimonials, comments, reviews and such
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant A banner" src="/images/Infographics/Participant_A.png">
 </div>
-<p></p><p align="center"> We recently participated in a six-year study on the causes of depression
+ We recently participated in a six-year study on the causes of depression
 among adults in Singapore reported in the Straits Times on 22 May 2025.
 My wife, sister, and I applied and were accepted into the control group,
 after a screening process and a main interview, conveniently conducted
@@ -23,13 +23,14 @@ just a few days. They were also flexible in allowing us to complete a questionna
 about our mental/medical health and family history online instead of onsite.
 &nbsp;
 <br>Overall, our experience in applying for and participating in the study
-was smooth and proceeded at a comfortable pace.&nbsp;</p>
+was smooth and proceeded at a comfortable pace.&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant B" src="/images/Infographics/Participant_B.png">
 </div>
-<p align="center">My husband and I participated in the PREDICT research study after we chanced
+My husband and I participated in the PREDICT research study after we chanced
 upon it while googling. During our interactions with the IMH staff, we
 were very impressed by their patience and professionalism. They explained
 the study in detail and allowed us to ask questions and seek clarifications.
@@ -39,4 +40,4 @@ plus about&nbsp; participating in the study was the comprehensive blood
 test results that were provided to us, just one day after the blood was
 taken. . All in all, the overall experience was really smooth, efficient
 and seamless. We encourage everyone who qualifies for this research study
-to participate.&nbsp;</p>
+to participate.
