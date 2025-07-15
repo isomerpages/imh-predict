@@ -8,13 +8,11 @@ description: Page of participants testimonials, comments, reviews and such
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant A banner" src="/images/Infographics/Participant_A.png">
 </div>
-<p>We recently participated in a six-year study on the causes of depression
+<p></p><p align="center"> We recently participated in a six-year study on the causes of depression
 among adults in Singapore reported in the Straits Times on 22 May 2025.
 My wife, sister, and I applied and were accepted into the control group,
 after a screening process and a main interview, conveniently conducted
-via Teams. This saved us a trip to the Institute of Mental Health (IMH).&nbsp;
-<br>&nbsp;
-<br>The researchers spoke with us individually and emailed us detailed information
+via Teams. This saved us a trip to the Institute of Mental Health (IMH). <br>The researchers spoke with us individually and emailed us detailed information
 about the assessments, procedures, and consent requirements, emphasizing
 participant confidentiality. Following this, we made an onsite visit to
 provide blood samples and complete additional documentation. We particularly
@@ -24,7 +22,6 @@ were pleasantly surprised to receive our blood test results via email within
 just a few days. They were also flexible in allowing us to complete a questionnaire
 about our mental/medical health and family history online instead of onsite.
 &nbsp;
-<br>&nbsp;
 <br>Overall, our experience in applying for and participating in the study
 was smooth and proceeded at a comfortable pace.&nbsp;</p>
 <p></p>
@@ -32,7 +29,7 @@ was smooth and proceeded at a comfortable pace.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant B" src="/images/Infographics/Participant_B.png">
 </div>
-<p>My husband and I participated in the PREDICT research study after we chanced
+<p align="center">My husband and I participated in the PREDICT research study after we chanced
 upon it while googling. During our interactions with the IMH staff, we
 were very impressed by their patience and professionalism. They explained
 the study in detail and allowed us to ask questions and seek clarifications.
