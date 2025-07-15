@@ -57,29 +57,4 @@ sections:
       url: /procedures-overview/
       alt: Two people looking over papers
       image: /images/Stock photos/ICF/DSC1592.jpg
-  - infocols:
-      title: Participant's Voices
-      id: infocols
-      linktext: Read More
-      infoboxes:
-        - title: Participant A
-          description: '"...our experience in applying for and participating in the study
-            was smooth and proceeded at a comfortable pace."'
-        - title: Participant B
-          description: '"We encourage everyone who qualifies for this research study to
-            participate."'
-      url: /participant-s-voices
-  - textcards:
-      title: Participant's Voices
-      id: textcards
-      cards:
-        - title: Participant A
-          description: '"... the study was smooth and proceeded at a comfortable pace."'
-          linktext: Read more
-          url: /participant-s-voices
-        - title: Participant B
-          description: '"We encourage everyone who qualifies for this research study to
-            participate."'
-          linktext: Read more
-          url: /participant-s-voices
 ---
