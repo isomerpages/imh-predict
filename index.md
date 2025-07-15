@@ -50,10 +50,9 @@ sections:
       alt: Two people looking over papers
       image: /images/Stock photos/ICF/DSC1592.jpg
   - infocols:
-      title: Hear What Our Participants Have to Say
-      subtitle: Participant's Voices
+      title: Participant's Voices
       id: infocols
-      linktext: Learn more
+      linktext: Read More
       infoboxes:
         - title: Participant A
           description: '"...our experience in applying for and participating in the study
@@ -61,20 +60,20 @@ sections:
         - title: Participant B
           description: '"We encourage everyone who qualifies for this research study to
             participate."'
+      url: /participant-s-voices
   - textcards:
-      title: Hear What Our Participants Have to Say
-      subtitle: Participant's Voices
+      title: Participant's Voices
       id: textcards
       cards:
         - title: Participant A
           description: '"... the study was smooth and proceeded at a comfortable pace."'
-          linktext: Learn more
-          url: ""
+          linktext: Read more
+          url: /participant-s-voices
         - title: Participant B
           description: '"We encourage everyone who qualifies for this research study to
             participate."'
-          linktext: Learn more
-          url: ""
+          linktext: Read more
+          url: /participant-s-voices
   - infopic:
       title: Participants' voices
       id: infopic
