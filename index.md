@@ -79,7 +79,7 @@ sections:
       id: infopic
       description: Hear what our participants have to say
       button: Learn more
-      url: /study-information/
+      url: /participant-s-voices/
       alt: Testimonial
       image: /images/Infographics/Testimonial.gif
 ---
