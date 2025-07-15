@@ -31,6 +31,14 @@ sections:
       button: Learn more
       url: /study-information/
   - infopic:
+      title: Participants' voices
+      id: infopic
+      description: Hear what our participants have to say
+      button: Learn more
+      url: /participant-s-voices/
+      alt: Testimonial
+      image: /images/Infographics/Testimonial.gif
+  - infopic:
       title: About Depression
       subtitle: What is Depression?
       id: infopic
@@ -74,12 +82,4 @@ sections:
             participate."'
           linktext: Read more
           url: /participant-s-voices
-  - infopic:
-      title: Participants' voices
-      id: infopic
-      description: Hear what our participants have to say
-      button: Learn more
-      url: /participant-s-voices/
-      alt: Testimonial
-      image: /images/Infographics/Testimonial.gif
 ---
