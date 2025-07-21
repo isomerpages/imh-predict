@@ -23,6 +23,8 @@ There are multiple entrances to IMH. We recommend these two:
 
 <h4> Side Gate near bus stop "Opp Block 579"</h4>
 
+<img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/SideGate.jpeg">
+
 * Alight at bus stop "Opp Block 579". 
 * Turn right and enter the side gate on your left.
 * Notable bus services: 43 &amp; 43M (from Serangoon MRT station exit E). 
