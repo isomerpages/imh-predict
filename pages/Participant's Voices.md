@@ -23,10 +23,9 @@ just a few days. They were also flexible in allowing us to complete a questionna
 about our mental/medical health and family history online instead of onsite.
 &nbsp;
 <br>Overall, our experience in applying for and participating in the study
-was smooth and proceeded at a comfortable pace.&nbsp;<p></p>
-<p></p>
-<p></p>
-<p></p>
+was smooth and proceeded at a comfortable pace.<p></p>
+
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Participant B" src="/images/Infographics/Participant_B.png">
 </div>
