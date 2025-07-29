@@ -23,23 +23,21 @@ There are multiple entrances to IMH. We recommend these two:
 				<li> Walk along the direction of traffic and turn left into the hospital. </li>
 				<li> Notable bus services: 88 (from Aft Ang Mo Kio Stn exit A).</li>
 			</ul>
-
-<h4> Side Gate near bus stop "Opp Block 579"</h4>
-	<img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/SideGate.jpg">
-		<ul>
-			<li> Alight at bus stop "Opp Block 579". </li>
-			<li> Turn right and enter the side gate on your left.</li>
-			<li> Notable bus services: 43 &amp; 43M (from Serangoon MRT station exit E). </li>	</ul>
-
-<h4>or</h4>
-
-<ul>
-	<li> Alight at bus stop "Block 579". </li>
-	<li> Cross the overheard bridge. </li>
-	<li> Walk along the direction of traffic and enter the side gate on your left. </li>
-	<li> Notable bus services: 43 &amp; 43M (from Buangkok MRT station exit B) &amp; 161 (from Woodland Bus Interchange).</li>
+	<h4> Side Gate near bus stop "Opp Block 579"</h4>
+		<img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/SideGate.jpg">
+			<ul>
+				<li> Alight at bus stop "Opp Block 579". </li>
+				<li> Turn right and enter the side gate on your left.</li>
+				<li> Notable bus services: 43 &amp; 43M (from Serangoon MRT station exit E). </li>	</ul>
+	<h4>or</h4>
+	<ul>
+		<li> Alight at bus stop "Block 579". </li>
+		<li> Cross the overheard bridge. </li>
+		<li> Walk along the direction of traffic and enter the side gate on your left. </li>
+		<li> Notable bus services: 43 &amp; 43M (from Buangkok MRT station exit B) &amp; 161 (from Woodland Bus Interchange).</li>
+	</ul>
 
 <h2>Walking within the hospital</h2>
 Please refer to the map below for directions to Block 7, Research Office :
 
-<img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Sitemap2.gif"></ul></li>
+<img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Sitemap2.gif"></li>
