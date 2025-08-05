@@ -17,22 +17,22 @@ locations:
 contacts:
   - content:
       - phone: +65 6389 2000
-      - email: imhresearch@imh.com.sg
+      - email: imh.research@nhghealth.com.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6389 2579
-      - email: anitha_jeyagurunathan@imh.com.sg
+      - email: anitha.jeyagurunathan@nhghealth.com.sg
       - other: ""
     title: Ms Anitha Jeyagurunathan
   - content:
       - phone: +65 6389 2960
-      - email: yunjue_zhang@imh.com.sg
+      - email: yunjue.zhang@nhghealth.com.sg
       - other: ""
     title: Ms Zhang Yunjue
   - content:
       - phone: +65 6389 2794
-      - email: janhavi_vaingankar@imh.com.sg
+      - email: janhavi.vaingankar@nhghealth.com.sg
       - other: ""
     title: Dr Janhavi Vaingankar
 feedback: ""
