@@ -26,7 +26,7 @@ There are multiple entrances to IMH. We recommend these two:
 <ul><li> Alight at bus stop "Opp Block 579". </li>
 <li> Turn right and enter the side gate on your left.</li>
 <li> Notable bus services: 43 &amp; 43M (from Serangoon MRT station exit E). </li></ul>
-<b>or</b><p></p>
+<b>or</b>
 <ul>
 <li> Alight at bus stop "Block 579". </li>
 <li> Cross the overheard bridge. </li>
