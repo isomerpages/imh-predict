@@ -19,6 +19,3 @@ procedure. See the overview of the procedures <a href="/procedures-overview/" re
 <p>Please arrive on time to minimise disruption to other participants and the study.</p>
 </li>
 </ul>
-<h3><strong>Site Map</strong></h3>
-<img style="width: 100%" height="auto" width="100%" alt="Study Procedure" src="/images/SiteMap.gif">
-<p>Follow the <span style="color: red">red</span> dotted line if you are walking in and the <span style="color: purple">purple</span> dotted line if you are being dropped off by car.</p>
