@@ -1,7 +1,7 @@
 ---
 title: Collaborating Institutions
 permalink: /study-collaborators/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p></p>

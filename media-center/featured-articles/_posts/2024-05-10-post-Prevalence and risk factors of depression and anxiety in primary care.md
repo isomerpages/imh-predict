@@ -5,7 +5,7 @@ date: 2024-05-10
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>Prevalence and risk factors of depression and anxiety in primary care</h1>
 <h4>Yu Cong Eugene Chua, Yijun Carol Lin, Jeremy Kaiwei Lew, Sabrina Kay Wye Wong, Winnie Shok Wen Soon, Jinhui Wan, Edimansyah Abdin, Mythily Subramaniam, Wern Ee Tang, Eng Sing Lee</h4>

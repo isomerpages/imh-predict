@@ -5,7 +5,7 @@ date: 2020-06-09
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h1><strong>Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis</strong></h1>
 <h4>Brooke Levis, Ying Sun, Chen He... Daniel Fung et al.</h4>
