@@ -2,6 +2,7 @@ collections:
   istair:
     output: true
     order:
+      - Procedures/iStair Assessment.md
       - Procedures/iStair Intervention.md
       - Procedures/iStair Screening.md
       - Procedures/.keep
