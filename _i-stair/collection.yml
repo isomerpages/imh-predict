@@ -1,5 +1,5 @@
 collections:
-  istair:
+  i-stair:
     output: true
     order:
       - iStair Procedure Overview.md
