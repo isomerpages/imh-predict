@@ -2,7 +2,7 @@ collections:
   i-stair:
     output: true
     order:
-      - iStair Procedure Overview.md
+      - iSTAIR Procedure Overview.md
       - Procedures/.keep
       - Procedures/iStair Assessment.md
       - Procedures/iStair Intervention.md
