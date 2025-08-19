@@ -1,4 +1,5 @@
 collections:
   istair:
     output: true
-    order: []
+    order:
+      - iStair Procedure Overview.md
