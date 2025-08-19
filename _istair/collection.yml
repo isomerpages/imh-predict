@@ -2,4 +2,5 @@ collections:
   istair:
     output: true
     order:
+      - Procedures/.keep
       - iStair Procedure Overview.md
