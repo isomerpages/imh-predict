@@ -2,6 +2,7 @@ collections:
   i-stair:
     output: true
     order:
+      - Journey Overview.md
       - iSTAIR Procedure Overview.md
       - ISTAIR Procedures/.keep
       - ISTAIR Procedures/iStair Screening.md
