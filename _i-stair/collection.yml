@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - iSTAIR Procedure Overview.md
-      - I STAIR Procedures/.keep
-      - I STAIR Procedures/iStair Screening.md
-      - I STAIR Procedures/iStair Intervention.md
-      - I STAIR Procedures/iStair Assessment.md
+      - ISTAIR Procedures/.keep
+      - ISTAIR Procedures/iStair Screening.md
+      - ISTAIR Procedures/iStair Intervention.md
+      - ISTAIR Procedures/iStair Assessment.md
       - iSTAIR Journey Overview.md
       - iStair Sign Up.md
