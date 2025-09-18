@@ -89,38 +89,20 @@ over 8 consecutive weeks.</li>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Questionnaire</div>
-<div class="isomer-card-description">The questionnaires will gather information about your mental health (e.g.,
-depression and PTSD symptoms, emotion dysregulation), social and occupational
-functioning, and positive factors that support well-being (e.g., interpersonal
-skills and social support). All responses will be collected through an
-online platform.</div>
+<div class="isomer-card-description">The questionnaires will gather information about your mental health (e.g., depression and PTSD symptoms, emotion dysregulation), social and occupational functioning, and positive factors that support well-being (e.g., interpersonal skills and social support). All responses will be collected through an online platform.</div>
 </div>
 </div>
 </div>
 
-
-<p><u>Follow-Up Assessment Overview</u>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You will be invited to take part in 3 follow-up assessments at Week 4
-(mid-intervention), Week 8 (post-intervention), and Week 20 (3-months post-intervention).</p>
-</li>
-</ul>
-<p>Questionnaire:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The questionnaires will gather information about your mental health (e.g.,
-depression and PTSD symptoms, emotion dysregulation), social and occupational
-functioning, and positive factors that support well-being (e.g., interpersonal
-skills and social support). All responses will be collected through an
-online platform.</p>
-</li>
-</ul>
-<p>End of follow-up assessment:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At the end of each follow-up assessment, you will receive an inconvenience
-fee as specified in the informed consent form.</p>
-</li>
-</ul>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">End of follow-up assessment</div>
+<div class="isomer-card-description">At the end of each follow-up assessment, you will receive an inconvenience fee as specified in the informed consent form.</div>
+</div>
+</div>
+</div>
