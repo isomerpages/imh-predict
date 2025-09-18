@@ -9,7 +9,7 @@ description: ""
 
 <p>Please click on the respective procedures below for more information. </p>
 
-<a href="/screening/"><img style="width: 100%; box-shadow: 0 0 20px 10px rgba(0, 0 ,0, 0.2)" height="auto" width="100%" alt="schedule_blue" src="/images/PO_Screening.jpg"></a>
+<a href="/screening/"><img style="width: 100%; box-shadow: 0 0 20px 10px rgba(0, 0 ,0, 0.2)" height="auto" width="100%" alt="schedule_blue" src="/images/ISTAIR/Procedures_overview.jpg"></a>
 
 <p>The study involves four main procedures.</p>
 <p><u>Screening</u>
