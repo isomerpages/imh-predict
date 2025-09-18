@@ -5,6 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: ISTAIR Procedures
 ---
+<h1>Screening Overview</h1>
+
+<a href="/screening/"><img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Screening.jpg"></a>
+
+<p>The study involves two main procedures: 1) Screening (at the beginning); and 2) Main study (lasting 20 weeks)</p>
+
 <p>NHG DSRB Ref: 2024-3342</p>
 <p>Internet-delivered Skills Training in Affective and Interpersonal Regulation
 (i-STAIR) for individuals with adverse childhood experiences and subsyndromal
