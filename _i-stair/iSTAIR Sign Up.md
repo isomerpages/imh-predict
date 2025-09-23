@@ -12,23 +12,27 @@ description: ""
 
 <h4>Inclusion criteria:</h4>
 <ul data-tight="true" class="tight">
-<p>1. Singapore citizens or permanent residents (PRs)</p>
-<p>2. Aged 21 years to 65 years</p>
-<p>3. Able to speak and understand English</p>
-<p>4. Willing and able to undergo intervention and assessment online</p>
-<p>5. Exposed to at least mild severity of any adverse childhood experiences (ACEs) on the Childhood Trauma Questionnaire</p>
-<p>6. Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</p>
-<p>7. Screened negative for major depression in the past 12 months</p>
+<ol>
+<li>Singapore citizens or permanent residents (PRs)</li>
+<li>Aged 21 years to 65 years</li>
+<li>Able to speak and understand English</li>
+<li>Willing and able to undergo intervention and assessment online</li>
+<li>Exposed to at least mild severity of any adverse childhood experiences (ACEs) on the Childhood Trauma Questionnaire</li>
+<li>Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</li>
+<li>Screened negative for major depression in the past 12 months</li>
+</ol>
 </ul>
 
 
 <h4>Exclusion criteria:</h4>
 <ul data-tight="true" class="tight">
-<p>1.   Currently diagnosed with any mental disorder</p>
-<p>2.   Currently experiencing cognitive impairment as determined by attending physician</p>
-<p>3.   Have received or currently receiving dialectical behavior therapy (DBT)</p>
-<p>4.   Female participants who are pregnant</p>
-<p>5.   Currently enrolled in the main PREDICT study</p>
+<ol>
+<li> Currently diagnosed with any mental disorder</li>
+<li>Currently experiencing cognitive impairment as determined by attending physician</li>
+<li>Have received or currently receiving dialectical behavior therapy (DBT)</li>
+<li>Female participants who are pregnant</li>
+<li>Currently enrolled in the main PREDICT study</li>
+</ol>
 </ul>
 
 <h2>Self Screening Tool</h2>
