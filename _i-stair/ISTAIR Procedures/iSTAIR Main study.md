@@ -64,7 +64,10 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 
-<div class="isomer-card-description"><li>You will be randomized into either the active group (i.e., free online intervention to improve emotion regulation and interpersonal skills) or control group (i.e., free online psychoeducation about improving mental health).</li>
+<div class="isomer-card-description">
+<ul data-tight="true" class="tight">
+<ol>
+<li>You will be randomized into either the active group (i.e., free online intervention to improve emotion regulation and interpersonal skills) or control group (i.e., free online psychoeducation about improving mental health).</li>
 
 <li>One-to-one online intervention sessions are conducted on Microsoft Teams or Zoom.</li>
 	
@@ -72,7 +75,8 @@ third_nav_title: ISTAIR Procedures
 over 8 consecutive weeks.</li>
 	
 <li>Weekly in-session and homework activities will be assigned.</li>
-	
+</ol>
+</ul>
 </div>
 </div>
 </div>
