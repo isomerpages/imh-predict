@@ -7,7 +7,7 @@ third_nav_title: ISTAIR Procedures
 ---
 <h1>Main Study Overview</h1>
 
-<a href="/screening/"><img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Main_Intervention.jpg"></a>
+<img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Main_Intervention.jpg">
 
 <p>You will be invited to take part in the main study once we have confirmed your eligibility for the study. There are 3 main components in the main study.</p>
 
