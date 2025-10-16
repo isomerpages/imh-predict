@@ -6,6 +6,17 @@ description: ""
 ---
 <h1>How to Sign Up</h1>
 <p>If you are interested to take part in the study, do contact our research team at the following contact details:</p>
+
+<p> Ms. Celeste Tan </p>
+<p>6389 3609</p>
+
+[celeste.minn.tan@nhghealth.com.sg](mailto:celeste.minn.tan@nhghealth.com.sg)
+
+Dr. Liu Jianlin
+
+6389 3627
+
+[jianlinliu@nhghealth.com.sg](mailto:jianlinliu@nhghealth.com.sg)<p></p>
 	
 <h1></h1>
 <p>You will be eligible for the study if you meet all of the following criteria:</p>
