@@ -22,7 +22,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Consent Taking</div>
-<div class="isomer-card-description">You will be provided with the purpose, procedures and risk of the baseline assessment process and some information about the study. You will be given time to ask question about the screening and the study itself before providing your consent.</div>
+<div class="isomer-card-description">You will be provided with the purpose, procedures and risk of the baseline assessment process and some information about the study. You will be given time to ask question about the baseline assessment and the study itself before providing your consent.</div>
 </div>
 </div>
 </div>
@@ -36,7 +36,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Questionnaire and Interview</div>
-<div class="isomer-card-description">This screening will involve gathering information mainly on your childhood events and mental health states to confirm your eligibility based the study’s inclusion and exclusion criteria.</div>
+<div class="isomer-card-description">This baseline assessment will involve gathering information mainly on your childhood events and mental health states.</div>
 </div>
 </div>
 </div>
