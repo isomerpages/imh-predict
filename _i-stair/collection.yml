@@ -2,7 +2,7 @@ collections:
   i-stair:
     output: true
     order:
-      - iSTAIR Procedure Overview.md
+      - About iSTAIR.md
       - ISTAIR Procedures/.keep
       - ISTAIR Procedures/iSTAIR Screening.md
       - ISTAIR Procedures/iSTAIR Main study.md
