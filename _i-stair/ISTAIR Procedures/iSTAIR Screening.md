@@ -7,7 +7,7 @@ third_nav_title: ISTAIR Procedures
 ---
 <h1>Screening Overview</h1>
 
-<a href="/screening/"><img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Screening.jpg"></a>
+<img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Screening.jpg">
 
 <p>The purpose of the screening is to confirm your eligibility for the study. It can be done either online or in person. Your participation in the screening will also be compensated.</p>
 
