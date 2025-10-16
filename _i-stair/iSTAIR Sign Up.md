@@ -34,10 +34,8 @@ description: ""
 <li style="font-size: 16px;">Singapore citizens or permanent residents (PRs)</li>
 <li style="font-size: 16px;">Aged 21 years to 65 years</li>
 <li style="font-size: 16px;">Able to speak and understand English</li>
-<li style="font-size: 16px;">Willing and able to undergo intervention and assessment online</li>
-<li style="font-size: 16px;">Exposed to at least mild severity of any adverse childhood experiences (ACEs) on the Childhood Trauma Questionnaire</li>
-<li style="font-size: 16px;">Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</li>
-<li style="font-size: 16px;">Screened negative for major depression in the past 12 months</li>
+<li style="font-size: 16px;">Met criteria for adverse childhood expereinces and subsynfromal depression</li>
+<li style="font-size: 16px;">Not currently diagnosed with any mental disorder</li>
 </ol>
 </ul></div>
 </div>
