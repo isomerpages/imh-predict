@@ -16,10 +16,10 @@ description: ""
 <p style="margin:0"> <a href="mailto:jianlinliu@nhghealth.com.sg">  jianlinliu@nhghealth.com.sg</a></p>
 
 	
-<h1></h1>
+
 <p>You will be eligible for the study if you meet all of the following criteria:</p>
 
-<h4>Inclusion criteria:</h4>
+<h4 style="margin:0">Inclusion criteria:</h4>
 <ul data-tight="true" class="tight">
 <ol>
 <li>Singapore citizens or permanent residents (PRs)</li>
