@@ -20,9 +20,18 @@ description: ""
 <p>You will be eligible for the study if you meet all of the following criteria:</p>
 
 <h4 style="margin:0">Inclusion criteria:</h4>
-<ul data-tight="true" class="tight">
+
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description"><ul data-tight="true" class="tight">
 <ol>
-<li>Singapore citizens or permanent residents (PRs)</li>
+<li style="font-size: 16 px;">Singapore citizens or permanent residents (PRs)</li>
 <li>Aged 21 years to 65 years</li>
 <li>Able to speak and understand English</li>
 <li>Willing and able to undergo intervention and assessment online</li>
@@ -30,7 +39,11 @@ description: ""
 <li>Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</li>
 <li>Screened negative for major depression in the past 12 months</li>
 </ol>
-</ul>
+</ul></div>
+</div>
+</div>
+</div>
+
 
 
 <h4>Exclusion criteria:</h4>
