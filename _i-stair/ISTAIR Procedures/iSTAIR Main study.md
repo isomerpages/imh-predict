@@ -69,12 +69,12 @@ third_nav_title: ISTAIR Procedures
 <ol>
 <li style="font-size: 16px;">You will be randomized into either the active group (i.e., free online intervention to improve emotion regulation and interpersonal skills) or control group (i.e., free online psychoeducation about improving mental health).</li>
 
-<li>One-to-one online intervention sessions are conducted on Microsoft Teams or Zoom.</li>
+<li style="font-size: 16px;">One-to-one online intervention sessions are conducted on Microsoft Teams or Zoom.</li>
 	
-<li>Each session will be about 60 mins and the intervention will be conducted
+<li style="font-size: 16px;">Each session will be about 60 mins and the intervention will be conducted
 over 8 consecutive weeks.</li>
 	
-<li>Weekly in-session and homework activities will be assigned.</li>
+<li style="font-size: 16px;">Weekly in-session and homework activities will be assigned.</li>
 </ol>
 </ul>
 </div>
