@@ -19,7 +19,7 @@ description: ""
 
 <p>You will be eligible for the study if you meet all of the following criteria:</p>
 
-<h4 style="margin:0">Inclusion criteria:</h4>
+<h3 style="margin:0">Inclusion criteria:</h3>
 
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -31,31 +31,42 @@ description: ""
 <div class="isomer-card-title"></div>
 <div class="isomer-card-description"><ul data-tight="true" class="tight">
 <ol>
-<li style="font-size: 16 px;">Singapore citizens or permanent residents (PRs)</li>
-<li>Aged 21 years to 65 years</li>
-<li>Able to speak and understand English</li>
-<li>Willing and able to undergo intervention and assessment online</li>
-<li>Exposed to at least mild severity of any adverse childhood experiences (ACEs) on the Childhood Trauma Questionnaire</li>
-<li>Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</li>
-<li>Screened negative for major depression in the past 12 months</li>
+<li style="font-size: 16px;">Singapore citizens or permanent residents (PRs)</li>
+<li style="font-size: 16px;">Aged 21 years to 65 years</li>
+<li style="font-size: 16px;">Able to speak and understand English</li>
+<li style="font-size: 16px;">Willing and able to undergo intervention and assessment online</li>
+<li style="font-size: 16px;">Exposed to at least mild severity of any adverse childhood experiences (ACEs) on the Childhood Trauma Questionnaire</li>
+<li style="font-size: 16px;">Screened positive for subsyndromal depression on the Patient Health Questionnaire-9 (scores 5 to 9, both inclusive)</li>
+<li style="font-size: 16px;">Screened negative for major depression in the past 12 months</li>
 </ol>
 </ul></div>
 </div>
 </div>
 </div>
 
+<h3 style="margin:0">Exclusion criteria:</h3>
 
-
-<h4>Exclusion criteria:</h4>
-<ul data-tight="true" class="tight">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description"><ul data-tight="true" class="tight">
 <ol>
-<li> Currently diagnosed with any mental disorder</li>
-<li>Currently experiencing cognitive impairment as determined by attending physician</li>
-<li>Have received or currently receiving dialectical behavior therapy (DBT)</li>
-<li>Female participants who are pregnant</li>
-<li>Currently enrolled in the main PREDICT study</li>
+<li style="font-size: 16px;"> Currently diagnosed with any mental disorder</li>
+<li style="font-size: 16px;">Currently experiencing cognitive impairment as determined by attending physician</li>
+<li style="font-size: 16px;">Have received or currently receiving dialectical behavior therapy (DBT)</li>
+<li style="font-size: 16px;">Female participants who are pregnant</li>
+<li style="font-size: 16px;">Currently enrolled in the main PREDICT study</li>
 </ol>
-</ul>
+</ul></div>
+</div>
+</div>
+</div>
+
 
 <h2>Self Screening Tool</h2>
 <p>You may use the following form to do a preliminary check for your eligibility before contacting us:  </p>
