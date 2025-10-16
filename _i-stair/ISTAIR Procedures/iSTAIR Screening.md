@@ -35,7 +35,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Questionnaire and Interview</div>
-<div class="isomer-card-description">This screening will involve gathering information mainly on your childhood events and mental health states to confirm your eligibility based the study’s inclusion and exclusion criteria.</div>
+<div class="isomer-card-description">This screening will involve gathering information mainly on your childhood events and mental health states to confirm your eligibility based on the study’s inclusion and exclusion criteria.</div>
 </div>
 </div>
 </div>
@@ -49,7 +49,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">End of Screening</div>
-<div class="isomer-card-description">At the end of the screening, you will receive an inconvenience for your time and you will be informed of your eligibility for the study. You may choose to take part in the baseline assessment on the same day or schedule the baseline assessment on another day at your convenience.</div>
+<div class="isomer-card-description">At the end of the screening, you will receive an inconvenience fee for your time and you will be informed of your eligibility for the study. You may choose to take part in the baseline assessment on the same day or schedule the baseline assessment on another day at your convenience.</div>
 </div>
 </div>
 </div>
