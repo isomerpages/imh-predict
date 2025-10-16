@@ -50,7 +50,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">End of Screening</div>
-<div class="isomer-card-description">At the end of the screening, you will receive an inconvenience for your time and you will be informed of your eligibility for the study. You may choose to take part in the baseline assessment on the same day or schedule the baseline assessment on another day at your convenience.</div>
+<div class="isomer-card-description">At the end of the baseline assessment, you will receive an inconvenience fee for your time. We will schedule your first online intervention session once you have completed the baseline assessment</div>
 </div>
 </div>
 </div>
