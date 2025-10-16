@@ -21,7 +21,7 @@ third_nav_title: ISTAIR Procedures
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Consent Taking</div>
-<div class="isomer-card-description">You will be provided with the purpose, procedures and risk of the screening process and some information about the study. You will be given time to ask question about the screening and the study itself before providing your consent.</div>
+<div class="isomer-card-description">You will be provided with information about the study such as the purpose, procedures and risk of the screening process. You will be given time to ask question about the screening and the study itself before providing your consent.</div>
 </div>
 </div>
 </div>
