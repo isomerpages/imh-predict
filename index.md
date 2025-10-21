@@ -33,6 +33,13 @@ sections:
         understand depression."
       button: Learn more
       url: /study-information/
+  - infobar:
+      title: About iSTAIR
+      id: infobar
+      description: A pilot evaluation of iSTAIR (Internet-delivered Skills Training in
+        Affective and Interpersonal Regulation).
+      button: Learn more
+      url: /istair-about-procedure-overview/
   - resources:
       title: What's New
       id: resources
@@ -55,13 +62,4 @@ sections:
       url: about-depression
       alt: Image alt text
       image: /images/Infographics/AbtDep.gif
-  - infopic:
-      title: Discover what your participation involves
-      id: infopic
-      description: We are looking for participants to contribute to research and
-        deepen our understanding of depression.
-      button: WHAT TO EXPECT
-      url: /procedures-overview/
-      alt: Two people looking over papers
-      image: /images/Stock photos/ICF/DSC1592.jpg
 ---
