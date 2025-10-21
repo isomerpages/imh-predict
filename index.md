@@ -15,9 +15,12 @@ sections:
       title: You're invited!
       button: JOIN US
       key_highlights:
-        - title: What Can You Expect
-          description: Find out what you'll be doing
+        - title: PREDICT Study
+          description: Learn about the study
           url: /procedures-overview/
+        - title: iStair
+          description: Explore this new intervention
+          url: /istair-about-procedure-overview/
         - title: Contact Us
           description: Reach out to our researchers
           url: /contact-us/
