@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: ISTAIR Procedures
 ---
-<h1>Main Study Overview</h1>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I STAIR/iStair_Banner.png"><h1>Main Study Overview</h1>
 
-<img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Main_Intervention.jpg">
+<img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Main_Study_Duplicate.png">
 
 <p>You will be invited to take part in the main study once we have confirmed your eligibility for the study. There are 3 main components in the main study.</p>
 
