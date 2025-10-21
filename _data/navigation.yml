@@ -13,8 +13,10 @@ links:
         url: /study-collaborators/
       - title: Participant's Voices
         url: /participant-s-voices/
-  - title: For Participants
+  - title: PREDICT
     collection: for-participants
+  - title: i-Stair
+    collection: i-stair
   - title: Resources
     collection: resources
   - title: Media Center
@@ -26,7 +28,5 @@ links:
         url: /media-center/imh-publication/
       - title: PREDICT News
         url: /media-center/predict-news/
-  - title: i-Stair
-    collection: i-stair
   - title: Contact Us
     url: /contact-us
