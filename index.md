@@ -30,6 +30,10 @@ sections:
         understand depression."
       button: Learn more
       url: /study-information/
+  - resources:
+      title: What's New
+      id: resources
+      button: More News
   - infopic:
       title: Participants' voices
       id: infopic
