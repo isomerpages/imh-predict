@@ -4,6 +4,7 @@ permalink: /i-stair-sign-up/
 variant: markdown
 description: ""
 ---
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I STAIR/iStair_Banner.png">
 <h1>How to Sign Up</h1>
 <p>If you are interested to take part in the study, do contact our research team at the following contact details:</p>
 
