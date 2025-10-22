@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: ISTAIR Procedures
 ---
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I STAIR/iStair_Banner.png">
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/I STAIR/iSTAIRBanner.jpg">
 <h1>Main Study Overview</h1>
 
 <img style="width: 100%.2)" height="auto" width="100%" alt="schedule_blue" src="/images/I STAIR/Main_Study_Duplicate.png">
