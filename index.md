@@ -7,25 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/NewBanner_Move.gif
-      url: /sign-up/
+      background: /images/Hero Banner/NewHeroBanner.gif
       variant: floating
       backgroundColor: gray
       size: md
       title: You're invited!
-      button: JOIN US
-      key_highlights:
-        - title: PREDICT Study
-          description: Learn about the study
-          url: /procedures-overview/
-        - title: iStair
-          description: Explore this new intervention
-          url: /istair-about-procedure-overview/
-        - title: Contact Us
-          description: Reach out to our researchers
-          url: /contact-us/
       subtitle: Begin your journey in preventing depression!
       alignment: right
+      dropdown:
+        title: Join Us
+        options:
+          - title: PREDICT Cohort Study
+            url: jd
+          - title: i-STAIR
+            url: ds
   - infobar:
       title: About PREDICT
       description: "PREventing Depression: Investigation in Cohorts of its etiology
