@@ -20,7 +20,7 @@ sections:
           - title: PREDICT Cohort Study
             url: /sign-up/
           - title: i-STAIR
-            url: ds
+            url: /i-stair-sign-up/
   - infobar:
       title: About PREDICT
       description: "PREventing Depression: Investigation in Cohorts of its etiology
