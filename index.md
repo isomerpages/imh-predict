@@ -18,7 +18,7 @@ sections:
         title: Join Us
         options:
           - title: PREDICT Cohort Study
-            url: jd
+            url: /sign-up/
           - title: i-STAIR
             url: ds
   - infobar:
