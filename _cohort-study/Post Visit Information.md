@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 <img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
-<hr>
 <h1>Things to take note of after the visit</h1>
 <p>Following the end of the visit, you will receive:</p>
 <ul data-tight="true" class="tight">
