@@ -21,6 +21,16 @@ sections:
             url: /sign-up/
           - title: i-STAIR Study
             url: /i-stair-sign-up/
+  - infopic:
+      title: About Depression
+      subtitle: What is Depression?
+      id: infopic
+      description: The lifetime and 12-month prevalence of depression, both globally
+        and in Singapore, have been increasing steadily.
+      button: Read more
+      url: about-depression
+      alt: Image alt text
+      image: /images/Infographics/AbtDep.gif
   - infobar:
       title: About PREDICT
       description: "PREventing Depression: Investigation in Cohorts of its etiology
@@ -53,14 +63,4 @@ sections:
       url: /participant-s-voices/
       alt: Testimonial
       image: /images/Infographics/Testimonial.gif
-  - infopic:
-      title: About Depression
-      subtitle: What is Depression?
-      id: infopic
-      description: The lifetime and 12-month prevalence of depression, both globally
-        and in Singapore, have been increasing steadily.
-      button: Read more
-      url: about-depression
-      alt: Image alt text
-      image: /images/Infographics/AbtDep.gif
 ---
