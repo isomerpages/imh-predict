@@ -13,9 +13,9 @@ links:
         url: /study-collaborators/
       - title: Participant's Voices
         url: /participant-s-voices/
-  - title: PREDICT
+  - title: PREDICT (Cohort)
     collection: for-participants
-  - title: i-Stair
+  - title: PREDICT (i-Stair)
     collection: i-stair
   - title: Resources
     collection: resources
