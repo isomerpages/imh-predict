@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/NewHeroBanner.gif
+      background: /images/Hero Banner/NewHeroBanner.jpg
       variant: floating
       backgroundColor: gray
       size: md
