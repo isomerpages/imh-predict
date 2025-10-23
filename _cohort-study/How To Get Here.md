@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 <img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
-<hr>
 <h1>Making you way to IMH</h1>
 There are a number of ways you can get to IMH. 
 <h2>Getting to IMH by Shuttle Bus</h2>
