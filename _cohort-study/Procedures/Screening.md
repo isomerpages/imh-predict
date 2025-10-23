@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Procedures
 ---
 <img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
-<hr>
 <h1>Screening Overview</h1>
 
 
