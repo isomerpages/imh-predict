@@ -8,15 +8,14 @@ description: ""
 
 <h1>How to Sign Up</h1>
 
-<p>Please indicate " <strong><u>PREDICT</u> </strong>"<strong> </strong>in
-the <strong>message </strong>field to express interest. If the form below
+You may sign up for the study by filling up the form below. If the form below
 is not loading, you can fill it in <a href="https://form.gov.sg/68f1eae17e4139bef4474951" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-</p>
+<p></p>
 <p>The information you provide will strictly be used for contacting you.
 It will not be linked to the data you provide in the study should you
 participate in the study.</p>
 
-<p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the PREDICT study.</p>
+<p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the i-STAIR study.</p>
 
 <p></p>
 
@@ -27,8 +26,7 @@ participate in the study.</p>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
 
-	
-
+<h1>Study Eligibility </h1>
 <p>You will be eligible for the study if you meet all of the following criteria:</p>
 
 <h3 style="margin:0">Inclusion criteria:</h3>
