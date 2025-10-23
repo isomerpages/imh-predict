@@ -19,7 +19,7 @@ sections:
         options:
           - title: PREDICT Cohort Study
             url: /sign-up/
-          - title: i-STAIR
+          - title: i-Stair Study
             url: /i-stair-sign-up/
   - infobar:
       title: About PREDICT
