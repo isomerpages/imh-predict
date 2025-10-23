@@ -28,13 +28,19 @@ sections:
         understand depression."
       button: Learn more
       url: /study-information/
-  - infobar:
-      title: About iSTAIR
-      id: infobar
-      description: A pilot evaluation of iSTAIR (Internet-delivered Skills Training in
-        Affective and Interpersonal Regulation).
-      button: Learn more
-      url: /istair-about-procedure-overview/
+  - textcards:
+      title: About the Studies
+      id: textcards
+      cards:
+        - title: About the PREDICT Cohort Study
+          description: A longitudinal study that aims to comprehensively understand
+            depression.
+          linktext: Learn more
+          url: /procedures-overview/
+        - title: About the PREDICT i-STAIR Study
+          description: A pilot evaluation of iSTAIR intervention.
+          linktext: Learn more
+          url: ""
   - resources:
       title: What's New
       id: resources
