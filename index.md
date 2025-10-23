@@ -15,7 +15,7 @@ sections:
       subtitle: Begin your journey in preventing depression!
       alignment: right
       dropdown:
-        title: Join Us
+        title: Select Study Here
         options:
           - title: PREDICT Cohort Study
             url: /sign-up/
