@@ -40,7 +40,7 @@ sections:
         - title: About the PREDICT i-STAIR Study
           description: A pilot evaluation of iSTAIR intervention.
           linktext: Learn more
-          url: ""
+          url: /istair-about-procedure-overview/
   - resources:
       title: What's New
       id: resources
