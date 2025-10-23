@@ -36,7 +36,7 @@ sections:
           description: A longitudinal study that aims to comprehensively understand
             depression.
           linktext: Learn more
-          url: /procedures-overview/
+          url: /cohort-overview/
         - title: About the PREDICT i-STAIR Study
           description: A pilot evaluation of iSTAIR intervention.
           linktext: Learn more
