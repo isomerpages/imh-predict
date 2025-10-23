@@ -1,5 +1,5 @@
 collections:
-  for-participants:
+  cohort-study:
     output: true
     order:
       - Procedure Overview.md
