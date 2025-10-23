@@ -4,6 +4,8 @@ permalink: /sign-up/
 variant: markdown
 description: Sign up for the PREDICT Study
 ---
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
+<hr>
 <h1>How to sign up</h1>
 
 <p>Please indicate " <strong><u>PREDICT</u> </strong>"<strong> </strong>in
