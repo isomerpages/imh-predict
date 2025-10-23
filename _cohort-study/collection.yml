@@ -2,7 +2,7 @@ collections:
   cohort-study:
     output: true
     order:
-      - Procedure Overview.md
+      - About PREDICT Cohort Study.md
       - Procedures/.keep
       - Procedures/Screening.md
       - Procedures/Main Interview.md
