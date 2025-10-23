@@ -4,6 +4,8 @@ permalink: /pre-visit-information/
 variant: markdown
 description: ""
 ---
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
+<hr>
 <h1>Things to take note of before coming down for your study visit</h1>
 <p></p>
 <p></p>
