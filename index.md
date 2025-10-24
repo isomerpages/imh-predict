@@ -23,7 +23,6 @@ sections:
             url: /i-stair-sign-up/
   - infopic:
       title: About PREDICT
-      subtitle: Add an image and text
       id: infopic
       description: "PREventing Depression: Investigation in Cohorts of its etiology
         and Trajectory. A longitudinal study that aims to comprehensively
