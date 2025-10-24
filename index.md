@@ -22,22 +22,16 @@ sections:
           - title: i-STAIR Study
             url: /i-stair-sign-up/
   - infopic:
-      title: About Depression
-      subtitle: What is Depression?
-      id: infopic
-      description: The lifetime and 12-month prevalence of depression, both globally
-        and in Singapore, have been increasing steadily.
-      button: Read more
-      url: about-depression
-      alt: Image alt text
-      image: /images/Infographics/AbtDep.gif
-  - infobar:
       title: About PREDICT
+      subtitle: Add an image and text
+      id: infopic
       description: "PREventing Depression: Investigation in Cohorts of its etiology
         and Trajectory. A longitudinal study that aims to comprehensively
         understand depression."
       button: Learn more
       url: /study-information/
+      image: /images/AbtPredict.gif
+      alt: Image alt text
   - textcards:
       title: About the Studies
       id: textcards
@@ -51,6 +45,16 @@ sections:
           description: A pilot evaluation of iSTAIR intervention.
           linktext: Learn more
           url: /istair-about-procedure-overview/
+  - infopic:
+      title: About Depression
+      subtitle: What is Depression?
+      id: infopic
+      description: The lifetime and 12-month prevalence of depression, both globally
+        and in Singapore, have been increasing steadily.
+      button: Read more
+      url: about-depression
+      alt: Image alt text
+      image: /images/Infographics/AbtDep.gif
   - resources:
       title: What's New
       id: resources
