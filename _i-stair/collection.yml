@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - About iSTAIR.md
-      - ISTAIR Procedures/.keep
-      - ISTAIR Procedures/iSTAIR Screening.md
-      - ISTAIR Procedures/iSTAIR Main study.md
+      - I STAIR Procedures/.keep
+      - I STAIR Procedures/iSTAIR Screening.md
+      - I STAIR Procedures/iSTAIR Main study.md
       - iSTAIR Journey Overview.md
       - iSTAIR Sign Up.md
