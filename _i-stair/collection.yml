@@ -4,7 +4,7 @@ collections:
     order:
       - About.md
       - Procedures/.keep
-      - Procedures/i STAIR Screening.md
+      - Procedures/Screening.md
       - Procedures/i STAIR Main study.md
       - iSTAIR Journey Overview.md
       - iSTAIR Sign Up.md
