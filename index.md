@@ -20,7 +20,7 @@ sections:
           - title: PREDICT Cohort Study
             url: /sign-up/
           - title: i-STAIR Study
-            url: /i-stair-sign-up/
+            url: /istair-sign-up/
   - infopic:
       title: About PREDICT
       id: infopic
