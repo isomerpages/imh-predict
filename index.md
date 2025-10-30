@@ -7,37 +7,43 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/NewBanner_Move.gif
-      url: /sign-up/
+      background: /images/Hero Banner/NewHeroBanner.jpg
       variant: floating
       backgroundColor: gray
       size: md
       title: You're invited!
-      button: JOIN US
-      key_highlights:
-        - title: What Can You Expect
-          description: Find out what you'll be doing
-          url: /procedures-overview/
-        - title: Contact Us
-          description: Reach out to our researchers
-          url: /contact-us/
       subtitle: Begin your journey in preventing depression!
       alignment: right
-  - infobar:
+      dropdown:
+        title: Select Study Here
+        options:
+          - title: PREDICT Cohort Study
+            url: /sign-up/
+          - title: i-STAIR Study
+            url: /i-stair-sign-up/
+  - infopic:
       title: About PREDICT
+      id: infopic
       description: "PREventing Depression: Investigation in Cohorts of its etiology
         and Trajectory. A longitudinal study that aims to comprehensively
         understand depression."
       button: Learn more
       url: /study-information/
-  - infopic:
-      title: Participants' voices
-      id: infopic
-      description: Hear what our participants have to say
-      button: Learn more
-      url: /participant-s-voices/
-      alt: Testimonial
-      image: /images/Infographics/Testimonial.gif
+      image: /images/AbtPredict.gif
+      alt: Image alt text
+  - textcards:
+      title: About the Studies
+      id: textcards
+      cards:
+        - title: About the PREDICT Cohort Study
+          description: A longitudinal study that aims to comprehensively understand
+            depression.
+          linktext: Learn more
+          url: /cohort-overview/
+        - title: About the PREDICT i-STAIR Study
+          description: A pilot evaluation of iSTAIR intervention.
+          linktext: Learn more
+          url: /istair-about-procedure-overview/
   - infopic:
       title: About Depression
       subtitle: What is Depression?
@@ -48,13 +54,16 @@ sections:
       url: about-depression
       alt: Image alt text
       image: /images/Infographics/AbtDep.gif
+  - resources:
+      title: What's New
+      id: resources
+      button: More News
   - infopic:
-      title: Discover what your participation involves
+      title: Participants' voices
       id: infopic
-      description: We are looking for participants to contribute to research and
-        deepen our understanding of depression.
-      button: WHAT TO EXPECT
-      url: /procedures-overview/
-      alt: Two people looking over papers
-      image: /images/Stock photos/ICF/DSC1592.jpg
+      description: Hear what our participants have to say
+      button: Learn more
+      url: /participant-s-voices/
+      alt: Testimonial
+      image: /images/Infographics/Testimonial.gif
 ---

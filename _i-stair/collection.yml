@@ -1,0 +1,10 @@
+collections:
+  i-stair:
+    output: true
+    order:
+      - About.md
+      - Procedures/.keep
+      - Procedures/Screening.md
+      - Procedures/Main study.md
+      - Journey Overview.md
+      - Sign Up.md

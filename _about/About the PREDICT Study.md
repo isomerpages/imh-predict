@@ -4,6 +4,9 @@ permalink: /study-information/
 variant: markdown
 description: ""
 ---
+<h1><strong>The PREDICT Study</strong></h1>
+<p>The PREDICT Study is a research project comprising of 3 different studies.</p>
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/Umbrella.png">
 <h2><strong>Study Goals</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/About_Us_Pastel_v2.png">

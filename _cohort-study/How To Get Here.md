@@ -4,6 +4,7 @@ permalink: /how-to-get-here/
 variant: markdown
 description: ""
 ---
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
 <h1>Making you way to IMH</h1>
 There are a number of ways you can get to IMH. 
 <h2>Getting to IMH by Shuttle Bus</h2>
@@ -11,8 +12,7 @@ There are a number of ways you can get to IMH.
 <li> You can board the IMH shuttle bus at the taxi/drop-off point near Hougang MRT exit C</li>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/2_1000017046.jpg">
 <li> Take note that only 12 people are able to board the shuttle bus at any given time. It is shared between patients, staff and visitors of IMH. </li>
-<img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/3_1000017047.jpg">
-<li> Please see here for details on shuttle bus timings/intervals. </li>
+
 
 <h2>Getting to IMH by public transport</h2>
 There are multiple entrances to IMH. We recommend these two:

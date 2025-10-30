@@ -1,9 +1,10 @@
 ---
-title: Procedure Overview
-permalink: /procedures-overview/
+title: About PREDICT Cohort Study
+permalink: /cohort-overview/
 variant: markdown
 description: ""
 ---
+<img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
 <h1>Overview of study procedures</h1>
 <p>The study involves two main procedures: 1) Screening (at the beginning); and 2) Main Interview (once per year for a total of 6 years)</p>
 
