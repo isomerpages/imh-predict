@@ -24,7 +24,7 @@ description: ""
 <li style="font-size: 16px;">Singapore citizens or permanent residents (PRs)</li>
 <li style="font-size: 16px;">Aged 21 years to 65 years</li>
 <li style="font-size: 16px;">Able to speak and understand English</li>
-<li style="font-size: 16px;">Met criteria for adverse childhood expereinces and subsynfromal depression</li>
+<li style="font-size: 16px;">Met criteria for adverse childhood expereinces and subsyndromal depression</li>
 <li style="font-size: 16px;">Not currently diagnosed with any mental disorder</li>
 </ol>
 </ul></div>
