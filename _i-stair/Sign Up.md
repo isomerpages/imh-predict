@@ -26,6 +26,7 @@ description: ""
 <li style="font-size: 16px;">Able to speak and understand English</li>
 <li style="font-size: 16px;">Met criteria for adverse childhood expereinces and subsyndromal depression</li>
 <li style="font-size: 16px;">Not currently diagnosed with any mental disorder</li>
+	<li style="font-size: 16px;">Willing and able to undergo assessment and intervention online</li>
 </ol>
 </ul></div>
 </div>
