@@ -7,7 +7,7 @@ description: ""
 <img style="width: 100%)" height="auto" width="100%" alt="" src="/images/Infographics/CohortBanner.jpg">
 <h1>Making you way to IMH</h1>
 There are a number of ways you can get to IMH. 
-<h2>Getting to IMH by Shuttle Bus</h2>
+<h2>Getting to IMH by Shuttle Bus (Available)</h2>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Bus_Shuttle.jpg">
 <h2></h2>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/1_1000017045.jpg">
