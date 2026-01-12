@@ -8,7 +8,7 @@ description: ""
 <h1>Making you way to IMH</h1>
 There are a number of ways you can get to IMH. 
 <h2>Getting to IMH by Shuttle Bus</h2>
-<img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Shuttle_Bus.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Bus_Shuttle.jpg">
 <h2></h2>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/1_1000017045.jpg">
 <li> You can board the IMH shuttle bus at the taxi/drop-off point near Hougang MRT exit C.</li>
