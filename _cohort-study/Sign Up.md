@@ -19,7 +19,7 @@ participate in the study.</p>
 
 <img style="width: 100%" height="auto" width="100%" alt="schedule_blue" src="/images/Infographics/Inclusion_criteria.jpg">
 
-<p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the PREDICT study.</p>
+<p>A member of our study team will contact you to arrange a screening session to confirm your eligibility. Thank you for your interest in participating in the PREDICT study. Do check your spam inbox for our reply email.</p>
 
 <p></p>
 
