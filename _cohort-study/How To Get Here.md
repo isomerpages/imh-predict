@@ -11,7 +11,7 @@ There are a number of ways you can get to IMH.
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/Bus_Shuttle.jpg">
 <h2></h2>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/1_1000017045.jpg">
-<li> You can board the IMH shuttle bus at the taxi/drop-off point near Hougang MRT exit C.</li>
+<li> You can board the IMH shuttle bus at the taxi/drop-off point near Hougang MRT exit B.</li>
 <img style="width: 60%" height="auto" width="100%" alt="pastel v2" src="/images/Infographics/2_1000017046.jpg">
 <li> Take note that only 12 people are able to board the shuttle bus at any given time. It is shared between patients, staff and visitors of IMH. </li>
 
